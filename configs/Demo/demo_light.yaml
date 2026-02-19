@@ -1,0 +1,41 @@
+dataset: 'scannet'
+sync_method: loose
+coarse: True
+verbose: False
+meshing:
+  resolution: 64         # FAST: Significantly faster than 128/256
+tracking:
+  vis_freq: 200
+  vis_inside_freq: 100
+  ignore_edge_W: 20
+  ignore_edge_H: 20
+  seperate_LR: False
+  const_speed_assumption: True
+  lr: 0.001              # SPEED: Slightly higher learning rate to converge faster
+  pixels: 200            # FAST: Only sampling 200 rays (Massive speedup)
+  iters: 10              # FAST: Minimum iterations to stay tracked
+mapping:
+  every_frame: 30        # FAST: Only update the map every 30 frames
+  vis_freq: 200
+  vis_inside_freq: 100
+  mesh_freq: 200
+  ckpt_freq: 500
+  keyframe_every: 60
+  mapping_window_size: 3 # FAST: Only keep 3 frames in VRAM
+  pixels: 300            # FAST: Essential for passing Frame 0 on 6GB VRAM
+  iters_first: 30        # SPEED: Dropped from 400 to 30. Frame 0 will finish in seconds.
+  iters: 5               # FAST: Minimum mapping iterations
+  bound: [[0.0,6.5],[0.0,4.0],[0,3.5]]
+  marching_cubes_bound: [[0.0,6.5],[0.0,4.0],[0,3.5]]
+cam: 
+  H: 240                 # SPEED: Half-resolution (320x240)
+  W: 320
+  fx: 288.79             # Remember to half the focal lengths too!
+  fy: 289.36
+  cx: 159.45
+  cy: 121.34
+  png_depth_scale: 1000. 
+  crop_edge: 5
+data:
+  input_folder: Datasets/Demo
+  output: output/Demo
