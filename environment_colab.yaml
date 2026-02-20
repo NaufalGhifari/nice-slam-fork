@@ -1,4 +1,4 @@
-name: nice
+name: nice-slam-colab
 channels:
   - pytorch
   - nvidia
