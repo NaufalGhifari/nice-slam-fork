@@ -17,6 +17,8 @@ dependencies:
   - pillow=9.0.1
   - pyembree
   - pip
+  - libtiff=4.2.0
+  - mkl=2021.4.0
   - pip:
       - mathutils==2.81.2
       - open3d==0.13.0
@@ -29,3 +31,5 @@ dependencies:
       - scipy==1.7.3
       - colorama==0.4.4
       - gdown==4.4.0
+      - pandas
+      - scikit-image==0.19.2
