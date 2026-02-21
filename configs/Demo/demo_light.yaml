@@ -1,7 +1,7 @@
 dataset: 'scannet'
 sync_method: loose
 coarse: True
-verbose: False
+verbose: True
 meshing:
   resolution: 64         # FAST: Significantly faster than 128/256
 tracking:
@@ -27,7 +27,8 @@ mapping:
   iters: 5               # FAST: Minimum mapping iterations
   bound: [[0.0,6.5],[0.0,4.0],[0,3.5]]
   marching_cubes_bound: [[0.0,6.5],[0.0,4.0],[0,3.5]]
-cam: 
+cam:
+  num_workers: 0
   H: 240                 # SPEED: Half-resolution (320x240)
   W: 320
   fx: 288.79             # Remember to half the focal lengths too!
