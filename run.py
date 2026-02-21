@@ -7,6 +7,7 @@ import torch
 from src import config
 from src.NICE_SLAM import NICE_SLAM
 
+print(f"\n# DEBUG: Statement inside run.py")
 
 def setup_seed(seed):
     torch.manual_seed(seed)
@@ -17,6 +18,7 @@ def setup_seed(seed):
 
 
 def main():
+    print(f"\n# DEBUG: Statement inside run.main()")
     # setup_seed(20)
 
     parser = argparse.ArgumentParser(
