@@ -3,6 +3,12 @@ import random
 
 import numpy as np
 import torch
+import torch.multiprocessing as mp
+try:
+    mp.set_start_method('spawn', force=True)
+except RuntimeError:
+    pass
+
 
 from src import config
 from src.NICE_SLAM import NICE_SLAM
