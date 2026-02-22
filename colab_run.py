@@ -37,18 +37,18 @@ def main():
     # ==========================================
     # 🚨 COLAB SURVIVAL OVERRIDES (MANDATORY) 🚨
     # ==========================================
-    # 1. Kill the RAM-spiking background workers
-    if 'cam' in cfg:
+    # 1. Kill the RAM-spiking background workers safely
+    if 'cam' in cfg and isinstance(cfg['cam'], dict):
         cfg['cam']['num_workers'] = 0
-    if 'dataset' in cfg:
+    if 'dataset' in cfg and isinstance(cfg['dataset'], dict):
         cfg['dataset']['num_workers'] = 0
         
-    # 2. Force the logs to prove it's iterating
-    if 'mapping' in cfg:
+    # 2. Force the logs to prove it's iterating safely
+    if 'mapping' in cfg and isinstance(cfg['mapping'], dict):
         cfg['mapping']['no_log_on_first_frame'] = False
         cfg['mapping']['iters_first'] = 50 
         
-    if 'tracking' in cfg:
+    if 'tracking' in cfg and isinstance(cfg['tracking'], dict):
         cfg['tracking']['no_log_on_first_frame'] = False
         
     cfg['verbose'] = True
