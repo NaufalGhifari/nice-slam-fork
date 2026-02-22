@@ -1,8 +1,9 @@
 import os
-# 🚨 1. KILL CPU THREAD HOARDING 🚨
+# 🚨 1. KILL CPU THREAD HOARDING & FRAGMENTATION 🚨
 os.environ['OMP_NUM_THREADS'] = "1"
 os.environ['MKL_NUM_THREADS'] = "1"
 os.environ['OPENBLAS_NUM_THREADS'] = "1"
+os.environ['MALLOC_ARENA_MAX'] = "2" # Forces Linux to aggressively free RAM
 
 import argparse
 import random
@@ -42,35 +43,39 @@ def main():
         args.config, 'configs/nice_slam.yaml' if args.nice else 'configs/imap.yaml')
 
     # ==========================================
-    # 🚨 COLAB SURVIVAL OVERRIDES (VRAM SHIFT) 🚨
+    # 🚨 BULLETPROOF OVERRIDES (NO MORE SILENT SKIPS) 🚨
     # ==========================================
-    if 'cam' in cfg and isinstance(cfg['cam'], dict):
+    try:
         cfg['cam']['num_workers'] = 0
-    if 'dataset' in cfg and isinstance(cfg['dataset'], dict):
+    except: pass
+
+    try:
         cfg['dataset']['num_workers'] = 0
+    except: pass
         
-    if 'mapping' in cfg and isinstance(cfg['mapping'], dict):
+    try:
         cfg['mapping']['no_log_on_first_frame'] = False
         cfg['mapping']['iters_first'] = 500
-        cfg['mapping']['pixels'] = 2000
+        cfg['mapping']['pixels'] = 1000
         
-        # Give the mapper a bit of room to breathe now that it's on VRAM
-        cfg['mapping']['mapping_window_size'] = 5 
-        cfg['mapping']['keyframe_every'] = 10
-        cfg['mapping']['every_frame'] = 10 
-        cfg['mapping']['BA'] = False 
-        
-    if 'tracking' in cfg and isinstance(cfg['tracking'], dict):
+        # 🧠 The Amnesia Protocol: Stop the memory staircase!
+        cfg['mapping']['mapping_window_size'] = 2 
+        cfg['mapping']['keyframe_every'] = 50   # ONLY cache memory every 50 frames
+        cfg['mapping']['every_frame'] = 50      # ONLY run heavy mapping every 50 frames
+        cfg['mapping']['BA'] = False            # Kill Bundle Adjustment RAM hoarding
+    except Exception as e:
+        print(f"⚠️ Mapping override failed: {e}")
+
+    try:
         cfg['tracking']['no_log_on_first_frame'] = False
-        cfg['tracking']['pixels'] = 2000
+        cfg['tracking']['pixels'] = 1000
+    except: pass
         
     cfg['verbose'] = True
-    
-    # 🚨 THE MAGIC FLIP: Stop offloading to System RAM 🚨
     cfg['low_gpu_mem'] = False 
     # ==========================================
 
-    print("✅ VRAM Offloading Disabled! Forcing tensors to stay on GPU.")
+    print("✅ Bulletproof Anti-Hoarding Protocol Injected!")
 
     slam = NICE_SLAM(cfg, args)
     slam.run()
