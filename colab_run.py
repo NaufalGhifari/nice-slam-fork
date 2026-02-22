@@ -44,7 +44,7 @@ def main():
         args.config, 'configs/nice_slam.yaml' if args.nice else 'configs/imap.yaml')
 
     # ==========================================
-    # 🚨 COLAB SURVIVAL OVERRIDES (MANDATORY) 🚨
+    # 🚨 COLAB SURVIVAL OVERRIDES (BALANCED) 🚨
     # ==========================================
     if 'cam' in cfg and isinstance(cfg['cam'], dict):
         cfg['cam']['num_workers'] = 0
@@ -53,14 +53,21 @@ def main():
         
     if 'mapping' in cfg and isinstance(cfg['mapping'], dict):
         cfg['mapping']['no_log_on_first_frame'] = False
-        cfg['mapping']['iters_first'] = 50
-        cfg['mapping']['pixels'] = 1000
-        # 🚨 3. SHRINK THE SHARED MEMORY QUEUE 🚨
+        
+        # 🧠 1. Build a solid starting room (Will take ~2-3 minutes on Frame 0)
+        cfg['mapping']['iters_first'] = 500 
+        
+        # 🧠 2. Give it enough rays to see the walls clearly
+        cfg['mapping']['pixels'] = 2000 
+        
+        # 🧠 3. Map more frequently so the Tracker doesn't drive off the edge
+        cfg['mapping']['every_frame'] = 10 
+        
         cfg['mapping']['mapping_window_size'] = 2 
         
     if 'tracking' in cfg and isinstance(cfg['tracking'], dict):
         cfg['tracking']['no_log_on_first_frame'] = False
-        cfg['tracking']['pixels'] = 1000
+        cfg['tracking']['pixels'] = 2000 # Give the tracker more rays to see
         
     cfg['verbose'] = True
     cfg['low_gpu_mem'] = True
