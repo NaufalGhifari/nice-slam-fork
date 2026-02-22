@@ -55,6 +55,15 @@ def main():
         cfg['tracking']['no_log_on_first_frame'] = False
         
     cfg['verbose'] = True
+    
+    # 3. Memory Starvation Fixes (Prevent the OOM Killer)
+    if 'tracking' in cfg and isinstance(cfg['tracking'], dict):
+        cfg['tracking']['pixels'] = 1000 # Down from 5000 to save RAM/VRAM
+    
+    if 'mapping' in cfg and isinstance(cfg['mapping'], dict):
+        cfg['mapping']['pixels'] = 1000 # Down from 5000
+        
+    cfg['low_gpu_mem'] = True # Forces PyTorch to aggressively clear cache
     # ==========================================
 
     print("✅ Colab Survival Overrides Injected successfully!")
