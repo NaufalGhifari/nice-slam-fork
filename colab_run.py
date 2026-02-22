@@ -77,9 +77,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-"""
-
-with open('run.py', 'w') as f:
-    f.write(new_run_py)
-
-print("✅ run.py successfully patched for GPU VRAM utilization.")
