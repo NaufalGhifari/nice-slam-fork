@@ -1,12 +1,19 @@
+import os
+# 🚨 1. KILL CPU THREAD HOARDING BEFORE PYTORCH LOADS 🚨
+os.environ['OMP_NUM_THREADS'] = "1"
+os.environ['MKL_NUM_THREADS'] = "1"
+os.environ['OPENBLAS_NUM_THREADS'] = "1"
+
 import argparse
 import random
 import numpy as np
 import torch
 import torch.multiprocessing as mp
 
-print("DEBUG: Inside colab_run.py")
+# 🚨 2. FORCE PYTORCH TO ONLY USE 1 CPU STAGING THREAD 🚨
+torch.set_num_threads(1)
 
-# 1. Force Colab-safe multiprocessing
+# Force Colab-safe multiprocessing
 try:
     mp.set_start_method('spawn', force=True)
 except RuntimeError:
@@ -23,7 +30,6 @@ def setup_seed(seed):
     torch.backends.cudnn.deterministic = True
 
 def main():
-    print("DEBUG: Inside main() colab_run.py")
     parser = argparse.ArgumentParser(description='Arguments for running the NICE-SLAM/iMAP*.')
     parser.add_argument('config', type=str, help='Path to config file.')
     parser.add_argument('--input_folder', type=str, help='input folder')
@@ -40,33 +46,27 @@ def main():
     # ==========================================
     # 🚨 COLAB SURVIVAL OVERRIDES (MANDATORY) 🚨
     # ==========================================
-    # 1. Kill the RAM-spiking background workers safely
     if 'cam' in cfg and isinstance(cfg['cam'], dict):
         cfg['cam']['num_workers'] = 0
     if 'dataset' in cfg and isinstance(cfg['dataset'], dict):
         cfg['dataset']['num_workers'] = 0
         
-    # 2. Force the logs to prove it's iterating safely
     if 'mapping' in cfg and isinstance(cfg['mapping'], dict):
         cfg['mapping']['no_log_on_first_frame'] = False
-        cfg['mapping']['iters_first'] = 50 
+        cfg['mapping']['iters_first'] = 50
+        cfg['mapping']['pixels'] = 1000
+        # 🚨 3. SHRINK THE SHARED MEMORY QUEUE 🚨
+        cfg['mapping']['mapping_window_size'] = 2 
         
     if 'tracking' in cfg and isinstance(cfg['tracking'], dict):
         cfg['tracking']['no_log_on_first_frame'] = False
+        cfg['tracking']['pixels'] = 1000
         
     cfg['verbose'] = True
-    
-    # 3. Memory Starvation Fixes (Prevent the OOM Killer)
-    if 'tracking' in cfg and isinstance(cfg['tracking'], dict):
-        cfg['tracking']['pixels'] = 1000 # Down from 5000 to save RAM/VRAM
-    
-    if 'mapping' in cfg and isinstance(cfg['mapping'], dict):
-        cfg['mapping']['pixels'] = 1000 # Down from 5000
-        
-    cfg['low_gpu_mem'] = True # Forces PyTorch to aggressively clear cache
+    cfg['low_gpu_mem'] = True
     # ==========================================
 
-    print("✅ Colab Survival Overrides Injected successfully!")
+    print("✅ Strict Single-Thread CPU Staging Injected!")
 
     slam = NICE_SLAM(cfg, args)
     slam.run()
