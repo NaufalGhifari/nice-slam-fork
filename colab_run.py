@@ -1,5 +1,5 @@
 import os
-# 🚨 1. KILL CPU THREAD HOARDING BEFORE PYTORCH LOADS 🚨
+# 🚨 1. KILL CPU THREAD HOARDING 🚨
 os.environ['OMP_NUM_THREADS'] = "1"
 os.environ['MKL_NUM_THREADS'] = "1"
 os.environ['OPENBLAS_NUM_THREADS'] = "1"
@@ -10,10 +10,8 @@ import numpy as np
 import torch
 import torch.multiprocessing as mp
 
-# 🚨 2. FORCE PYTORCH TO ONLY USE 1 CPU STAGING THREAD 🚨
 torch.set_num_threads(1)
 
-# Force Colab-safe multiprocessing
 try:
     mp.set_start_method('spawn', force=True)
 except RuntimeError:
@@ -44,7 +42,7 @@ def main():
         args.config, 'configs/nice_slam.yaml' if args.nice else 'configs/imap.yaml')
 
     # ==========================================
-    # 🚨 COLAB SURVIVAL OVERRIDES (BALANCED) 🚨
+    # 🚨 COLAB SURVIVAL OVERRIDES (VRAM SHIFT) 🚨
     # ==========================================
     if 'cam' in cfg and isinstance(cfg['cam'], dict):
         cfg['cam']['num_workers'] = 0
@@ -53,30 +51,35 @@ def main():
         
     if 'mapping' in cfg and isinstance(cfg['mapping'], dict):
         cfg['mapping']['no_log_on_first_frame'] = False
+        cfg['mapping']['iters_first'] = 500
+        cfg['mapping']['pixels'] = 2000
         
-        # 🧠 1. Build a solid starting room (Will take ~2-3 minutes on Frame 0)
-        cfg['mapping']['iters_first'] = 500 
-        
-        # 🧠 2. Give it enough rays to see the walls clearly
-        cfg['mapping']['pixels'] = 2000 
-        
-        # 🧠 3. Map more frequently so the Tracker doesn't drive off the edge
+        # Give the mapper a bit of room to breathe now that it's on VRAM
+        cfg['mapping']['mapping_window_size'] = 5 
+        cfg['mapping']['keyframe_every'] = 10
         cfg['mapping']['every_frame'] = 10 
-        
-        cfg['mapping']['mapping_window_size'] = 2 
+        cfg['mapping']['BA'] = False 
         
     if 'tracking' in cfg and isinstance(cfg['tracking'], dict):
         cfg['tracking']['no_log_on_first_frame'] = False
-        cfg['tracking']['pixels'] = 2000 # Give the tracker more rays to see
+        cfg['tracking']['pixels'] = 2000
         
     cfg['verbose'] = True
-    cfg['low_gpu_mem'] = True
+    
+    # 🚨 THE MAGIC FLIP: Stop offloading to System RAM 🚨
+    cfg['low_gpu_mem'] = False 
     # ==========================================
 
-    print("✅ Strict Single-Thread CPU Staging Injected!")
+    print("✅ VRAM Offloading Disabled! Forcing tensors to stay on GPU.")
 
     slam = NICE_SLAM(cfg, args)
     slam.run()
 
 if __name__ == '__main__':
     main()
+"""
+
+with open('run.py', 'w') as f:
+    f.write(new_run_py)
+
+print("✅ run.py successfully patched for GPU VRAM utilization.")
