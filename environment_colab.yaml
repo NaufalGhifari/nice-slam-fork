@@ -33,3 +33,4 @@ dependencies:
       - gdown==4.4.0
       - pandas
       - scikit-image==0.19.2
+      - rtree==0.9.7

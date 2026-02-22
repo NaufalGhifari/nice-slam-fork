@@ -31,3 +31,4 @@ dependencies:
       - pyyaml==6.0
       - gdown==4.4.0
       - mathutils=2.81.2
+      - rtree==0.9.7
