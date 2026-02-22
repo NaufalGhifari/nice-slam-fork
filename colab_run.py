@@ -38,21 +38,23 @@ def main():
     # 🚨 COLAB SURVIVAL OVERRIDES (MANDATORY) 🚨
     # ==========================================
     # 1. Kill the RAM-spiking background workers
-    if hasattr(cfg, 'cam'):
-        cfg.cam.num_workers = 0
-    if hasattr(cfg, 'dataset'):
-        cfg.dataset.num_workers = 0
+    if 'cam' in cfg:
+        cfg['cam']['num_workers'] = 0
+    if 'dataset' in cfg:
+        cfg['dataset']['num_workers'] = 0
         
     # 2. Force the logs to prove it's iterating
-    cfg.mapping.no_log_on_first_frame = False
-    cfg.tracking.no_log_on_first_frame = False
-    cfg.verbose = True
-    
-    # 3. Drop Frame 0 workload so it finishes in seconds, not hours
-    cfg.mapping.iters_first = 50 
+    if 'mapping' in cfg:
+        cfg['mapping']['no_log_on_first_frame'] = False
+        cfg['mapping']['iters_first'] = 50 
+        
+    if 'tracking' in cfg:
+        cfg['tracking']['no_log_on_first_frame'] = False
+        
+    cfg['verbose'] = True
     # ==========================================
 
-    print("✅ Colab Survival Overrides Injected!")
+    print("✅ Colab Survival Overrides Injected successfully!")
 
     slam = NICE_SLAM(cfg, args)
     slam.run()
