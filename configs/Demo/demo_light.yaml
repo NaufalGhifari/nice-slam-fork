@@ -39,4 +39,4 @@ cam:
   crop_edge: 5
 data:
   input_folder: "/content/Datasets/Demo"
-  output: "/content/drive/MyDrive/S2 FASILKOM UI/SM Naufal MIK/Repositories"
+  output: "/content/outputs/Demo"
