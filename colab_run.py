@@ -4,6 +4,8 @@ import numpy as np
 import torch
 import torch.multiprocessing as mp
 
+print("DEBUG: Inside colab_run.py")
+
 # 1. Force Colab-safe multiprocessing
 try:
     mp.set_start_method('spawn', force=True)
@@ -21,6 +23,7 @@ def setup_seed(seed):
     torch.backends.cudnn.deterministic = True
 
 def main():
+    print("DEBUG: Inside main() colab_run.py")
     parser = argparse.ArgumentParser(description='Arguments for running the NICE-SLAM/iMAP*.')
     parser.add_argument('config', type=str, help='Path to config file.')
     parser.add_argument('--input_folder', type=str, help='input folder')
