@@ -32,6 +32,8 @@ class NICE_SLAM():
         self.coarse = cfg['coarse']
         self.occupancy = cfg['occupancy']
         self.low_gpu_mem = cfg['low_gpu_mem']
+        print(f"[CONFIG] low_gpu_mem = {self.low_gpu_mem}", flush=True)
+        print(f"[CONFIG] full cfg dump: { {k: v for k, v in cfg.items() if not isinstance(v, dict)} }", flush=True)
         self.verbose = cfg['verbose']
         self.dataset = cfg['dataset']
         self.coarse_bound_enlarge = cfg['model']['coarse_bound_enlarge']
