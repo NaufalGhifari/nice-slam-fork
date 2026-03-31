@@ -35,8 +35,8 @@ class Mapper(object):
         self.output = slam.output
         self.verbose = slam.verbose
         self.renderer = slam.renderer
-        print(f"[MAPPER] low_gpu_mem branch hit: {self.low_gpu_mem}", flush=True)
         self.low_gpu_mem = slam.low_gpu_mem
+        print(f"[MAPPER] "slam.low_gpu_mem": {slam.low_gpu_mem}: | low_gpu_mem branch hit: {self.low_gpu_mem}", flush=True)
         self.mapping_idx = slam.mapping_idx
         self.mapping_cnt = slam.mapping_cnt
         self.decoders = slam.shared_decoders

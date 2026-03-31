@@ -35,8 +35,9 @@ class Tracker(object):
         self.shared_c = slam.shared_c
         self.renderer = slam.renderer
         self.gt_c2w_list = slam.gt_c2w_list
-        print(f"[TRACKER] low_gpu_mem branch hit: {self.low_gpu_mem}", flush=True)
+        
         self.low_gpu_mem = slam.low_gpu_mem
+        print(f"[TRACKER] "slam.low_gpu_mem": {slam.low_gpu_mem}| low_gpu_mem branch hit: {self.low_gpu_mem}", flush=True)
         self.mapping_idx = slam.mapping_idx
         self.mapping_cnt = slam.mapping_cnt
         self.shared_decoders = slam.shared_decoders
