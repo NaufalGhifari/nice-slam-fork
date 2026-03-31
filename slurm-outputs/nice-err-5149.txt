@@ -1,0 +1,4 @@
+WARNING: nv files may not be bound with --writable
+WARNING: --writable applies to temporary sandbox only, changes will not be written to the original image.
+INFO:    Converting SIF file to temporary sandbox...
+[2026-03-15T00:37:30.329] error: *** JOB 5149 ON dgx1 CANCELLED AT 2026-03-15T00:37:30 DUE to SIGNAL Terminated ***

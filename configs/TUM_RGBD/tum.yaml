@@ -14,8 +14,8 @@ tracking:
   const_speed_assumption: True
   gt_camera: False
   lr: 0.01     
-  pixels: 5000
-  iters: 200
+  pixels: 2000 # default: 5000
+  iters: 100 # default: 200
 mapping:
   every_frame: 1
   vis_freq: 50
@@ -24,8 +24,8 @@ mapping:
   ckpt_freq: 500
   keyframe_every: 50
   mapping_window_size: 10
-  pixels: 5000
-  iters_first: 1500
+  pixels: 2000 # default: 5000
+  iters_first: 1000 # default: 1500
   iters: 60
 
 cam:  #NOTE: intrinsic is different per scene in TUM

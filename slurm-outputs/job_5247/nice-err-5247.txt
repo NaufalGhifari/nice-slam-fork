@@ -1,0 +1,5 @@
+[W CudaIPCTypes.cpp:15] Producer process has been terminated before all shared CUDA tensors released. See Note [Sharing CUDA tensors]
+
+real	1497m14.341s
+user	3647m52.504s
+sys	2080m22.707s

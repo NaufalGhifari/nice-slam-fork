@@ -1,0 +1,6682 @@
+INFO: The output folder is output/TUM_RGBD/rgbd_dataset_freiburg1_desk
+INFO: The GT, generated and residual depth/color images can be found under output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/ and output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/
+INFO: The mesh can be found under output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mesh/
+INFO: The checkpoint can be found under output/TUM_RGBD/rgbd_dataset_freiburg1_desk/ckpt/
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  0
+[0m
+[35m
+Tracking Frame  1
+[0m
+Re-rendering loss: 22360.66->21787.13 camera tensor error: 0.0064->0.0134
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  2
+[0m
+Re-rendering loss: 20636.58->12271.67 camera tensor error: 0.0100->0.0130
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  3
+[0m
+Re-rendering loss: 18707.21->12971.05 camera tensor error: 0.0048->0.0085
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  4
+[0m
+Re-rendering loss: 16732.88->13010.66 camera tensor error: 0.0085->0.0107
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  5
+[0m
+Re-rendering loss: 15113.61->13654.03 camera tensor error: 0.3109->0.3117
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  6
+[0m
+Re-rendering loss: 16993.32->14853.58 camera tensor error: 0.0073->0.0069
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  7
+[0m
+Re-rendering loss: 16190.50->15071.17 camera tensor error: 0.0071->0.0084
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  8
+[0m
+Re-rendering loss: 15104.90->15333.73 camera tensor error: 0.0068->0.0069
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  9
+[0m
+Re-rendering loss: 15694.14->14993.98 camera tensor error: 0.0080->0.0080
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  10
+[0m
+Re-rendering loss: 18023.91->16710.04 camera tensor error: 0.0055->0.0060
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  11
+[0m
+Re-rendering loss: 18748.02->15865.55 camera tensor error: 0.0050->0.0057
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  12
+[0m
+Re-rendering loss: 22638.41->16383.29 camera tensor error: 0.0056->0.0061
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  13
+[0m
+Re-rendering loss: 19929.27->17085.82 camera tensor error: 0.0054->0.0053
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  14
+[0m
+Re-rendering loss: 19194.24->17814.06 camera tensor error: 0.0051->0.0043
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  15
+[0m
+Re-rendering loss: 20200.27->16127.78 camera tensor error: 0.0041->0.0050
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  16
+[0m
+Re-rendering loss: 20036.62->18060.70 camera tensor error: 0.0044->0.0043
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  17
+[0m
+Re-rendering loss: 26288.38->18123.05 camera tensor error: 0.0045->0.0043
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  18
+[0m
+Re-rendering loss: 23924.64->17443.52 camera tensor error: 0.0064->0.0061
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  19
+[0m
+Re-rendering loss: 16992.39->15965.12 camera tensor error: 0.0054->0.0059
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  20
+[0m
+Re-rendering loss: 20612.38->15007.48 camera tensor error: 0.0068->0.0059
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  21
+[0m
+Re-rendering loss: 22114.72->15159.02 camera tensor error: 0.0066->0.0073
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  22
+[0m
+Re-rendering loss: 16466.83->15120.32 camera tensor error: 0.0076->0.0069
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  23
+[0m
+Re-rendering loss: 16418.19->16395.03 camera tensor error: 0.0069->0.0089
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  24
+[0m
+Re-rendering loss: 20095.96->15550.80 camera tensor error: 0.0111->0.0107
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  25
+[0m
+Re-rendering loss: 20565.72->14070.44 camera tensor error: 0.0116->0.0104
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  26
+[0m
+Re-rendering loss: 16921.73->11917.21 camera tensor error: 0.0105->0.0120
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  27
+[0m
+Re-rendering loss: 19901.86->12619.36 camera tensor error: 0.0148->0.0153
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  28
+[0m
+Re-rendering loss: 16673.49->11908.73 camera tensor error: 0.0163->0.0140
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  29
+[0m
+Re-rendering loss: 25975.35->11592.45 camera tensor error: 0.0116->0.0132
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  30
+[0m
+Re-rendering loss: 15778.00->12716.51 camera tensor error: 0.0142->0.0165
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  31
+[0m
+Re-rendering loss: 19257.93->11336.24 camera tensor error: 0.0189->0.0155
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  32
+[0m
+Re-rendering loss: 21302.05->11779.24 camera tensor error: 0.0149->0.0156
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  33
+[0m
+Re-rendering loss: 13410.93->12306.37 camera tensor error: 0.0171->0.0184
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  34
+[0m
+Re-rendering loss: 12630.29->13698.52 camera tensor error: 0.0193->0.0177
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  35
+[0m
+Re-rendering loss: 20214.53->12411.85 camera tensor error: 0.0164->0.0180
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  36
+[0m
+Re-rendering loss: 15532.45->12954.98 camera tensor error: 0.0183->0.0182
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  37
+[0m
+Re-rendering loss: 14557.73->11920.50 camera tensor error: 0.0174->0.0181
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  38
+[0m
+Re-rendering loss: 12833.74->10662.31 camera tensor error: 0.0199->0.0194
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  39
+[0m
+Re-rendering loss: 14222.05->10724.09 camera tensor error: 0.0225->0.0209
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  40
+[0m
+Re-rendering loss: 16040.79->10948.42 camera tensor error: 0.0202->0.0195
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  41
+[0m
+Re-rendering loss: 11616.47->10748.11 camera tensor error: 0.0199->0.0207
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  42
+[0m
+Re-rendering loss: 13032.96->10670.22 camera tensor error: 0.0222->0.0217
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  43
+[0m
+Re-rendering loss: 17086.08->10505.56 camera tensor error: 0.0222->0.0223
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  44
+[0m
+Re-rendering loss: 12502.88->9672.06 camera tensor error: 0.0214->0.0224
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  45
+[0m
+Re-rendering loss: 10328.30->9548.23 camera tensor error: 0.0220->0.0217
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  46
+[0m
+Re-rendering loss: 12239.44->9233.06 camera tensor error: 0.0202->0.0214
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  47
+[0m
+Re-rendering loss: 9524.08->8647.08 camera tensor error: 0.0205->0.0206
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  48
+[0m
+Re-rendering loss: 8676.23->8573.07 camera tensor error: 0.0205->0.0200
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  49
+[0m
+Re-rendering loss: 8729.95->8518.23 camera tensor error: 0.0194->0.0197
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  50
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00050_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00050_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00050_0050.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00050_0075.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00050_0100.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00050_0125.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00050_0150.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00050_0175.jpg
+Re-rendering loss: 10857.82->8466.73 camera tensor error: 0.0202->0.0200
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  51
+[0m
+Re-rendering loss: 10404.30->8129.58 camera tensor error: 0.0198->0.0192
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  52
+[0m
+Re-rendering loss: 9351.16->7889.48 camera tensor error: 0.0178->0.0195
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  53
+[0m
+Re-rendering loss: 14933.37->7687.32 camera tensor error: 0.0199->0.0213
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  54
+[0m
+Re-rendering loss: 16163.94->7612.39 camera tensor error: 0.0215->0.0198
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  55
+[0m
+Re-rendering loss: 10361.32->7624.25 camera tensor error: 0.0177->0.0190
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  56
+[0m
+Re-rendering loss: 9063.21->7426.84 camera tensor error: 0.0184->0.0198
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  57
+[0m
+Re-rendering loss: 11402.80->7749.75 camera tensor error: 0.0180->0.0188
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  58
+[0m
+Re-rendering loss: 10483.21->7091.61 camera tensor error: 0.0183->0.0171
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  59
+[0m
+Re-rendering loss: 13262.46->7587.27 camera tensor error: 0.0163->0.0186
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  60
+[0m
+Re-rendering loss: 12156.95->7946.76 camera tensor error: 0.0194->0.0183
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  61
+[0m
+Re-rendering loss: 12924.60->7313.00 camera tensor error: 0.0163->0.0166
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  62
+[0m
+Re-rendering loss: 25865.61->7665.63 camera tensor error: 0.0149->0.0185
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  63
+[0m
+Re-rendering loss: 31884.04->7380.25 camera tensor error: 0.4064->0.4086
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  64
+[0m
+Re-rendering loss: 34031.40->7426.72 camera tensor error: 0.0222->0.0211
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  65
+[0m
+Re-rendering loss: 9775.55->7858.68 camera tensor error: 0.0197->0.0194
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  66
+[0m
+Re-rendering loss: 9913.91->8448.99 camera tensor error: 0.0192->0.0200
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  67
+[0m
+Re-rendering loss: 15101.63->8800.10 camera tensor error: 0.0224->0.0208
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  68
+[0m
+Re-rendering loss: 9044.69->8306.29 camera tensor error: 0.0204->0.0189
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  69
+[0m
+Re-rendering loss: 11889.09->8776.21 camera tensor error: 0.0179->0.0194
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  70
+[0m
+Re-rendering loss: 23159.10->9718.09 camera tensor error: 0.0205->0.0217
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  71
+[0m
+Re-rendering loss: 12801.39->9609.18 camera tensor error: 0.0203->0.0192
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  72
+[0m
+Re-rendering loss: 14258.32->9865.31 camera tensor error: 0.0170->0.0185
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  73
+[0m
+Re-rendering loss: 10647.34->9874.16 camera tensor error: 0.0192->0.0194
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  74
+[0m
+Re-rendering loss: 16016.13->10795.35 camera tensor error: 0.0198->0.0206
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  75
+[0m
+Re-rendering loss: 13839.54->11290.67 camera tensor error: 0.0208->0.0192
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  76
+[0m
+Re-rendering loss: 13549.35->11412.80 camera tensor error: 0.0179->0.0190
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  77
+[0m
+Re-rendering loss: 11164.04->11212.93 camera tensor error: 0.0189->0.0183
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  78
+[0m
+Re-rendering loss: 12988.42->11531.95 camera tensor error: 0.0181->0.0188
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  79
+[0m
+Re-rendering loss: 11814.32->11805.23 camera tensor error: 0.0178->0.0174
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  80
+[0m
+Re-rendering loss: 17077.38->11749.50 camera tensor error: 0.0170->0.0174
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  81
+[0m
+Re-rendering loss: 24246.66->12167.22 camera tensor error: 0.0157->0.0151
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  82
+[0m
+Re-rendering loss: 18131.87->11566.76 camera tensor error: 0.0147->0.0168
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  83
+[0m
+Re-rendering loss: 17895.75->11601.56 camera tensor error: 0.0170->0.0175
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  84
+[0m
+Re-rendering loss: 18480.43->12075.60 camera tensor error: 0.0185->0.0183
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  85
+[0m
+Re-rendering loss: 13582.90->12898.00 camera tensor error: 0.0185->0.0185
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  86
+[0m
+Re-rendering loss: 24418.30->12853.65 camera tensor error: 0.0207->0.0203
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  87
+[0m
+Re-rendering loss: 16841.51->12382.59 camera tensor error: 0.0200->0.0172
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  88
+[0m
+Re-rendering loss: 20912.66->12784.83 camera tensor error: 0.0137->0.0171
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  89
+[0m
+Re-rendering loss: 22920.64->12614.14 camera tensor error: 0.0177->0.0181
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  90
+[0m
+Re-rendering loss: 58403.10->13287.79 camera tensor error: 0.0186->0.0206
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  91
+[0m
+Re-rendering loss: 33695.95->13262.80 camera tensor error: 0.0211->0.0150
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  92
+[0m
+Re-rendering loss: 25883.95->12851.14 camera tensor error: 0.0125->0.0156
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  93
+[0m
+Re-rendering loss: 44443.83->13860.03 camera tensor error: 0.0153->0.0193
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  94
+[0m
+Re-rendering loss: 46108.84->13255.87 camera tensor error: 0.0208->0.0136
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  95
+[0m
+Re-rendering loss: 20596.06->12313.91 camera tensor error: 0.0166->0.0108
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  96
+[0m
+Re-rendering loss: 77584.54->13188.45 camera tensor error: 0.0083->0.0127
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  97
+[0m
+Re-rendering loss: 62774.36->12532.15 camera tensor error: 0.0190->0.0152
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  98
+[0m
+Re-rendering loss: 34654.64->11481.13 camera tensor error: 0.0166->0.0126
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  99
+[0m
+Re-rendering loss: 90375.79->13943.39 camera tensor error: 0.0116->0.0140
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  100
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00100_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00100_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00100_0050.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00100_0075.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00100_0100.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00100_0125.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00100_0150.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00100_0175.jpg
+Re-rendering loss: 42041.43->12868.17 camera tensor error: 0.0199->0.0142
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  101
+[0m
+Re-rendering loss: 59853.83->12093.12 camera tensor error: 0.0216->0.0143
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  102
+[0m
+Re-rendering loss: 69207.20->11612.16 camera tensor error: 0.0095->0.0148
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  103
+[0m
+Re-rendering loss: 30492.84->11985.95 camera tensor error: 0.0224->0.0173
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  104
+[0m
+Re-rendering loss: 50711.37->12082.04 camera tensor error: 0.0223->0.0163
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  105
+[0m
+Re-rendering loss: 59257.77->11270.56 camera tensor error: 0.0128->0.0162
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  106
+[0m
+Re-rendering loss: 44210.17->11385.88 camera tensor error: 0.0244->0.0159
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  107
+[0m
+Re-rendering loss: 54027.29->11005.45 camera tensor error: 0.0162->0.0123
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  108
+[0m
+Re-rendering loss: 46218.07->11675.15 camera tensor error: 0.0111->0.0150
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  109
+[0m
+Re-rendering loss: 46452.13->11215.48 camera tensor error: 0.0185->0.0127
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  110
+[0m
+Re-rendering loss: 78586.36->10922.63 camera tensor error: 0.0122->0.0154
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  111
+[0m
+Re-rendering loss: 56270.39->11048.92 camera tensor error: 0.0210->0.0157
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  112
+[0m
+Re-rendering loss: 12416.70->10362.45 camera tensor error: 0.0155->0.0152
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  113
+[0m
+Re-rendering loss: 30847.13->10826.15 camera tensor error: 0.0172->0.0145
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  114
+[0m
+Re-rendering loss: 39859.55->10792.77 camera tensor error: 0.0142->0.0184
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  115
+[0m
+Re-rendering loss: 34892.73->10191.08 camera tensor error: 0.0240->0.0183
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  116
+[0m
+Re-rendering loss: 15110.73->10551.23 camera tensor error: 0.0169->0.0169
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  117
+[0m
+Re-rendering loss: 14976.23->10082.69 camera tensor error: 0.0154->0.0167
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  118
+[0m
+Re-rendering loss: 20802.17->10579.77 camera tensor error: 0.0199->0.0193
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  119
+[0m
+Re-rendering loss: 29222.20->10801.41 camera tensor error: 0.0231->0.0198
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  120
+[0m
+Re-rendering loss: 69204.56->11398.41 camera tensor error: 0.0201->0.0179
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  121
+[0m
+Re-rendering loss: 42539.67->10718.74 camera tensor error: 0.0155->0.0186
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  122
+[0m
+Re-rendering loss: 29091.03->11082.84 camera tensor error: 0.0185->0.0188
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  123
+[0m
+Re-rendering loss: 84698.19->10975.26 camera tensor error: 0.0201->0.0171
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  124
+[0m
+Re-rendering loss: 5337.69->10736.93 camera tensor error: 0.0217->0.0191
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  125
+[0m
+Re-rendering loss: 32161.23->11277.45 camera tensor error: 0.0302->0.0168
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  126
+[0m
+Re-rendering loss: 85468.25->11907.50 camera tensor error: 0.0170->0.0179
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  127
+[0m
+Re-rendering loss: 74025.98->11882.08 camera tensor error: 0.0209->0.0176
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  128
+[0m
+Re-rendering loss: 52306.89->11505.09 camera tensor error: 0.0160->0.0165
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  129
+[0m
+Re-rendering loss: 25308.15->11657.52 camera tensor error: 0.0140->0.0171
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  130
+[0m
+Re-rendering loss: 37699.80->12294.88 camera tensor error: 0.0189->0.0164
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  131
+[0m
+Re-rendering loss: 36101.51->12629.93 camera tensor error: 0.0162->0.0150
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  132
+[0m
+Re-rendering loss: 38804.31->13143.09 camera tensor error: 0.0148->0.0187
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  133
+[0m
+Re-rendering loss: 33752.37->12616.16 camera tensor error: 0.0239->0.0191
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  134
+[0m
+Re-rendering loss: 29740.46->14408.10 camera tensor error: 0.0187->0.0194
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  135
+[0m
+Re-rendering loss: 20752.44->14072.08 camera tensor error: 0.0199->0.0174
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  136
+[0m
+Re-rendering loss: 34548.59->13922.29 camera tensor error: 0.0139->0.0172
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  137
+[0m
+Re-rendering loss: 30966.53->16109.77 camera tensor error: 0.0170->0.0202
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  138
+[0m
+Re-rendering loss: 27636.01->16984.91 camera tensor error: 0.0223->0.0195
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  139
+[0m
+Re-rendering loss: 81515.93->15779.53 camera tensor error: 0.0174->0.0162
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  140
+[0m
+Re-rendering loss: 46770.14->16452.27 camera tensor error: 0.0140->0.0148
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  141
+[0m
+Re-rendering loss: 63753.11->19547.53 camera tensor error: 0.0167->0.0176
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  142
+[0m
+Re-rendering loss: 113481.98->19435.17 camera tensor error: 0.3913->0.3831
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  143
+[0m
+Re-rendering loss: 50642.27->19202.32 camera tensor error: 0.0127->0.0129
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  144
+[0m
+Re-rendering loss: 60429.40->19100.23 camera tensor error: 0.3881->0.3886
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  145
+[0m
+Re-rendering loss: 28427.39->18455.30 camera tensor error: 0.0161->0.0135
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  146
+[0m
+Re-rendering loss: 21668.20->19299.14 camera tensor error: 0.0091->0.0113
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  147
+[0m
+Re-rendering loss: 91110.18->20287.29 camera tensor error: 0.0115->0.0175
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  148
+[0m
+Re-rendering loss: 104218.77->18960.03 camera tensor error: 0.0239->0.0149
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  149
+[0m
+Re-rendering loss: 36459.89->20722.00 camera tensor error: 0.0110->0.0119
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  150
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00150_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00150_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00150_0050.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00150_0075.jpg[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  1
+[0m
+[32m
+Coarse Mapping Frame  2
+[0m
+[32m
+Coarse Mapping Frame  3
+[0m
+[32m
+Coarse Mapping Frame  4
+[0m
+[32m
+Coarse Mapping Frame  5
+[0m
+[32m
+Coarse Mapping Frame  6
+[0m
+[32m
+Coarse Mapping Frame  7
+[0m
+[32m
+Coarse Mapping Frame  8
+[0m
+[32m
+Coarse Mapping Frame  9
+[0m
+[32m
+Coarse Mapping Frame  10
+[0m
+[32m
+Coarse Mapping Frame  11
+[0m
+[32m
+Coarse Mapping Frame  12
+[0m
+[32m
+Coarse Mapping Frame  13
+[0m
+[32m
+Coarse Mapping Frame  14
+[0m
+[32m
+Coarse Mapping Frame  15
+[0m
+[32m
+Coarse Mapping Frame  16
+[0m
+[32m
+Coarse Mapping Frame  17
+[0m
+[32m
+Coarse Mapping Frame  18
+[0m
+[32m
+Coarse Mapping Frame  19
+[0m
+[32m
+Coarse Mapping Frame  20
+[0m
+[32m
+Coarse Mapping Frame  21
+[0m
+[32m
+Coarse Mapping Frame  22
+[0m
+[32m
+Coarse Mapping Frame  23
+[0m
+[32m
+Coarse Mapping Frame  24
+[0m
+[32m
+Coarse Mapping Frame  25
+[0m
+[32m
+Coarse Mapping Frame  26
+[0m
+[32m
+Coarse Mapping Frame  27
+[0m
+[32m
+Coarse Mapping Frame  28
+[0m
+[32m
+Coarse Mapping Frame  29
+[0m
+[32m
+Coarse Mapping Frame  30
+[0m
+[32m
+Coarse Mapping Frame  31
+[0m
+[32m
+Coarse Mapping Frame  32
+[0m
+[32m
+Coarse Mapping Frame  33
+[0m
+[32m
+Coarse Mapping Frame  34
+[0m
+[32m
+Coarse Mapping Frame  35
+[0m
+[32m
+Coarse Mapping Frame  36
+[0m
+[32m
+Coarse Mapping Frame  37
+[0m
+[32m
+Coarse Mapping Frame  38
+[0m
+[32m
+Coarse Mapping Frame  39
+[0m
+[32m
+Coarse Mapping Frame  40
+[0m
+[32m
+Coarse Mapping Frame  41
+[0m
+[32m
+Coarse Mapping Frame  42
+[0m
+[32m
+Coarse Mapping Frame  43
+[0m
+[32m
+Coarse Mapping Frame  44
+[0m
+[32m
+Coarse Mapping Frame  45
+[0m
+[32m
+Coarse Mapping Frame  46
+[0m
+[32m
+Coarse Mapping Frame  47
+[0m
+[32m
+Coarse Mapping Frame  48
+[0m
+[32m
+Coarse Mapping Frame  49
+[0m
+[32m
+Coarse Mapping Frame  50
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00050_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00050_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00050_0050.jpg
+[32m
+Coarse Mapping Frame  51
+[0m
+[32m
+Coarse Mapping Frame  52
+[0m
+[32m
+Coarse Mapping Frame  53
+[0m
+[32m
+Coarse Mapping Frame  54
+[0m
+[32m
+Coarse Mapping Frame  55
+[0m
+[32m
+Coarse Mapping Frame  56
+[0m
+[32m
+Coarse Mapping Frame  57
+[0m
+[32m
+Coarse Mapping Frame  58
+[0m
+[32m
+Coarse Mapping Frame  59
+[0m
+[32m
+Coarse Mapping Frame  60
+[0m
+[32m
+Coarse Mapping Frame  61
+[0m
+[32m
+Coarse Mapping Frame  62
+[0m
+[32m
+Coarse Mapping Frame  63
+[0m
+[32m
+Coarse Mapping Frame  64
+[0m
+[32m
+Coarse Mapping Frame  65
+[0m
+[32m
+Coarse Mapping Frame  66
+[0m
+[32m
+Coarse Mapping Frame  67
+[0m
+[32m
+Coarse Mapping Frame  68
+[0m
+[32m
+Coarse Mapping Frame  69
+[0m
+[32m
+Coarse Mapping Frame  70
+[0m
+[32m
+Coarse Mapping Frame  71
+[0m
+[32m
+Coarse Mapping Frame  72
+[0m
+[32m
+Coarse Mapping Frame  73
+[0m
+[32m
+Coarse Mapping Frame  74
+[0m
+[32m
+Coarse Mapping Frame  75
+[0m
+[32m
+Coarse Mapping Frame  76
+[0m
+[32m
+Coarse Mapping Frame  77
+[0m
+[32m
+Coarse Mapping Frame  78
+[0m
+[32m
+Coarse Mapping Frame  79
+[0m
+[32m
+Coarse Mapping Frame  80
+[0m
+[32m
+Coarse Mapping Frame  81
+[0m
+[32m
+Coarse Mapping Frame  82
+[0m
+[32m
+Coarse Mapping Frame  83
+[0m
+[32m
+Coarse Mapping Frame  84
+[0m
+[32m
+Coarse Mapping Frame  85
+[0m
+[32m
+Coarse Mapping Frame  86
+[0m
+[32m
+Coarse Mapping Frame  87
+[0m
+[32m
+Coarse Mapping Frame  88
+[0m
+[32m
+Coarse Mapping Frame  89
+[0m
+[32m
+Coarse Mapping Frame  90
+[0m
+[32m
+Coarse Mapping Frame  91
+[0m
+[32m
+Coarse Mapping Frame  92
+[0m
+[32m
+Coarse Mapping Frame  93
+[0m
+[32m
+Coarse Mapping Frame  94
+[0m
+[32m
+Coarse Mapping Frame  95
+[0m
+[32m
+Coarse Mapping Frame  96
+[0m
+[32m
+Coarse Mapping Frame  97
+[0m
+[32m
+Coarse Mapping Frame  98
+[0m
+[32m
+Coarse Mapping Frame  99
+[0m
+[32m
+Coarse Mapping Frame  100
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00100_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00100_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00100_0050.jpg
+[32m
+Coarse Mapping Frame  101
+[0m
+[32m
+Coarse Mapping Frame  102
+[0m
+[32m
+Coarse Mapping Frame  103
+[0m
+[32m
+Coarse Mapping Frame  104
+[0m
+[32m
+Coarse Mapping Frame  105
+[0m
+[32m
+Coarse Mapping Frame  106
+[0m
+[32m
+Coarse Mapping Frame  107
+[0m
+[32m
+Coarse Mapping Frame  108
+[0m
+[32m
+Coarse Mapping Frame  109
+[0m
+[32m
+Coarse Mapping Frame  110
+[0m
+[32m
+Coarse Mapping Frame  111
+[0m
+[32m
+Coarse Mapping Frame  112
+[0m
+[32m
+Coarse Mapping Frame  113
+[0m
+[32m
+Coarse Mapping Frame  114
+[0m
+[32m
+Coarse Mapping Frame  115
+[0m
+[32m
+Coarse Mapping Frame  116
+[0m
+[32m
+Coarse Mapping Frame  117
+[0m
+[32m
+Coarse Mapping Frame  118
+[0m
+[32m
+Coarse Mapping Frame  119
+[0m
+[32m
+Coarse Mapping Frame  120
+[0m
+[32m
+Coarse Mapping Frame  121
+[0m
+[32m
+Coarse Mapping Frame  122
+[0m
+[32m
+Coarse Mapping Frame  123
+[0m
+[32m
+Coarse Mapping Frame  124
+[0m
+[32m
+Coarse Mapping Frame  125
+[0m
+[32m
+Coarse Mapping Frame  126
+[0m
+[32m
+Coarse Mapping Frame  127
+[0m
+[32m
+Coarse Mapping Frame  128
+[0m
+[32m
+Coarse Mapping Frame  129
+[0m
+[32m
+Coarse Mapping Frame  130
+[0m
+[32m
+Coarse Mapping Frame  131
+[0m
+[32m
+Coarse Mapping Frame  132
+[0m
+[32m
+Coarse Mapping Frame  133
+[0m
+[32m
+Coarse Mapping Frame  134
+[0m
+[32m
+Coarse Mapping Frame  135
+[0m
+[32m
+Coarse Mapping Frame  136
+[0m
+[32m
+Coarse Mapping Frame  137
+[0m
+[32m
+Coarse Mapping Frame  138
+[0m
+[32m
+Coarse Mapping Frame  139
+[0m
+[32m
+Coarse Mapping Frame  140
+[0m
+[32m
+Coarse Mapping Frame  141
+[0m
+[32m
+Coarse Mapping Frame  142
+[0m
+[32m
+Coarse Mapping Frame  143
+[0m
+[32m
+Coarse Mapping Frame  144
+[0m
+[32m
+Coarse Mapping Frame  145
+[0m
+[32m
+Coarse Mapping Frame  146
+[0m
+[32m
+Coarse Mapping Frame  147
+[0m
+[32m
+Coarse Mapping Frame  148
+[0m
+[32m
+Coarse Mapping Frame  149
+[0m
+[32m
+Coarse Mapping Frame  150
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00150_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00150_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00150_0050.jpg
+[32m
+Coarse Mapping Frame  151
+[0m
+[32m
+Coarse Mapping Frame  152
+[0m
+[32m
+Coarse Mapping Frame  153
+[0m
+[32m
+Coarse Mapping Frame  154
+[0m
+[32m
+Coarse Mapping Frame  155
+[0m
+[32m
+Coarse Mapping Frame  156
+[0m
+[32m
+Coarse Mapping Frame  157
+[0m
+[32m
+Coarse Mapping Frame  158
+[0m
+[32m
+Coarse Mapping Frame  159
+[0m
+[32m
+Coarse Mapping Frame  160
+[0m
+[32m
+Coarse Mapping Frame  161
+[0m
+[32m
+Coarse Mapping Frame  162
+[0m
+[32m
+Coarse Mapping Frame  163
+[0m
+[32m
+Coarse Mapping Frame  164
+[0m
+[32m
+Coarse Mapping Frame  165
+[0m
+[32m
+Coarse Mapping Frame  166
+[0m
+[32m
+Coarse Mapping Frame  167
+[0m
+[32m
+Coarse Mapping Frame  168
+[0m
+[32m
+Coarse Mapping Frame  169
+[0m
+[32m
+Coarse Mapping Frame  170
+[0m
+[32m
+Coarse Mapping Frame  171
+[0m
+[32m
+Coarse Mapping Frame  172
+[0m
+[32m
+Coarse Mapping Frame  173
+[0m
+[32m
+Coarse Mapping Frame  174
+[0m
+[32m
+Coarse Mapping Frame  175
+[0m
+[32m
+Coarse Mapping Frame  176
+[0m
+[32m
+Coarse Mapping Frame  177
+[0m
+[32m
+Coarse Mapping Frame  178
+[0m
+[32m
+Coarse Mapping Frame  179
+[0m
+[32m
+Coarse Mapping Frame  180
+[0m
+[32m
+Coarse Mapping Frame  181
+[0m
+[32m
+Coarse Mapping Frame  182
+[0m
+[32m
+Coarse Mapping Frame  183
+[0m
+[32m
+Coarse Mapping Frame  184
+[0m
+[32m
+Coarse Mapping Frame  185
+[0m
+[32m
+Coarse Mapping Frame  186
+[0m
+[32m
+Coarse Mapping Frame  187
+[0m
+[32m
+Coarse Mapping Frame  188
+[0m
+[32m
+Coarse Mapping Frame  189
+[0m
+[32m
+Coarse Mapping Frame  190
+[0m
+[32m
+Coarse Mapping Frame  191
+[0m
+[32m
+Coarse Mapping Frame  192
+[0m
+[32m
+Coarse Mapping Frame  193
+[0m
+
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00150_0100.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00150_0125.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00150_0150.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00150_0175.jpg
+Re-rendering loss: 60181.39->20548.94 camera tensor error: 0.0133->0.0146
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  151
+[0m
+Re-rendering loss: 62702.42->20472.81 camera tensor error: 0.0218->0.0133
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  152
+[0m
+Re-rendering loss: 44703.61->23005.10 camera tensor error: 0.3875->0.3936
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  153
+[0m
+Re-rendering loss: 50817.45->23643.45 camera tensor error: 0.0196->0.0168
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  154
+[0m
+Re-rendering loss: 81045.60->22122.08 camera tensor error: 0.0214->0.0193
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  155
+[0m
+Re-rendering loss: 69987.33->24529.37 camera tensor error: 0.0185->0.0198
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  156
+[0m
+Re-rendering loss: 147862.31->26534.44 camera tensor error: 0.0236->0.0156
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  157
+[0m
+Re-rendering loss: 282860.01->24711.40 camera tensor error: 0.0222->0.0176
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  158
+[0m
+Re-rendering loss: 52362.02->25071.29 camera tensor error: 0.0158->0.0151
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  159
+[0m
+Re-rendering loss: 72396.46->26858.67 camera tensor error: 0.0128->0.0196
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  160
+[0m
+Re-rendering loss: 86600.15->25084.30 camera tensor error: 0.0338->0.0177
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  161
+[0m
+Re-rendering loss: 96065.97->25465.45 camera tensor error: 0.0176->0.0205
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  162
+[0m
+Re-rendering loss: 95734.60->23064.05 camera tensor error: 0.0241->0.0209
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  163
+[0m
+Re-rendering loss: 374113.27->23217.86 camera tensor error: 0.0259->0.0234
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  164
+[0m
+Re-rendering loss: 49107.00->21251.83 camera tensor error: 0.0250->0.0244
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  165
+[0m
+Re-rendering loss: 329608.29->21155.30 camera tensor error: 0.0253->0.0213
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  166
+[0m
+Re-rendering loss: 681265.24->21195.10 camera tensor error: 0.0225->0.0209
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  167
+[0m
+Re-rendering loss: 26620.59->19964.85 camera tensor error: 0.0225->0.0197
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  168
+[0m
+Re-rendering loss: 44363.88->19739.16 camera tensor error: 0.0155->0.0181
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  169
+[0m
+Re-rendering loss: 43581.46->19361.37 camera tensor error: 0.0241->0.0198
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  170
+[0m
+Re-rendering loss: 59174.06->20537.04 camera tensor error: 0.0180->0.0163
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  171
+[0m
+Re-rendering loss: 82811.32->19195.22 camera tensor error: 0.0163->0.0160
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  172
+[0m
+Re-rendering loss: 122489.99->21095.81 camera tensor error: 0.0206->0.0228
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  173
+[0m
+Re-rendering loss: 193756.60->21325.05 camera tensor error: 0.0309->0.0211
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  174
+[0m
+Re-rendering loss: 104727.94->27221.32 camera tensor error: 0.0182->0.0256
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  175
+[0m
+Re-rendering loss: 40494.60->29920.03 camera tensor error: 0.0311->0.0271
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  176
+[0m
+Re-rendering loss: 49343.22->26476.86 camera tensor error: 0.0283->0.0262
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  177
+[0m
+Re-rendering loss: 65707.34->25728.27 camera tensor error: 0.0265->0.0267
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  178
+[0m
+Re-rendering loss: 131189.47->26043.20 camera tensor error: 0.0341->0.0234
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  179
+[0m
+Re-rendering loss: 55358.94->21533.34 camera tensor error: 0.0241->0.0235
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  180
+[0m
+Re-rendering loss: 94076.81->32925.64 camera tensor error: 0.0277->0.0244
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  181
+[0m
+Re-rendering loss: 83480.19->25716.66 camera tensor error: 0.0237->0.0183
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  182
+[0m
+Re-rendering loss: 57085.00->31908.26 camera tensor error: 0.0220->0.0215
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  183
+[0m
+Re-rendering loss: 43261.87->27069.64 camera tensor error: 0.0324->0.0228
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  184
+[0m
+Re-rendering loss: 81542.00->23561.57 camera tensor error: 0.0178->0.0205
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  185
+[0m
+Re-rendering loss: 92038.87->21055.39 camera tensor error: 0.0177->0.0268
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  186
+[0m
+Re-rendering loss: 39456509.20->21812.09 camera tensor error: 0.0365->0.0236
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  187
+[0m
+Re-rendering loss: 14758657.47->19338.23 camera tensor error: 0.0255->0.0268
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  188
+[0m
+Re-rendering loss: 54710.58->16238.65 camera tensor error: 0.0259->0.0209
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  189
+[0m
+Re-rendering loss: 20769.94->13396.45 camera tensor error: 0.0152->0.0187
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  190
+[0m
+Re-rendering loss: 22236.93->13935.15 camera tensor error: 0.0189->0.0208
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  191
+[0m
+Re-rendering loss: 51564.25->12873.98 camera tensor error: 0.0220->0.0211
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  192
+[0m
+Re-rendering loss: 46007.67->11608.58 camera tensor error: 0.0209->0.0169
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  193
+[0m
+Re-rendering loss: 38834.65->11668.67 camera tensor error: 0.0196->0.0188
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  194
+[0m
+Re-rendering loss: 29702.92->12281.21 camera tensor error: 0.0183->0.0175
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  195
+[0m
+Re-rendering loss: 12042.87->11769.07 camera tensor error: 0.0158->0.0167
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  196
+[0m
+Re-rendering loss: 16136.94->11953.23 camera tensor error: 0.0164->0.0165
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  197
+[0m
+Re-rendering loss: 21391.97->11332.02 camera tensor error: 0.0176->0.0166
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  198
+[0m
+Re-rendering loss: 22884.75->11990.01 camera tensor error: 0.0166->0.0170
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  199
+[0m
+Re-rendering loss: 29081.88->12213.77 camera tensor error: 0.0211->0.0168
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  200
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00200_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00200_0025.jpg[32m
+Mapping Frame  0
+[0m
+[32m
+Mapping Frame  1
+[0m
+[32m
+Mapping Frame  2
+[0m
+[32m
+Mapping Frame  3
+[0m
+[32m
+Mapping Frame  4
+[0m
+[32m
+Mapping Frame  5
+[0m
+[32m
+Mapping Frame  6
+[0m
+[32m
+Mapping Frame  7
+[0m
+[32m
+Mapping Frame  8
+[0m
+[32m
+Mapping Frame  9
+[0m
+[32m
+Mapping Frame  10
+[0m
+[32m
+Mapping Frame  11
+[0m
+[32m
+Mapping Frame  12
+[0m
+[32m
+Mapping Frame  13
+[0m
+[32m
+Mapping Frame  14
+[0m
+[32m
+Mapping Frame  15
+[0m
+[32m
+Mapping Frame  16
+[0m
+[32m
+Mapping Frame  17
+[0m
+[32m
+Mapping Frame  18
+[0m
+[32m
+Mapping Frame  19
+[0m
+[32m
+Mapping Frame  20
+[0m
+[32m
+Mapping Frame  21
+[0m
+[32m
+Mapping Frame  22
+[0m
+[32m
+Mapping Frame  23
+[0m
+[32m
+Mapping Frame  24
+[0m
+[32m
+Mapping Frame  25
+[0m
+[32m
+Mapping Frame  26
+[0m
+[32m
+Mapping Frame  27
+[0m
+[32m
+Mapping Frame  28
+[0m
+[32m
+Mapping Frame  29
+[0m
+[32m
+Mapping Frame  30
+[0m
+[32m
+Mapping Frame  31
+[0m
+[32m
+Mapping Frame  32
+[0m
+[32m
+Mapping Frame  33
+[0m
+[32m
+Mapping Frame  34
+[0m
+[32m
+Mapping Frame  35
+[0m
+[32m
+Mapping Frame  36
+[0m
+[32m
+Mapping Frame  37
+[0m
+[32m
+Mapping Frame  38
+[0m
+[32m
+Mapping Frame  39
+[0m
+[32m
+Mapping Frame  40
+[0m
+[32m
+Mapping Frame  41
+[0m
+[32m
+Mapping Frame  42
+[0m
+[32m
+Mapping Frame  43
+[0m
+[32m
+Mapping Frame  44
+[0m
+[32m
+Mapping Frame  45
+[0m
+[32m
+Mapping Frame  46
+[0m
+[32m
+Mapping Frame  47
+[0m
+[32m
+Mapping Frame  48
+[0m
+[32m
+Mapping Frame  49
+[0m
+[32m
+Mapping Frame  50
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00050_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00050_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00050_0050.jpg
+Saved mesh at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mesh/00050_mesh.ply
+[32m
+Mapping Frame  51
+[0m
+[32m
+Mapping Frame  52
+[0m
+[32m
+Mapping Frame  53
+[0m
+[32m
+Mapping Frame  54
+[0m
+[32m
+Mapping Frame  55
+[0m
+[32m
+Mapping Frame  56
+[0m
+[32m
+Mapping Frame  57
+[0m
+[32m
+Mapping Frame  58
+[0m
+[32m
+Mapping Frame  59
+[0m
+[32m
+Mapping Frame  60
+[0m
+[32m
+Mapping Frame  61
+[0m
+[32m
+Mapping Frame  62
+[0m
+[32m
+Mapping Frame  63
+[0m
+[32m
+Mapping Frame  64
+[0m
+[32m
+Mapping Frame  65
+[0m
+[32m
+Mapping Frame  66
+[0m
+[32m
+Mapping Frame  67
+[0m
+[32m
+Mapping Frame  68
+[0m
+[32m
+Mapping Frame  69
+[0m
+[32m
+Mapping Frame  70
+[0m
+[32m
+Mapping Frame  71
+[0m
+[32m
+Mapping Frame  72
+[0m
+[32m
+Mapping Frame  73
+[0m
+[32m
+Mapping Frame  74
+[0m
+[32m
+Mapping Frame  75
+[0m
+[32m
+Mapping Frame  76
+[0m
+[32m
+Mapping Frame  77
+[0m
+[32m
+Mapping Frame  78
+[0m
+[32m
+Mapping Frame  79
+[0m
+[32m
+Mapping Frame  80
+[0m
+[32m
+Mapping Frame  81
+[0m
+[32m
+Mapping Frame  82
+[0m
+[32m
+Mapping Frame  83
+[0m
+[32m
+Mapping Frame  84
+[0m
+[32m
+Mapping Frame  85
+[0m
+[32m
+Mapping Frame  86
+[0m
+[32m
+Mapping Frame  87
+[0m
+[32m
+Mapping Frame  88
+[0m
+[32m
+Mapping Frame  89
+[0m
+[32m
+Mapping Frame  90
+[0m
+[32m
+Mapping Frame  91
+[0m
+[32m
+Mapping Frame  92
+[0m
+[32m
+Mapping Frame  93
+[0m
+[32m
+Mapping Frame  94
+[0m
+[32m
+Mapping Frame  95
+[0m
+[32m
+Mapping Frame  96
+[0m
+[32m
+Mapping Frame  97
+[0m
+[32m
+Mapping Frame  98
+[0m
+[32m
+Mapping Frame  99
+[0m
+[32m
+Mapping Frame  100
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00100_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00100_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00100_0050.jpg
+Saved mesh at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mesh/00100_mesh.ply
+[32m
+Mapping Frame  101
+[0m
+[32m
+Mapping Frame  102
+[0m
+[32m
+Mapping Frame  103
+[0m
+[32m
+Mapping Frame  104
+[0m
+[32m
+Mapping Frame  105
+[0m
+[32m
+Mapping Frame  106
+[0m
+[32m
+Mapping Frame  107
+[0m
+[32m
+Mapping Frame  108
+[0m
+[32m
+Mapping Frame  109
+[0m
+[32m
+Mapping Frame  110
+[0m
+[32m
+Mapping Frame  111
+[0m
+[32m
+Mapping Frame  112
+[0m
+[32m
+Mapping Frame  113
+[0m
+[32m
+Mapping Frame  114
+[0m
+[32m
+Mapping Frame  115
+[0m
+[32m
+Mapping Frame  116
+[0m
+[32m
+Mapping Frame  117
+[0m
+[32m
+Mapping Frame  118
+[0m
+[32m
+Mapping Frame  119
+[0m
+[32m
+Mapping Frame  120
+[0m
+[32m
+Mapping Frame  121
+[0m
+[32m
+Mapping Frame  122
+[0m
+[32m
+Mapping Frame  123
+[0m
+[32m
+Mapping Frame  124
+[0m
+[32m
+Mapping Frame  125
+[0m
+[32m
+Mapping Frame  126
+[0m
+[32m
+Mapping Frame  127
+[0m
+[32m
+Mapping Frame  128
+[0m
+[32m
+Mapping Frame  129
+[0m
+[32m
+Mapping Frame  130
+[0m
+[32m
+Mapping Frame  131
+[0m
+[32m
+Mapping Frame  132
+[0m
+[32m
+Mapping Frame  133
+[0m
+[32m
+Mapping Frame  134
+[0m
+[32m
+Mapping Frame  135
+[0m
+[32m
+Mapping Frame  136
+[0m
+[32m
+Mapping Frame  137
+[0m
+[32m
+Mapping Frame  138
+[0m
+[32m
+Mapping Frame  139
+[0m
+[32m
+Mapping Frame  140
+[0m
+[32m
+Mapping Frame  141
+[0m
+[32m
+Mapping Frame  142
+[0m
+[32m
+Mapping Frame  143
+[0m
+[32m
+Mapping Frame  144
+[0m
+[32m
+Mapping Frame  145
+[0m
+[32m
+Mapping Frame  146
+[0m
+[32m
+Mapping Frame  147
+[0m
+[32m
+Mapping Frame  148
+[0m
+[32m
+Mapping Frame  149
+[0m
+[32m
+Mapping Frame  150
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00150_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00150_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00150_0050.jpg
+Saved mesh at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mesh/00150_mesh.ply
+[32m
+Mapping Frame  151
+[0m
+[32m
+Mapping Frame  152
+[0m
+[32m
+Mapping Frame  153
+[0m
+[32m
+Mapping Frame  154
+[0m
+[32m
+Mapping Frame  155
+[0m
+[32m
+Mapping Frame  156
+[0m
+[32m
+Mapping Frame  157
+[0m
+[32m
+Mapping Frame  158
+[0m
+[32m
+Mapping Frame  159
+[0m
+[32m
+Mapping Frame  160
+[0m
+[32m
+Mapping Frame  161
+[0m
+[32m
+Mapping Frame  162
+[0m
+[32m
+Mapping Frame  163
+[0m
+[32m
+Mapping Frame  164
+[0m
+[32m
+Mapping Frame  165
+[0m
+[32m
+Mapping Frame  166
+[0m
+[32m
+Mapping Frame  167
+[0m
+[32m
+Mapping Frame  168
+[0m
+[32m
+Mapping Frame  169
+[0m
+[32m
+Mapping Frame  170
+[0m
+[32m
+Mapping Frame  171
+[0m
+[32m
+Mapping Frame  172
+[0m
+[32m
+Mapping Frame  173
+[0m
+[32m
+Mapping Frame  174
+[0m
+[32m
+Mapping Frame  175
+[0m
+[32m
+Mapping Frame  176
+[0m
+[32m
+Mapping Frame  177
+[0m
+[32m
+Mapping Frame  178
+[0m
+[32m
+Mapping Frame  179
+[0m
+[32m
+Mapping Frame  180
+[0m
+[32m
+Mapping Frame  181
+[0m
+[32m
+Mapping Frame  182
+[0m
+[32m
+Mapping Frame  183
+[0m
+[32m
+Mapping Frame  184
+[0m
+[32m
+Mapping Frame  185
+[0m
+[32m
+Mapping Frame  186
+[0m
+[32m
+Mapping Frame  187
+[0m
+[32m
+Mapping Frame  188
+[0m
+[32m
+Mapping Frame  189
+[0m
+[32m
+Mapping Frame  190
+[0m
+[32m
+Mapping Frame  191
+[0m
+[32m
+Mapping Frame  192
+[0m
+[32m
+Mapping Frame  193
+[0m
+[32m
+Mapping Frame  194
+[0m
+[32m
+Mapping Frame  195
+[0m
+[32m
+Mapping Frame  196
+[0m
+[32m
+Mapping Frame  197
+[0m
+[32m
+Mapping Frame  198
+[0m
+[32m
+Mapping Frame  199
+[0m
+[32m
+Mapping Frame  200
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00200_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00200_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00200_0050.jpg
+Saved mesh at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mesh/00200_mesh.ply
+[32m
+Mapping Frame  201
+[0m
+[32m
+Mapping Frame  202
+[0m
+[32m
+Mapping Frame  203
+[0m
+[32m
+Mapping Frame  204
+[0m
+[32m
+Mapping Frame  205
+[0m
+[32m
+Mapping Frame  206
+[0m
+[32m
+Mapping Frame  207
+[0m
+[32m
+Mapping Frame  208
+[0m
+[32m
+Mapping Frame  209
+[0m
+[32m
+Mapping Frame  210
+[0m
+[32m
+Mapping Frame  211
+[0m
+[32m
+Mapping Frame  212
+[0m
+[32m
+Mapping Frame  213
+[0m
+[32m
+Mapping Frame  214
+[0m
+[32m
+Mapping Frame  215
+[0m
+[32m
+Mapping Frame 
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00200_0050.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00200_0075.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00200_0100.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00200_0125.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00200_0150.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00200_0175.jpg
+Re-rendering loss: 14850.67->12468.65 camera tensor error: 0.0162->0.0163
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  201
+[0m
+Re-rendering loss: 14628.63->12748.92 camera tensor error: 0.0184->0.0174
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  202
+[0m
+Re-rendering loss: 22325.24->12048.76 camera tensor error: 0.0174->0.0163
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  203
+[0m
+Re-rendering loss: 30121.29->12272.62 camera tensor error: 0.0152->0.0148
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  204
+[0m
+Re-rendering loss: 14179.48->10102.68 camera tensor error: 0.0133->0.0143
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  205
+[0m
+Re-rendering loss: 32757.63->16345.39 camera tensor error: 0.0190->0.0136
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  206
+[0m
+Re-rendering loss: 26495.00->13785.58 camera tensor error: 0.0139->0.0171
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  207
+[0m
+Re-rendering loss: 28037.35->16490.90 camera tensor error: 0.0213->0.0180
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  208
+[0m
+Re-rendering loss: 58194.39->15179.10 camera tensor error: 0.0169->0.0194
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  209
+[0m
+Re-rendering loss: 34666.53->17033.21 camera tensor error: 0.0210->0.0202
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  210
+[0m
+Re-rendering loss: 28316.06->16434.49 camera tensor error: 0.0215->0.0167
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  211
+[0m
+Re-rendering loss: 87265.42->16836.23 camera tensor error: 0.0187->0.0226
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  212
+[0m
+Re-rendering loss: 24434.08->17378.06 camera tensor error: 0.0232->0.0218
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  213
+[0m
+Re-rendering loss: 31057.19->16488.14 camera tensor error: 0.0247->0.0182
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  214
+[0m
+Re-rendering loss: 43182.82->17102.50 camera tensor error: 0.0178->0.0239
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  215
+[0m
+Re-rendering loss: 31165.53->20340.23 camera tensor error: 0.0224->0.0245
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  216
+[0m
+Re-rendering loss: 57732.23->16391.50 camera tensor error: 0.0214->0.0204
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  217
+[0m
+Re-rendering loss: 75888.30->16488.62 camera tensor error: 0.0192->0.0241
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  218
+[0m
+Re-rendering loss: 29910.49->16461.17 camera tensor error: 0.0233->0.0229
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  219
+[0m
+Re-rendering loss: 24657.54->15325.58 camera tensor error: 0.0203->0.0227
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  220
+[0m
+Re-rendering loss: 22624.45->15995.68 camera tensor error: 0.0199->0.0215
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  221
+[0m
+Re-rendering loss: 18710.79->15566.46 camera tensor error: 0.0199->0.0204
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  222
+[0m
+Re-rendering loss: 18221.46->17522.53 camera tensor error: 0.0209->0.0214
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  223
+[0m
+Re-rendering loss: 18134.10->17354.80 camera tensor error: 0.0224->0.0218
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  224
+[0m
+Re-rendering loss: 22591.21->17552.71 camera tensor error: 0.0193->0.0210
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  225
+[0m
+Re-rendering loss: 33589.30->17620.00 camera tensor error: 0.0213->0.0203
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  226
+[0m
+Re-rendering loss: 26606.66->17965.07 camera tensor error: 0.0201->0.0229
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  227
+[0m
+Re-rendering loss: 38928.95->18631.89 camera tensor error: 0.0226->0.0223
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  228
+[0m
+Re-rendering loss: 19686.76->17737.41 camera tensor error: 0.0211->0.0203
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  229
+[0m
+Re-rendering loss: 38721.18->16879.61 camera tensor error: 0.0174->0.0213
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  230
+[0m
+Re-rendering loss: 23840.20->16097.79 camera tensor error: 0.0237->0.0207
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  231
+[0m
+Re-rendering loss: 68473.50->17200.40 camera tensor error: 0.0192->0.0179
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  232
+[0m
+Re-rendering loss: 7786.39->18202.79 camera tensor error: 0.0170->0.0203
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  233
+[0m
+Re-rendering loss: 32099.55->20584.29 camera tensor error: 0.0196->0.0205
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  234
+[0m
+Re-rendering loss: 29827.38->19759.09 camera tensor error: 0.0258->0.0206
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  235
+[0m
+Re-rendering loss: 21548.71->19917.82 camera tensor error: 0.0196->0.0194
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  236
+[0m
+Re-rendering loss: 32176.00->18082.33 camera tensor error: 0.0163->0.0184
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  237
+[0m
+Re-rendering loss: 21158.34->19638.50 camera tensor error: 0.0183->0.0190
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  238
+[0m
+Re-rendering loss: 33119.92->19666.63 camera tensor error: 0.0182->0.0185
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  239
+[0m
+Re-rendering loss: 26608.64->20942.90 camera tensor error: 0.0183->0.0185
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  240
+[0m
+Re-rendering loss: 27350.70->19888.37 camera tensor error: 0.0190->0.0196
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  241
+[0m
+Re-rendering loss: 15823.09->12015.13 camera tensor error: 0.0202->0.0210
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  242
+[0m
+Re-rendering loss: 20803.05->14949.58 camera tensor error: 0.5048->0.5051
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  243
+[0m
+Re-rendering loss: 13305.99->9786.55 camera tensor error: 0.5063->0.5055
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  244
+[0m
+Re-rendering loss: 12390.03->9933.35 camera tensor error: 0.5023->0.5039
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  245
+[0m
+Re-rendering loss: 18438.92->10336.02 camera tensor error: 0.5056->0.5057
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  246
+[0m
+Re-rendering loss: 19855.13->13033.53 camera tensor error: 0.5048->0.5075
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  247
+[0m
+Re-rendering loss: 11441.03->12346.56 camera tensor error: 0.5091->0.5109
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  248
+[0m
+Re-rendering loss: 17161.27->12658.23 camera tensor error: 0.5091->0.5118
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  249
+[0m
+Re-rendering loss: 6036.53->11410.17 camera tensor error: 0.0219->0.0296
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  250
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00250_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00250_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00250_0050.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00250_0075.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00250_0100.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00250_0125.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00250_0150.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00250_0175.jpg
+Re-rendering loss: 50726.94->14699.35 camera tensor error: 0.0221->0.0297
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  251
+[0m
+Re-rendering loss: 5429.43->5394.20 camera tensor error: 0.0165->0.0219
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  252
+[0m
+Re-rendering loss: 44199.36->3561.72 camera tensor error: 0.0246->0.0240
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  253
+[0m
+Re-rendering loss: 40776.40->4471.92 camera tensor error: 0.0267->0.0250
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  254
+[0m
+Re-rendering loss: 4898.24->5883.51 camera tensor error: 0.0238->0.0251
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  255
+[0m
+Re-rendering loss: 14225.29->5240.32 camera tensor error: 0.0238->0.0238
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  256
+[0m
+Re-rendering loss: 4908.59->5492.60 camera tensor error: 0.0222->0.0217
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  257
+[0m
+Re-rendering loss: 11643.49->6374.31 camera tensor error: 0.0201->0.0219
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  258
+[0m
+Re-rendering loss: 19553.57->10687.93 camera tensor error: 0.0213->0.0222
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  259
+[0m
+Re-rendering loss: 15304.93->11094.73 camera tensor error: 0.0239->0.0232
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  260
+[0m
+Re-rendering loss: 34852.58->12847.84 camera tensor error: 0.0195->0.0224
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  261
+[0m
+Re-rendering loss: 51179.61->14777.23 camera tensor error: 0.0200->0.0234
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  262
+[0m
+Re-rendering loss: 25996.47->13369.47 camera tensor error: 0.0233->0.0206
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  263
+[0m
+Re-rendering loss: 21468.49->12790.00 camera tensor error: 0.0188->0.0200
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  264
+[0m
+Re-rendering loss: 33410.17->12068.42 camera tensor error: 0.0190->0.0200
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  265
+[0m
+Re-rendering loss: 25255.96->11589.20 camera tensor error: 0.0229->0.0209
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  266
+[0m
+Re-rendering loss: 19205.68->11373.06 camera tensor error: 0.0230->0.0215
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  267
+[0m
+Re-rendering loss: 20120.04->10744.79 camera tensor error: 0.0184->0.0219
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  268
+[0m
+Re-rendering loss: 17434.95->10738.53 camera tensor error: 0.0213->0.0211
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  269
+[0m
+Re-rendering loss: 12255.76->10486.77 camera tensor error: 0.0217->0.0217
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  270
+[0m
+Re-rendering loss: 18589.43->10641.54 camera tensor error: 0.0220->0.0222
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  271
+[0m
+Re-rendering loss: 18817.47->10804.41 camera tensor error: 0.0209->0.0230
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  272
+[0m
+Re-rendering loss: 12953.74->10368.63 camera tensor error: 0.0230->0.0230
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  273
+[0m
+Re-rendering loss: 18042.65->10277.83 camera tensor error: 0.0235->0.0237
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  274
+[0m
+Re-rendering loss: 15908.73->9258.67 camera tensor error: 0.0237->0.0240
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  275
+[0m
+Re-rendering loss: 13799.62->9734.92 camera tensor error: 0.0247->0.0249
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  276
+[0m
+Re-rendering loss: 11594.76->10313.02 camera tensor error: 0.0262->0.0237
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  277
+[0m
+Re-rendering loss: 20482.39->9526.60 camera tensor error: 0.0236->0.0271
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  278
+[0m
+Re-rendering loss: 21084.76->9518.59 camera tensor error: 0.0244->0.0283
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  279
+[0m
+Re-rendering loss: 13265.67->9131.43 camera tensor error: 0.0293->0.0289
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  280
+[0m
+Re-rendering loss: 10042.95->9469.36 camera tensor error: 0.0292->0.0301
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  281
+[0m
+Re-rendering loss: 14017.78->9162.80 camera tensor error: 0.0289->0.0305
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  282
+[0m
+Re-rendering loss: 11437.19->8907.74 camera tensor error: 0.0343->0.0315
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  283
+[0m
+Re-rendering loss: 14470.02->9471.95 camera tensor error: 0.0308->0.0323
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  284
+[0m
+Re-rendering loss: 20391.85->8894.16 camera tensor error: 0.0270->0.0319
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  285
+[0m
+Re-rendering loss: 12409.71->9862.07 camera tensor error: 0.0310->0.0333
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  286
+[0m
+Re-rendering loss: 22013.05->11093.31 camera tensor error: 0.0295->0.0333
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  287
+[0m
+Re-rendering loss: 22660.29->11180.05 camera tensor error: 0.0354->0.0356
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  288
+[0m
+Re-rendering loss: 21035.83->11803.52 camera tensor error: 0.0368->0.0419
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  289
+[0m
+Re-rendering loss: 12398.71->10784.67 camera tensor error: 0.0432->0.0444
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  290
+[0m
+Re-rendering loss: 14187.66->11203.49 camera tensor error: 0.0446->0.0457
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  291
+[0m
+Re-rendering loss: 35578.87->11098.36 camera tensor error: 0.0452->0.0461
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  292
+[0m
+Re-rendering loss: 23175.96->11761.11 camera tensor error: 0.0467->0.0488
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  293
+[0m
+Re-rendering loss: 33710.61->11442.48 camera tensor error: 0.0519->0.0519
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  294
+[0m
+Re-rendering loss: 48104.56->11434.81 camera tensor error: 0.0477->0.0526
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  295
+[0m
+Re-rendering loss: 60898.34->12098.85 camera tensor error: 0.0494->0.0531
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  296
+[0m
+Re-rendering loss: 39744.37->11975.32 camera tensor error: 0.0547->0.0547
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  297
+[0m
+Re-rendering loss: 35488.55->12684.03 camera tensor error: 0.0503->0.0530
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  298
+[0m
+Re-rendering loss: 18149.16->12965.42 camera tensor error: 0.0455->0.0523
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  299
+[0m
+Re-rendering loss: 47919.97->13156.49 camera tensor error: 0.0517->0.0532
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  300
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00300_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00300_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00300_0050.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00300_0075.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00300_0100.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00300_0125.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00300_0150.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00300_0175.jpg
+Re-rendering loss: 43377.41->12927.63 camera tensor error: 0.0530->0.0518
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  301
+[0m
+Re-rendering loss: 23673.70->13092.83 camera tensor error: 0.0479->0.0487
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  302
+[0m
+Re-rendering loss: 26424.25->12905.30 camera tensor error: 0.0456->0.0491
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  303
+[0m
+Re-rendering loss: 14950.52->12792.58 camera tensor error: 0.0461->0.0480
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  304
+[0m
+Re-rendering loss: 23984.39->12894.59 camera tensor error: 0.0454->0.0442
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  305
+[0m
+Re-rendering loss: 20446.79->13426.57 camera tensor error: 0.0419->0.0401
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  306
+[0m
+Re-rendering loss: 14765.75->13223.85 camera tensor error: 0.0376->0.0345
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  307
+[0m
+Re-rendering loss: 21450.63->14098.38 camera tensor error: 0.0291->0.0283
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  308
+[0m
+Re-rendering loss: 23404.64->13408.87 camera tensor error: 0.0262->0.0293
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  309
+[0m
+Re-rendering loss: 18531.39->13200.10 camera tensor error: 0.0298->0.0296
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  310
+[0m
+Re-rendering loss: 24504.31->13474.31 camera tensor error: 0.0325->0.0291
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  311
+[0m
+Re-rendering loss: 21125.40->14741.45 camera tensor error: 0.0300->0.0291
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  312
+[0m
+Re-rendering loss: 26896.99->14156.25 camera tensor error: 0.0297->0.0264
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  313
+[0m
+Re-rendering loss: 26394.49->13839.03 camera tensor error: 0.0260->0.0270
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  314
+[0m
+Re-rendering loss: 26786.32->15714.16 camera tensor error: 0.0251->0.0290
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  315
+[0m
+Re-rendering loss: 35450.10->11819.59 camera tensor error: 0.0294->0.0253
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  316
+[0m
+Re-rendering loss: 23819.75->15134.54 camera tensor error: 0.0244->0.0248
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  317
+[0m
+Re-rendering loss: 31029.77->16950.14 camera tensor error: 0.0230->0.0240
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  318
+[0m
+Re-rendering loss: 21295.72->14656.04 camera tensor error: 0.0229->0.0218
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  319
+[0m
+Re-rendering loss: 25031.36->15130.79 camera tensor error: 0.0210->0.0219
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  320
+[0m
+Re-rendering loss: 22727.28->15543.67 camera tensor error: 0.0228->0.0230
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  321
+[0m
+Re-rendering loss: 21462.46->16065.48 camera tensor error: 0.0214->0.0213
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  322
+[0m
+Re-rendering loss: 27393.41->16227.16 camera tensor error: 0.0214->0.0225
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  323
+[0m
+Re-rendering loss: 28847.29->16405.16 camera tensor error: 0.0230->0.0220
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  324
+[0m
+Re-rendering loss: 25028.56->16613.55 camera tensor error: 0.0181->0.0202
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  325
+[0m
+Re-rendering loss: 30576.66->17158.36 camera tensor error: 0.0177->0.0199
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  326
+[0m
+Re-rendering loss: 26075.26->19083.38 camera tensor error: 0.0215->0.0210
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  327
+[0m
+Re-rendering loss: 19997.54->16947.97 camera tensor error: 0.0221->0.0206
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  328
+[0m
+Re-rendering loss: 31990.31->21069.78 camera tensor error: 0.0211->0.0200
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  329
+[0m
+Re-rendering loss: 77592.84->21416.31 camera tensor error: 0.4436->0.4392
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  330
+[0m
+Re-rendering loss: 31412.26->22924.83 camera tensor error: 0.0238->0.0215
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  331
+[0m
+Re-rendering loss: 41127.14->24069.80 camera tensor error: 0.0207->0.0196
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  332
+[0m
+Re-rendering loss: 27684.06->24627.62 camera tensor error: 0.0198->0.0223
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  333
+[0m
+Re-rendering loss: 27602.25->28777.00 camera tensor error: 0.0213->0.0207
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  334
+[0m
+Re-rendering loss: 42323.11->26643.58 camera tensor error: 0.0202->0.0199
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  335
+[0m
+Re-rendering loss: 45943.24->25968.44 camera tensor error: 0.0194->0.0204
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  336
+[0m
+Re-rendering loss: 31822.61->25833.88 camera tensor error: 0.0183->0.0211
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  337
+[0m
+Re-rendering loss: 66443.56->26832.86 camera tensor error: 0.0202->0.0207
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  338
+[0m
+Re-rendering loss: 52905.50->28260.29 camera tensor error: 0.0243->0.0222
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  339
+[0m
+Re-rendering loss: 56837.10->31389.40 camera tensor error: 0.0240->0.0231
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  340
+[0m
+Re-rendering loss: 61044.45->46288.90 camera tensor error: 0.0255->0.0213
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  341
+[0m
+Re-rendering loss: 54860.92->35163.28 camera tensor error: 0.0204->0.0248
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  342
+[0m
+Re-rendering loss: 6446.69->2155.33 camera tensor error: 0.0225->0.0229
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  343
+[0m
+Re-rendering loss: 2117.39->1592.37 camera tensor error: 0.0216->0.0196
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  344
+[0m
+Re-rendering loss: 2268.09->1552.41 camera tensor error: 0.0206->0.0214
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  345
+[0m
+Re-rendering loss: 2217.92->1205.86 camera tensor error: 0.0237->0.0239
+Tracking: update the parameters from mapping[32m
+Coarse Mapping Frame  194
+[0m
+[32m
+Coarse Mapping Frame  195
+[0m
+[32m
+Coarse Mapping Frame  196
+[0m
+[32m
+Coarse Mapping Frame  197
+[0m
+[32m
+Coarse Mapping Frame  198
+[0m
+[32m
+Coarse Mapping Frame  199
+[0m
+[32m
+Coarse Mapping Frame  200
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00200_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00200_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00200_0050.jpg
+[32m
+Coarse Mapping Frame  201
+[0m
+[32m
+Coarse Mapping Frame  202
+[0m
+[32m
+Coarse Mapping Frame  203
+[0m
+[32m
+Coarse Mapping Frame  204
+[0m
+[32m
+Coarse Mapping Frame  205
+[0m
+[32m
+Coarse Mapping Frame  206
+[0m
+[32m
+Coarse Mapping Frame  207
+[0m
+[32m
+Coarse Mapping Frame  208
+[0m
+[32m
+Coarse Mapping Frame  209
+[0m
+[32m
+Coarse Mapping Frame  210
+[0m
+[32m
+Coarse Mapping Frame  211
+[0m
+[32m
+Coarse Mapping Frame  212
+[0m
+[32m
+Coarse Mapping Frame  213
+[0m
+[32m
+Coarse Mapping Frame  214
+[0m
+[32m
+Coarse Mapping Frame  215
+[0m
+[32m
+Coarse Mapping Frame  216
+[0m
+[32m
+Coarse Mapping Frame  217
+[0m
+[32m
+Coarse Mapping Frame  218
+[0m
+[32m
+Coarse Mapping Frame  219
+[0m
+[32m
+Coarse Mapping Frame  220
+[0m
+[32m
+Coarse Mapping Frame  221
+[0m
+[32m
+Coarse Mapping Frame  222
+[0m
+[32m
+Coarse Mapping Frame  223
+[0m
+[32m
+Coarse Mapping Frame  224
+[0m
+[32m
+Coarse Mapping Frame  225
+[0m
+[32m
+Coarse Mapping Frame  226
+[0m
+[32m
+Coarse Mapping Frame  227
+[0m
+[32m
+Coarse Mapping Frame  228
+[0m
+[32m
+Coarse Mapping Frame  229
+[0m
+[32m
+Coarse Mapping Frame  230
+[0m
+[32m
+Coarse Mapping Frame  231
+[0m
+[32m
+Coarse Mapping Frame  232
+[0m
+[32m
+Coarse Mapping Frame  233
+[0m
+[32m
+Coarse Mapping Frame  234
+[0m
+[32m
+Coarse Mapping Frame  235
+[0m
+[32m
+Coarse Mapping Frame  236
+[0m
+[32m
+Coarse Mapping Frame  237
+[0m
+[32m
+Coarse Mapping Frame  238
+[0m
+[32m
+Coarse Mapping Frame  239
+[0m
+[32m
+Coarse Mapping Frame  240
+[0m
+[32m
+Coarse Mapping Frame  241
+[0m
+[32m
+Coarse Mapping Frame  242
+[0m
+[32m
+Coarse Mapping Frame  243
+[0m
+[32m
+Coarse Mapping Frame  244
+[0m
+[32m
+Coarse Mapping Frame  245
+[0m
+[32m
+Coarse Mapping Frame  246
+[0m
+[32m
+Coarse Mapping Frame  247
+[0m
+[32m
+Coarse Mapping Frame  248
+[0m
+[32m
+Coarse Mapping Frame  249
+[0m
+[32m
+Coarse Mapping Frame  250
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00250_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00250_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00250_0050.jpg
+[32m
+Coarse Mapping Frame  251
+[0m
+[32m
+Coarse Mapping Frame  252
+[0m
+[32m
+Coarse Mapping Frame  253
+[0m
+[32m
+Coarse Mapping Frame  254
+[0m
+[32m
+Coarse Mapping Frame  255
+[0m
+[32m
+Coarse Mapping Frame  256
+[0m
+[32m
+Coarse Mapping Frame  257
+[0m
+[32m
+Coarse Mapping Frame  258
+[0m
+[32m
+Coarse Mapping Frame  259
+[0m
+[32m
+Coarse Mapping Frame  260
+[0m
+[32m
+Coarse Mapping Frame  261
+[0m
+[32m
+Coarse Mapping Frame  262
+[0m
+[32m
+Coarse Mapping Frame  263
+[0m
+[32m
+Coarse Mapping Frame  264
+[0m
+[32m
+Coarse Mapping Frame  265
+[0m
+[32m
+Coarse Mapping Frame  266
+[0m
+[32m
+Coarse Mapping Frame  267
+[0m
+[32m
+Coarse Mapping Frame  268
+[0m
+[32m
+Coarse Mapping Frame  269
+[0m
+[32m
+Coarse Mapping Frame  270
+[0m
+[32m
+Coarse Mapping Frame  271
+[0m
+[32m
+Coarse Mapping Frame  272
+[0m
+[32m
+Coarse Mapping Frame  273
+[0m
+[32m
+Coarse Mapping Frame  274
+[0m
+[32m
+Coarse Mapping Frame  275
+[0m
+[32m
+Coarse Mapping Frame  276
+[0m
+[32m
+Coarse Mapping Frame  277
+[0m
+[32m
+Coarse Mapping Frame  278
+[0m
+[32m
+Coarse Mapping Frame  279
+[0m
+[32m
+Coarse Mapping Frame  280
+[0m
+[32m
+Coarse Mapping Frame  281
+[0m
+[32m
+Coarse Mapping Frame  282
+[0m
+[32m
+Coarse Mapping Frame  283
+[0m
+[32m
+Coarse Mapping Frame  284
+[0m
+[32m
+Coarse Mapping Frame  285
+[0m
+[32m
+Coarse Mapping Frame  286
+[0m
+[32m
+Coarse Mapping Frame  287
+[0m
+[32m
+Coarse Mapping Frame  288
+[0m
+[32m
+Coarse Mapping Frame  289
+[0m
+[32m
+Coarse Mapping Frame  290
+[0m
+[32m
+Coarse Mapping Frame  291
+[0m
+[32m
+Coarse Mapping Frame  292
+[0m
+[32m
+Coarse Mapping Frame  293
+[0m
+[32m
+Coarse Mapping Frame  294
+[0m
+[32m
+Coarse Mapping Frame  295
+[0m
+[32m
+Coarse Mapping Frame  296
+[0m
+[32m
+Coarse Mapping Frame  297
+[0m
+[32m
+Coarse Mapping Frame  298
+[0m
+[32m
+Coarse Mapping Frame  299
+[0m
+[32m
+Coarse Mapping Frame  300
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00300_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00300_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00300_0050.jpg
+[32m
+Coarse Mapping Frame  301
+[0m
+[32m
+Coarse Mapping Frame  302
+[0m
+[32m
+Coarse Mapping Frame  303
+[0m
+[32m
+Coarse Mapping Frame  304
+[0m
+[32m
+Coarse Mapping Frame  305
+[0m
+[32m
+Coarse Mapping Frame  306
+[0m
+[32m
+Coarse Mapping Frame  307
+[0m
+[32m
+Coarse Mapping Frame  308
+[0m
+[32m
+Coarse Mapping Frame  309
+[0m
+[32m
+Coarse Mapping Frame  310
+[0m
+[32m
+Coarse Mapping Frame  311
+[0m
+[32m
+Coarse Mapping Frame  312
+[0m
+[32m
+Coarse Mapping Frame  313
+[0m
+[32m
+Coarse Mapping Frame  314
+[0m
+[32m
+Coarse Mapping Frame  315
+[0m
+[32m
+Coarse Mapping Frame  316
+[0m
+[32m
+Coarse Mapping Frame  317
+[0m
+[32m
+Coarse Mapping Frame  318
+[0m
+[32m
+Coarse Mapping Frame  319
+[0m
+[32m
+Coarse Mapping Frame  320
+[0m
+[32m
+Coarse Mapping Frame  321
+[0m
+[32m
+Coarse Mapping Frame  322
+[0m
+[32m
+Coarse Mapping Frame  323
+[0m
+[32m
+Coarse Mapping Frame  324
+[0m
+[32m
+Coarse Mapping Frame  325
+[0m
+[32m
+Coarse Mapping Frame  326
+[0m
+[32m
+Coarse Mapping Frame  327
+[0m
+[32m
+Coarse Mapping Frame  328
+[0m
+[32m
+Coarse Mapping Frame  329
+[0m
+[32m
+Coarse Mapping Frame  330
+[0m
+[32m
+Coarse Mapping Frame  331
+[0m
+[32m
+Coarse Mapping Frame  332
+[0m
+[32m
+Coarse Mapping Frame  333
+[0m
+[32m
+Coarse Mapping Frame  334
+[0m
+[32m
+Coarse Mapping Frame  335
+[0m
+[32m
+Coarse Mapping Frame  336
+[0m
+[32m
+Coarse Mapping Frame  337
+[0m
+[32m
+Coarse Mapping Frame  338
+[0m
+[32m
+Coarse Mapping Frame  339
+[0m
+[32m
+Coarse Mapping Frame  340
+[0m
+[32m
+Coarse Mapping Frame  341
+[0m
+[32m
+Coarse Mapping Frame  342
+[0m
+[32m
+Coarse Mapping Frame  343
+[0m
+[32m
+Coarse Mapping Frame  344
+[0m
+[32m
+Coarse Mapping Frame  345
+[0m
+[32m
+Coarse Mapping Frame  346
+[0m
+[32m
+Coarse Mapping Frame  347
+[0m
+[32m
+Coarse Mapping Frame  348
+[0m
+[32m
+Coarse Mapping Frame  349
+[0m
+[32m
+Coarse Mapping Frame  350
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00350_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00350_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00350_0050.jpg
+[32m
+Coarse Mapping Frame  351
+[0m
+[32m
+Coarse Mapping Frame  352
+[0m
+[32m
+Coarse Mapping Frame  353
+[0m
+[32m
+Coarse Mapping Frame  354
+[0m
+[32m
+Coarse Mapping Frame  355
+[0m
+[32m
+Coarse Mapping Frame  356
+[0m
+[32m
+Coarse Mapping Frame  357
+[0m
+[32m
+Coarse Mapping Frame  358
+[0m
+[32m
+Coarse Mapping Frame  359
+[0m
+[32m
+Coarse Mapping Frame  360
+[0m
+[32m
+Coarse Mapping Frame  361
+[0m
+[32m
+Coarse Mapping Frame  362
+[0m
+[32m
+Coarse Mapping Frame  363
+[0m
+[32m
+Coarse Mapping Frame  364
+[0m
+[32m
+Coarse Mapping Frame  365
+[0m
+[32m
+Coarse Mapping Frame  366
+[0m
+[32m
+Coarse Mapping Frame  367
+[0m
+[32m
+Coarse Mapping Frame  368
+[0m
+[32m
+Coarse Mapping Frame  369
+[0m
+[32m
+Coarse Mapping Frame  370
+[0m
+[32m
+Coarse Mapping Frame  371
+[0m
+[32m
+Coarse Mapping Frame  372
+[0m
+[32m
+Coarse Mapping Frame  373
+[0m
+[32m
+Coarse Mapping Frame  374
+[0m
+[35m
+Tracking Frame  346
+[0m
+Re-rendering loss: 13485.77->24666.76 camera tensor error: 0.0239->0.0245
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  347
+[0m
+Re-rendering loss: 83091.85->25640.23 camera tensor error: 0.0340->0.0276
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  348
+[0m
+Re-rendering loss: 40044.40->26567.49 camera tensor error: 0.0296->0.0247
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  349
+[0m
+Re-rendering loss: 78609.61->47998.90 camera tensor error: 0.0212->0.0259
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  350
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00350_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00350_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00350_0050.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00350_0075.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00350_0100.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00350_0125.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00350_0150.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00350_0175.jpg
+Re-rendering loss: 16594.23->10217.27 camera tensor error: 0.0250->0.0214
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  351
+[0m
+Re-rendering loss: 65972.57->27844.85 camera tensor error: 0.0209->0.0233
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  352
+[0m
+Re-rendering loss: 77539.27->34732.29 camera tensor error: 0.0224->0.0258
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  353
+[0m
+Re-rendering loss: 113294.21->41666.45 camera tensor error: 0.0277->0.0285
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  354
+[0m
+Re-rendering loss: 141714.48->44963.59 camera tensor error: 0.0295->0.0315
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  355
+[0m
+Re-rendering loss: 175754.91->72026.46 camera tensor error: 0.0348->0.0304
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  356
+[0m
+Re-rendering loss: 93572.82->62146.56 camera tensor error: 0.0296->0.0307
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  357
+[0m
+Re-rendering loss: 113044.48->52940.43 camera tensor error: 0.0255->0.0307
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  358
+[0m
+Re-rendering loss: 93153.52->49631.43 camera tensor error: 0.3784->0.3763
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  359
+[0m
+Re-rendering loss: 111635.20->45413.77 camera tensor error: 0.0274->0.0282
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  360
+[0m
+Re-rendering loss: 50375.41->41717.20 camera tensor error: 0.0278->0.0282
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  361
+[0m
+Re-rendering loss: 59020.79->38088.30 camera tensor error: 0.0268->0.0278
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  362
+[0m
+Re-rendering loss: 68494.32->36147.12 camera tensor error: 0.0303->0.0330
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  363
+[0m
+Re-rendering loss: 38775.83->31540.48 camera tensor error: 0.3421->0.3430
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  364
+[0m
+Re-rendering loss: 33707.20->32729.47 camera tensor error: 0.3361->0.3368
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  365
+[0m
+Re-rendering loss: 57826.27->31005.10 camera tensor error: 0.0272->0.0298
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  366
+[0m
+Re-rendering loss: 44060.47->29637.23 camera tensor error: 0.0253->0.0285
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  367
+[0m
+Re-rendering loss: 67581.87->27687.41 camera tensor error: 0.0285->0.0315
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  368
+[0m
+Re-rendering loss: 30372.32->28089.22 camera tensor error: 0.0302->0.0317
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  369
+[0m
+Re-rendering loss: 31785.79->26790.03 camera tensor error: 0.0301->0.0296
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  370
+[0m
+Re-rendering loss: 37492.16->26231.62 camera tensor error: 0.0276->0.0309
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  371
+[0m
+Re-rendering loss: 49519.44->30140.12 camera tensor error: 0.0307->0.0323
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  372
+[0m
+Re-rendering loss: 30716.76->29138.93 camera tensor error: 0.0315->0.0309
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  373
+[0m
+Re-rendering loss: 49376.37->31172.18 camera tensor error: 0.0286->0.0310
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  374
+[0m
+Re-rendering loss: 43023.15->29752.94 camera tensor error: 0.0301->0.0320
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  375
+[0m
+Re-rendering loss: 30988.18->28578.61 camera tensor error: 0.0313->0.0312
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  376
+[0m
+Re-rendering loss: 65111.38->32903.39 camera tensor error: 0.0318->0.0300
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  377
+[0m
+Re-rendering loss: 75786.57->30856.35 camera tensor error: 0.0321->0.0282
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  378
+[0m
+Re-rendering loss: 68563.09->27527.83 camera tensor error: 0.0255->0.0286
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  379
+[0m
+Re-rendering loss: 54006.00->27724.16 camera tensor error: 0.0250->0.0270
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  380
+[0m
+Re-rendering loss: 42091.88->29047.06 camera tensor error: 0.0264->0.0288
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  381
+[0m
+Re-rendering loss: 43381.60->25963.66 camera tensor error: 0.0257->0.0275
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  382
+[0m
+Re-rendering loss: 40177.61->26136.48 camera tensor error: 0.0247->0.0244
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  383
+[0m
+Re-rendering loss: 42884.68->24760.38 camera tensor error: 0.0256->0.0267
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  384
+[0m
+Re-rendering loss: 28812.47->27599.84 camera tensor error: 0.0245->0.0265
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  385
+[0m
+Re-rendering loss: 2057.17->12440.88 camera tensor error: 0.0250->0.0264
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  386
+[0m
+Re-rendering loss: 81004.83->22726.75 camera tensor error: 0.0286->0.0299
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  387
+[0m
+Re-rendering loss: 68106.87->20014.64 camera tensor error: 0.0275->0.0283
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  388
+[0m
+Re-rendering loss: 68802.01->19310.35 camera tensor error: 0.0255->0.0244
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  389
+[0m
+Re-rendering loss: 51066.20->18727.73 camera tensor error: 0.0232->0.0259
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  390
+[0m
+Re-rendering loss: 24867.21->19049.79 camera tensor error: 0.0260->0.0231
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  391
+[0m
+Re-rendering loss: 20315.04->18641.00 camera tensor error: 0.0204->0.0212
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  392
+[0m
+Re-rendering loss: 36412.93->17159.44 camera tensor error: 0.0210->0.0231
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  393
+[0m
+Re-rendering loss: 52141.51->17205.45 camera tensor error: 0.0233->0.0249
+Tracking: update the parameters from mapping 216
+[0m
+[32m
+Mapping Frame  217
+[0m
+[32m
+Mapping Frame  218
+[0m
+[32m
+Mapping Frame  219
+[0m
+[32m
+Mapping Frame  220
+[0m
+[32m
+Mapping Frame  221
+[0m
+[32m
+Mapping Frame  222
+[0m
+[32m
+Mapping Frame  223
+[0m
+[32m
+Mapping Frame  224
+[0m
+[32m
+Mapping Frame  225
+[0m
+[32m
+Mapping Frame  226
+[0m
+[32m
+Mapping Frame  227
+[0m
+[32m
+Mapping Frame  228
+[0m
+[32m
+Mapping Frame  229
+[0m
+[32m
+Mapping Frame  230
+[0m
+[32m
+Mapping Frame  231
+[0m
+[32m
+Mapping Frame  232
+[0m
+[32m
+Mapping Frame  233
+[0m
+[32m
+Mapping Frame  234
+[0m
+[32m
+Mapping Frame  235
+[0m
+[32m
+Mapping Frame  236
+[0m
+[32m
+Mapping Frame  237
+[0m
+[32m
+Mapping Frame  238
+[0m
+[32m
+Mapping Frame  239
+[0m
+[32m
+Mapping Frame  240
+[0m
+[32m
+Mapping Frame  241
+[0m
+[32m
+Mapping Frame  242
+[0m
+[32m
+Mapping Frame  243
+[0m
+[32m
+Mapping Frame  244
+[0m
+[32m
+Mapping Frame  245
+[0m
+[32m
+Mapping Frame  246
+[0m
+[32m
+Mapping Frame  247
+[0m
+[32m
+Mapping Frame  248
+[0m
+[32m
+Mapping Frame  249
+[0m
+[32m
+Mapping Frame  250
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00250_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00250_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00250_0050.jpg
+Saved mesh at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mesh/00250_mesh.ply
+[32m
+Mapping Frame  251
+[0m
+[32m
+Mapping Frame  252
+[0m
+[32m
+Mapping Frame  253
+[0m
+[32m
+Mapping Frame  254
+[0m
+[32m
+Mapping Frame  255
+[0m
+[32m
+Mapping Frame  256
+[0m
+[32m
+Mapping Frame  257
+[0m
+[32m
+Mapping Frame  258
+[0m
+[32m
+Mapping Frame  259
+[0m
+[32m
+Mapping Frame  260
+[0m
+[32m
+Mapping Frame  261
+[0m
+[32m
+Mapping Frame  262
+[0m
+[32m
+Mapping Frame  263
+[0m
+[32m
+Mapping Frame  264
+[0m
+[32m
+Mapping Frame  265
+[0m
+[32m
+Mapping Frame  266
+[0m
+[32m
+Mapping Frame  267
+[0m
+[32m
+Mapping Frame  268
+[0m
+[32m
+Mapping Frame  269
+[0m
+[32m
+Mapping Frame  270
+[0m
+[32m
+Mapping Frame  271
+[0m
+[32m
+Mapping Frame  272
+[0m
+[32m
+Mapping Frame  273
+[0m
+[32m
+Mapping Frame  274
+[0m
+[32m
+Mapping Frame  275
+[0m
+[32m
+Mapping Frame  276
+[0m
+[32m
+Mapping Frame  277
+[0m
+[32m
+Mapping Frame  278
+[0m
+[32m
+Mapping Frame  279
+[0m
+[32m
+Mapping Frame  280
+[0m
+[32m
+Mapping Frame  281
+[0m
+[32m
+Mapping Frame  282
+[0m
+[32m
+Mapping Frame  283
+[0m
+[32m
+Mapping Frame  284
+[0m
+[32m
+Mapping Frame  285
+[0m
+[32m
+Mapping Frame  286
+[0m
+[32m
+Mapping Frame  287
+[0m
+[32m
+Mapping Frame  288
+[0m
+[32m
+Mapping Frame  289
+[0m
+[32m
+Mapping Frame  290
+[0m
+[32m
+Mapping Frame  291
+[0m
+[32m
+Mapping Frame  292
+[0m
+[32m
+Mapping Frame  293
+[0m
+[32m
+Mapping Frame  294
+[0m
+[32m
+Mapping Frame  295
+[0m
+[32m
+Mapping Frame  296
+[0m
+[32m
+Mapping Frame  297
+[0m
+[32m
+Mapping Frame  298
+[0m
+[32m
+Mapping Frame  299
+[0m
+[32m
+Mapping Frame  300
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00300_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00300_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00300_0050.jpg
+Saved mesh at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mesh/00300_mesh.ply
+[32m
+Mapping Frame  301
+[0m
+[32m
+Mapping Frame  302
+[0m
+[32m
+Mapping Frame  303
+[0m
+[32m
+Mapping Frame  304
+[0m
+[32m
+Mapping Frame  305
+[0m
+[32m
+Mapping Frame  306
+[0m
+[32m
+Mapping Frame  307
+[0m
+[32m
+Mapping Frame  308
+[0m
+[32m
+Mapping Frame  309
+[0m
+[32m
+Mapping Frame  310
+[0m
+[32m
+Mapping Frame  311
+[0m
+[32m
+Mapping Frame  312
+[0m
+[32m
+Mapping Frame  313
+[0m
+[32m
+Mapping Frame  314
+[0m
+[32m
+Mapping Frame  315
+[0m
+[32m
+Mapping Frame  316
+[0m
+[32m
+Mapping Frame  317
+[0m
+[32m
+Mapping Frame  318
+[0m
+[32m
+Mapping Frame  319
+[0m
+[32m
+Mapping Frame  320
+[0m
+[32m
+Mapping Frame  321
+[0m
+[32m
+Mapping Frame  322
+[0m
+[32m
+Mapping Frame  323
+[0m
+[32m
+Mapping Frame  324
+[0m
+[32m
+Mapping Frame  325
+[0m
+[32m
+Mapping Frame  326
+[0m
+[32m
+Mapping Frame  327
+[0m
+[32m
+Mapping Frame  328
+[0m
+[32m
+Mapping Frame  329
+[0m
+[32m
+Mapping Frame  330
+[0m
+[32m
+Mapping Frame  331
+[0m
+[32m
+Mapping Frame  332
+[0m
+[32m
+Mapping Frame  333
+[0m
+[32m
+Mapping Frame  334
+[0m
+[32m
+Mapping Frame  335
+[0m
+[32m
+Mapping Frame  336
+[0m
+[32m
+Mapping Frame  337
+[0m
+[32m
+Mapping Frame  338
+[0m
+[32m
+Mapping Frame  339
+[0m
+[32m
+Mapping Frame  340
+[0m
+[32m
+Mapping Frame  341
+[0m
+[32m
+Mapping Frame  342
+[0m
+[32m
+Mapping Frame  343
+[0m
+[32m
+Mapping Frame  344
+[0m
+[32m
+Mapping Frame  345
+[0m
+[32m
+Mapping Frame  346
+[0m
+[32m
+Mapping Frame  347
+[0m
+[32m
+Mapping Frame  348
+[0m
+[32m
+Mapping Frame  349
+[0m
+[32m
+Mapping Frame  350
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00350_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00350_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00350_0050.jpg
+Saved mesh at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mesh/00350_mesh.ply
+[32m
+Mapping Frame  351
+[0m
+[32m
+Mapping Frame  352
+[0m
+[32m
+Mapping Frame  353
+[0m
+[32m
+Mapping Frame  354
+[0m
+[32m
+Mapping Frame  355
+[0m
+[32m
+Mapping Frame  356
+[0m
+[32m
+Mapping Frame  357
+[0m
+[32m
+Mapping Frame  358
+[0m
+[32m
+Mapping Frame  359
+[0m
+[32m
+Mapping Frame  360
+[0m
+[32m
+Mapping Frame  361
+[0m
+[32m
+Mapping Frame  362
+[0m
+[32m
+Mapping Frame  363
+[0m
+[32m
+Mapping Frame  364
+[0m
+[32m
+Mapping Frame  365
+[0m
+[32m
+Mapping Frame  366
+[0m
+[32m
+Mapping Frame  367
+[0m
+[32m
+Mapping Frame  368
+[0m
+[32m
+Mapping Frame  369
+[0m
+[32m
+Mapping Frame  370
+[0m
+[32m
+Mapping Frame  371
+[0m
+[32m
+Mapping Frame  372
+[0m
+[32m
+Mapping Frame  373
+[0m
+[32m
+Mapping Frame  374
+[0m
+[32m
+Mapping Frame  375
+[0m
+[32m
+Mapping Frame  376
+[0m
+[32m
+Mapping Frame  377
+[0m
+[32m
+Mapping Frame  378
+[0m
+[32m
+Mapping Frame  379
+[0m
+[32m
+Mapping Frame  380
+[0m
+[32m
+Mapping Frame  381
+[0m
+[32m
+Mapping Frame  382
+[0m
+[32m
+Mapping Frame  383
+[0m
+[32m
+Mapping Frame  384
+[0m
+[32m
+Mapping Frame  385
+[0m
+[32m
+Mapping Frame  386
+[0m
+[32m
+Mapping Frame  387
+[0m
+[32m
+Mapping Frame  388
+[0m
+[32m
+Mapping Frame  389
+[0m
+[32m
+Mapping Frame  390
+[0m
+[32m
+Mapping Frame  391
+[0m
+[32m
+Mapping Frame  392
+[0m
+[32m
+Mapping Frame  393
+[0m
+[32m
+Mapping Frame  394
+[0m
+[32m
+Mapping Frame  395
+[0m
+[32m
+Mapping Frame  396
+[0m
+[32m
+Mapping Frame  397
+[0m
+[32m
+Mapping Frame  398
+[0m
+[32m
+Mapping Frame  399
+[0m
+[32m
+Mapping Frame  400
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00400_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00400_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00400_0050.jpg
+Saved mesh at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mesh/00400_mesh.ply
+[32m
+Mapping Frame  401
+[0m
+[32m
+Mapping Frame  402
+[0m
+[32m
+Mapping Frame  403
+[0m
+[32m
+Mapping Frame  404
+[0m
+[32m
+Mapping Frame  405
+[0m
+[32m
+Mapping Frame  406
+[0m
+[32m
+Mapping Frame  407
+[0m
+[32m
+Mapping Frame  408
+[0m
+[32m
+Mapping Frame  409
+[0m
+[32m
+Mapping Frame  410
+[0m
+[32m
+Mapping Frame  411
+[0m
+[32m
+Mapping Frame  412
+[0m
+[32m
+Mapping Frame  413
+[0m
+[32m
+Mapping Frame  414
+[0m
+[32m
+Mapping Frame  415
+[0m
+[32m
+Mapping Frame  416
+[0m
+[32m
+Mapping Frame  417
+[0m
+[32m
+Mapping Frame  418
+[0m
+[32m
+Mapping Frame  419
+[0m
+[32m
+Mapping Frame  420
+[0m
+[32m
+Mapping Frame  421
+[0m
+[32m
+Mapping Frame  422
+[0m
+[32m
+Mapping Frame  423
+[0m
+[32m
+Mapping Frame  424
+[0m
+[32m
+Mapping Frame  425
+[0m
+[32m
+Mapping Frame  426
+[0m
+[32m
+Mapping Frame  427
+[0m
+[32m
+Mapping Frame  428
+[0m
+[32m
+Mapping Frame 
+[35m
+Tracking Frame  394
+[0m
+Re-rendering loss: 28811.51->16285.04 camera tensor error: 0.0266->0.0230
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  395
+[0m
+Re-rendering loss: 38641.14->16894.63 camera tensor error: 0.0213->0.0214
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  396
+[0m
+Re-rendering loss: 24688.56->18311.53 camera tensor error: 0.0179->0.0205
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  397
+[0m
+Re-rendering loss: 42084.30->17755.05 camera tensor error: 0.0211->0.0201
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  398
+[0m
+Re-rendering loss: 4410.10->1942.35 camera tensor error: 0.0213->0.0236
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  399
+[0m
+Re-rendering loss: 43229.67->19075.62 camera tensor error: 0.0270->0.0188
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  400
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00400_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00400_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00400_0050.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00400_0075.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00400_0100.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00400_0125.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00400_0150.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00400_0175.jpg
+Re-rendering loss: 63507.21->18825.89 camera tensor error: 0.0198->0.0214
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  401
+[0m
+Re-rendering loss: 36210.99->19618.36 camera tensor error: 0.0248->0.0222
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  402
+[0m
+Re-rendering loss: 37872.42->20686.88 camera tensor error: 0.0182->0.0199
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  403
+[0m
+Re-rendering loss: 30294.93->19341.46 camera tensor error: 0.0216->0.0202
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  404
+[0m
+Re-rendering loss: 57871.21->20432.23 camera tensor error: 0.0228->0.0234
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  405
+[0m
+Re-rendering loss: 34626.52->22186.19 camera tensor error: 0.0235->0.0188
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  406
+[0m
+Re-rendering loss: 34160.49->21491.73 camera tensor error: 0.0188->0.0198
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  407
+[0m
+Re-rendering loss: 37386.49->22298.24 camera tensor error: 0.0265->0.0248
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  408
+[0m
+Re-rendering loss: 33250.82->21022.95 camera tensor error: 0.0292->0.0231
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  409
+[0m
+Re-rendering loss: 28513.22->20468.47 camera tensor error: 0.0215->0.0225
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  410
+[0m
+Re-rendering loss: 40457.62->21994.53 camera tensor error: 0.0204->0.0211
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  411
+[0m
+Re-rendering loss: 33106.86->22142.51 camera tensor error: 0.0203->0.0193
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  412
+[0m
+Re-rendering loss: 23250.93->21819.93 camera tensor error: 0.0196->0.0188
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  413
+[0m
+Re-rendering loss: 23820.45->22485.97 camera tensor error: 0.0179->0.0173
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  414
+[0m
+Re-rendering loss: 26974.79->21665.56 camera tensor error: 0.0173->0.0196
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  415
+[0m
+Re-rendering loss: 91030.48->27139.74 camera tensor error: 0.0295->0.0215
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  416
+[0m
+Re-rendering loss: 49225.82->25034.55 camera tensor error: 0.0196->0.0208
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  417
+[0m
+Re-rendering loss: 34520.10->25464.32 camera tensor error: 0.0218->0.0206
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  418
+[0m
+Re-rendering loss: 39409.14->27578.82 camera tensor error: 0.0246->0.0222
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  419
+[0m
+Re-rendering loss: 28794.46->25400.66 camera tensor error: 0.0226->0.0213
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  420
+[0m
+Re-rendering loss: 60542.38->28029.90 camera tensor error: 0.0195->0.0200
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  421
+[0m
+Re-rendering loss: 43954.96->24401.36 camera tensor error: 0.0210->0.0193
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  422
+[0m
+Re-rendering loss: 39431.07->26480.41 camera tensor error: 0.0180->0.0207
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  423
+[0m
+Re-rendering loss: 74179.11->27308.51 camera tensor error: 0.0251->0.0214
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  424
+[0m
+Re-rendering loss: 51475.85->31335.05 camera tensor error: 0.0259->0.0219
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  425
+[0m
+Re-rendering loss: 77635.73->26692.85 camera tensor error: 0.0160->0.0200
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  426
+[0m
+Re-rendering loss: 75647.73->28443.26 camera tensor error: 0.0231->0.0209
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  427
+[0m
+Re-rendering loss: 2740.86->1768.36 camera tensor error: 0.0220->0.0220
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  428
+[0m
+Re-rendering loss: 45704.41->29937.69 camera tensor error: 0.0185->0.0215
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  429
+[0m
+Re-rendering loss: 99188.30->32060.71 camera tensor error: 0.0269->0.0241
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  430
+[0m
+Re-rendering loss: 53872.14->31645.20 camera tensor error: 0.0261->0.0220
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  431
+[0m
+Re-rendering loss: 82088.97->31834.33 camera tensor error: 0.0194->0.0207
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  432
+[0m
+Re-rendering loss: 36644.37->31496.31 camera tensor error: 0.0208->0.0213
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  433
+[0m
+Re-rendering loss: 39565.89->31725.54 camera tensor error: 0.0225->0.0198
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  434
+[0m
+Re-rendering loss: 54119.43->30592.73 camera tensor error: 0.0166->0.0199
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  435
+[0m
+Re-rendering loss: 52190.11->35098.01 camera tensor error: 0.0215->0.0207
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  436
+[0m
+Re-rendering loss: 47737.75->34826.86 camera tensor error: 0.0206->0.0190
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  437
+[0m
+Re-rendering loss: 38693.50->32433.40 camera tensor error: 0.0204->0.0179
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  438
+[0m
+Re-rendering loss: 93205.95->35958.50 camera tensor error: 0.0139->0.0188
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  439
+[0m
+Re-rendering loss: 48109.31->32964.59 camera tensor error: 0.0204->0.0161
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  440
+[0m
+Re-rendering loss: 49193.02->32657.38 camera tensor error: 0.0129->0.0153
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  441
+[0m
+Re-rendering loss: 38665.06->34931.27 camera tensor error: 0.0168->0.0168
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  442
+[0m
+Re-rendering loss: 44797.88->32820.67 camera tensor error: 0.0171->0.0164
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  443
+[0m
+Re-rendering loss: 80811.62->32003.89 camera tensor error: 0.0159->0.0152
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  444
+[0m
+Re-rendering loss: 73632.34->30966.99 camera tensor error: 0.0176->0.0154
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  445
+[0m
+Re-rendering loss: 51923.24->34853.67 camera tensor error: 0.0162->0.0147
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  446
+[0m
+Re-rendering loss: 42079.57->33695.12 camera tensor error: 0.0154->0.0155
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  447
+[0m
+Re-rendering loss: 43819.63->31825.36 camera tensor error: 0.0158->0.0155
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  448
+[0m
+Re-rendering loss: 39462.20->33298.60 camera tensor error: 0.0139->0.0143
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  449
+[0m
+Re-rendering loss: 95760.31->34589.78 camera tensor error: 0.0180->0.0160
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  450
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00450_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00450_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00450_0050.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00450_0075.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00450_0100.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00450_0125.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00450_0150.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00450_0175.jpg
+Re-rendering loss: 49694.10->36435.45 camera tensor error: 0.0155->0.0157
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  451
+[0m
+Re-rendering loss: 64391.41->34451.37 camera tensor error: 0.0151->0.0152
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  452
+[0m
+Re-rendering loss: 72259.85->33899.75 camera tensor error: 0.0149->0.0157
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  453
+[0m
+Re-rendering loss: 66791.14->37890.09 camera tensor error: 0.0172->0.0156
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  454
+[0m
+Re-rendering loss: 50016.37->36240.80 camera tensor error: 0.0150->0.0140
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  455
+[0m
+Re-rendering loss: 41741.32->40786.78 camera tensor error: 0.0144->0.0145
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  456
+[0m
+Re-rendering loss: 54437.99->38393.78 camera tensor error: 0.0148->0.0151
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  457
+[0m
+Re-rendering loss: 52386.04->46792.65 camera tensor error: 0.0170->0.0145
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  458
+[0m
+Re-rendering loss: 75505.19->43579.53 camera tensor error: 0.0167->0.0149
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  459
+[0m
+Re-rendering loss: 52285.86->41878.03 camera tensor error: 0.0147->0.0149
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  460
+[0m
+Re-rendering loss: 50597.00->47202.10 camera tensor error: 0.0196->0.0180
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  461
+[0m
+Re-rendering loss: 73434.40->50352.16 camera tensor error: 0.0187->0.0183
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  462
+[0m
+Re-rendering loss: 129396.97->43101.13 camera tensor error: 0.0180->0.0173
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  463
+[0m
+Re-rendering loss: 95156.85->50431.30 camera tensor error: 0.0185->0.0174
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  464
+[0m
+Re-rendering loss: 91245.34->60332.84 camera tensor error: 0.0192->0.0195
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  465
+[0m
+Re-rendering loss: 97704.59->65793.05 camera tensor error: 0.0152->0.0144
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  466
+[0m
+Re-rendering loss: 145571.30->51149.00 camera tensor error: 0.0179->0.0153
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  467
+[0m
+Re-rendering loss: 96289.34->60952.15 camera tensor error: 0.0158->0.0141
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  468
+[0m
+Re-rendering loss: 63087.78->60024.44 camera tensor error: 0.0133->0.0142
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  469
+[0m
+Re-rendering loss: 73126.53->62687.33 camera tensor error: 0.0184->0.0171
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  470
+[0m
+Re-rendering loss: 154128.94->50282.01 camera tensor error: 0.0170->0.0142
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  471
+[0m
+Re-rendering loss: 77126.47->48345.35 camera tensor error: 0.0129->0.0143
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  472
+[0m
+Re-rendering loss: 60455.82->45572.13 camera tensor error: 0.0121->0.0134
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  473
+[0m
+Re-rendering loss: 55589.96->40273.26 camera tensor error: 0.0101->0.0113
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  474
+[0m
+Re-rendering loss: 96311.48->42164.45 camera tensor error: 0.0086->0.0106
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  475
+[0m
+Re-rendering loss: 50812.91->39306.09 camera tensor error: 0.0127->0.0131
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  476
+[0m
+Re-rendering loss: 101095.29->41805.70 camera tensor error: 0.0179->0.0127
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  477
+[0m
+Re-rendering loss: 54271.43->40032.89 camera tensor error: 0.4190->0.4217
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  478
+[0m
+Re-rendering loss: 169382.83->39370.40 camera tensor error: 0.0080->0.0109
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  479
+[0m
+Re-rendering loss: 195586.42->39945.25 camera tensor error: 0.0138->0.0106
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  480
+[0m
+Re-rendering loss: 90118.23->37575.93 camera tensor error: 0.0132->0.0111
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  481
+[0m
+Re-rendering loss: 47385.08->36559.56 camera tensor error: 0.0124->0.0106
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  482
+[0m
+Re-rendering loss: 57535.17->35625.82 camera tensor error: 0.0127->0.0108
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  483
+[0m
+Re-rendering loss: 44128.58->35935.29 camera tensor error: 0.0116->0.0114
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  484
+[0m
+Re-rendering loss: 50402.65->36383.64 camera tensor error: 0.0126->0.0103
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  485
+[0m
+Re-rendering loss: 44801.26->34105.50 camera tensor error: 0.0112->0.0106
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  486
+[0m
+Re-rendering loss: 54331.67->37001.69 camera tensor error: 0.0079->0.0089
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  487
+[0m
+Re-rendering loss: 49959.03->34561.90 camera tensor error: 0.0084->0.0095
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  488
+[0m
+Re-rendering loss: 51395.58->32180.73 camera tensor error: 0.0106->0.0090
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  489
+[0m
+Re-rendering loss: 43989.48->31036.64 camera tensor error: 0.0086->0.0092
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  490
+[0m
+Re-rendering loss: 37255.70->32781.23 camera tensor error: 0.0099->0.0084
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  491
+[0m
+Re-rendering loss: 41306.71->34096.58 camera tensor error: 0.0070->0.0091
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  492
+[0m
+Re-rendering loss: 38769.34->31735.56 camera tensor error: 0.0082->0.0102
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  493
+[0m
+Re-rendering loss: 42909.12->32134.78 camera tensor error: 0.0124->0.0097
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  494
+[0m
+Re-rendering loss: 37842.92->28160.74 camera tensor error: 0.0069->0.0102
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  495
+[0m
+Re-rendering loss: 48220.95->25129.88 camera tensor error: 0.0090->0.0114
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  496
+[0m
+Re-rendering loss: 46137.62->24550.05 camera tensor error: 0.0123->0.0117
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  497
+[0m
+Re-rendering loss: 38541.49->24090.91 camera tensor error: 0.0117->0.0118
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  498
+[0m
+Re-rendering loss: 23573.57->21838.69 camera tensor error: 0.0111->0.0117
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  499
+[0m
+Re-rendering loss: 31217.56->20520.76 camera tensor error: 0.0098->0.0121
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  500
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00500_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00500_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00500_0050.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00500_0075.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00500_0100.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00500_0125.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00500_0150.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00500_0175.jpg
+Re-rendering loss: 24809.15->18109.27 camera tensor error: 0.0119->0.0128
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  501
+[0m
+Re-rendering loss: 31909.93->19753.10 camera tensor error: 0.0122->0.0120
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  502
+[0m
+Re-rendering loss: 25998.58->17992.28 camera tensor error: 0.0117->0.0117
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  503
+[0m
+Re-rendering loss: 32826.98->18407.24 camera tensor error: 0.0117->0.0133
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  504
+[0m
+Re-rendering loss: 24479.20->18398.21 camera tensor error: 0.0127->0.0114
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  505
+[0m
+Re-rendering loss: 20395.51->16864.75 camera tensor error: 0.0099->0.0118
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  506
+[0m
+Re-rendering loss: 24461.54->17047.99 camera tensor error: 0.0100->0.0120
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  507
+[0m
+Re-rendering loss: 29377.29->18201.22 camera tensor error: 0.0115->0.0119
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  508
+[0m
+Re-rendering loss: 19972.73->16748.99 camera tensor error: 0.0113->0.0122
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  509
+[0m
+Re-rendering loss: 17400.32->16429.03 camera tensor error: 0.0135->0.0135
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  510
+[0m
+Re-rendering loss: 18773.85->15783.52 camera tensor error: 0.0141->0.0140
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  511
+[0m
+Re-rendering loss: 23194.27->16225.19 camera tensor error: 0.0141->0.0141
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  512
+[0m
+Re-rendering loss: 20777.89->14651.17 camera tensor error: 0.0146->0.0152
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  513
+[0m
+Re-rendering loss: 21223.49->16105.44 camera tensor error: 0.0144->0.0140
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  514
+[0m
+Re-rendering loss: 16002.15->15354.65 camera tensor error: 0.0134->0.0132
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  515
+[0m
+Re-rendering loss: 19680.83->13435.58 camera tensor error: 0.0141->0.0147
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  516
+[0m
+Re-rendering loss: 15944.31->14232.35 camera tensor error: 0.0146->0.0145
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  517
+[0m
+Re-rendering loss: 14965.92->13459.59 camera tensor error: 0.0153->0.0142
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  518
+[0m
+Re-rendering loss: 16616.53->14999.08 camera tensor error: 0.0136->0.0136
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  519
+[0m
+Re-rendering loss: 14291.05->13125.55 camera tensor error: 0.0153->0.0153
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  520
+[0m
+Re-rendering loss: 21493.02->12782.36 camera tensor error: 0.0166->0.0141
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  521
+[0m
+Re-rendering loss: 19088.62->12781.40 camera tensor error: 0.0133->0.0147
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  522
+[0m
+Re-rendering loss: 16939.03->12474.99 camera tensor error: 0.0164->0.0173
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  523
+[0m
+Re-rendering loss: 37477.70->13425.54 camera tensor error: 0.0203->0.0176
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  524
+[0m
+Re-rendering loss: 56047.77->13572.10 camera tensor error: 0.0185->0.0176
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  525
+[0m
+Re-rendering loss: 21657.32->13826.40 camera tensor error: 0.0188->0.0188
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  526
+[0m
+Re-rendering loss: 18606.49->13047.94 camera tensor error: 0.0209->0.0200
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  527
+[0m
+Re-rendering loss: 19308.42->14392.57 camera tensor error: 0.0228->0.0190
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  528
+[0m
+Re-rendering loss: 40688.71->14059.05 camera tensor error: 0.0203->0.0208
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  529
+[0m
+Re-rendering loss: 24361.26->14534.02 camera tensor error: 0.0232->0.0218
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  530
+[0m
+Re-rendering loss: 21409.05->15105.57 camera tensor error: 0.0252->0.0214
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  531
+[0m
+Re-rendering loss: 23800.85->14741.63 camera tensor error: 0.0220->0.0216
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  532
+[0m
+Re-rendering loss: 38586.66->14306.50 camera tensor error: 0.0222->0.0215
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  533
+[0m
+Re-rendering loss: 20434.21->12909.37 camera tensor error: 0.0210->0.0195
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  534
+[0m
+Re-rendering loss: 22384.57->12863.91 camera tensor error: 0.0166->0.0188
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  535
+[0m
+Re-rendering loss: 15440.96->12526.57 camera tensor error: 0.0172->0.0183
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  536
+[0m
+Re-rendering loss: 28848.81->13310.13 camera tensor error: 0.0190->0.0194
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  537
+[0m
+Re-rendering loss: 16665.41->13010.38 camera tensor error: 0.0194->0.0188
+Tracking: update the parameters from mapping
+[32m
+Coarse Mapping Frame  375
+[0m
+[32m
+Coarse Mapping Frame  376
+[0m
+[32m
+Coarse Mapping Frame  377
+[0m
+[32m
+Coarse Mapping Frame  378
+[0m
+[32m
+Coarse Mapping Frame  379
+[0m
+[32m
+Coarse Mapping Frame  380
+[0m
+[32m
+Coarse Mapping Frame  381
+[0m
+[32m
+Coarse Mapping Frame  382
+[0m
+[32m
+Coarse Mapping Frame  383
+[0m
+[32m
+Coarse Mapping Frame  384
+[0m
+[32m
+Coarse Mapping Frame  385
+[0m
+[32m
+Coarse Mapping Frame  386
+[0m
+[32m
+Coarse Mapping Frame  387
+[0m
+[32m
+Coarse Mapping Frame  388
+[0m
+[32m
+Coarse Mapping Frame  389
+[0m
+[32m
+Coarse Mapping Frame  390
+[0m
+[32m
+Coarse Mapping Frame  391
+[0m
+[32m
+Coarse Mapping Frame  392
+[0m
+[32m
+Coarse Mapping Frame  393
+[0m
+[32m
+Coarse Mapping Frame  394
+[0m
+[32m
+Coarse Mapping Frame  395
+[0m
+[32m
+Coarse Mapping Frame  396
+[0m
+[32m
+Coarse Mapping Frame  397
+[0m
+[32m
+Coarse Mapping Frame  398
+[0m
+[32m
+Coarse Mapping Frame  399
+[0m
+[32m
+Coarse Mapping Frame  400
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00400_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00400_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00400_0050.jpg
+[32m
+Coarse Mapping Frame  401
+[0m
+[32m
+Coarse Mapping Frame  402
+[0m
+[32m
+Coarse Mapping Frame  403
+[0m
+[32m
+Coarse Mapping Frame  404
+[0m
+[32m
+Coarse Mapping Frame  405
+[0m
+[32m
+Coarse Mapping Frame  406
+[0m
+[32m
+Coarse Mapping Frame  407
+[0m
+[32m
+Coarse Mapping Frame  408
+[0m
+[32m
+Coarse Mapping Frame  409
+[0m
+[32m
+Coarse Mapping Frame  410
+[0m
+[32m
+Coarse Mapping Frame  411
+[0m
+[32m
+Coarse Mapping Frame  412
+[0m
+[32m
+Coarse Mapping Frame  413
+[0m
+[32m
+Coarse Mapping Frame  414
+[0m
+[32m
+Coarse Mapping Frame  415
+[0m
+[32m
+Coarse Mapping Frame  416
+[0m
+[32m
+Coarse Mapping Frame  417
+[0m
+[32m
+Coarse Mapping Frame  418
+[0m
+[32m
+Coarse Mapping Frame  419
+[0m
+[32m
+Coarse Mapping Frame  420
+[0m
+[32m
+Coarse Mapping Frame  421
+[0m
+[32m
+Coarse Mapping Frame  422
+[0m
+[32m
+Coarse Mapping Frame  423
+[0m
+[32m
+Coarse Mapping Frame  424
+[0m
+[32m
+Coarse Mapping Frame  425
+[0m
+[32m
+Coarse Mapping Frame  426
+[0m
+[32m
+Coarse Mapping Frame  427
+[0m
+[32m
+Coarse Mapping Frame  428
+[0m
+[32m
+Coarse Mapping Frame  429
+[0m
+[32m
+Coarse Mapping Frame  430
+[0m
+[32m
+Coarse Mapping Frame  431
+[0m
+[32m
+Coarse Mapping Frame  432
+[0m
+[32m
+Coarse Mapping Frame  433
+[0m
+[32m
+Coarse Mapping Frame  434
+[0m
+[32m
+Coarse Mapping Frame  435
+[0m
+[32m
+Coarse Mapping Frame  436
+[0m
+[32m
+Coarse Mapping Frame  437
+[0m
+[32m
+Coarse Mapping Frame  438
+[0m
+[32m
+Coarse Mapping Frame  439
+[0m
+[32m
+Coarse Mapping Frame  440
+[0m
+[32m
+Coarse Mapping Frame  441
+[0m
+[32m
+Coarse Mapping Frame  442
+[0m
+[32m
+Coarse Mapping Frame  443
+[0m
+[32m
+Coarse Mapping Frame  444
+[0m
+[32m
+Coarse Mapping Frame  445
+[0m
+[32m
+Coarse Mapping Frame  446
+[0m
+[32m
+Coarse Mapping Frame  447
+[0m
+[32m
+Coarse Mapping Frame  448
+[0m
+[32m
+Coarse Mapping Frame  449
+[0m
+[32m
+Coarse Mapping Frame  450
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00450_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00450_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00450_0050.jpg
+[32m
+Coarse Mapping Frame  451
+[0m
+[32m
+Coarse Mapping Frame  452
+[0m
+[32m
+Coarse Mapping Frame  453
+[0m
+[32m
+Coarse Mapping Frame  454
+[0m
+[32m
+Coarse Mapping Frame  455
+[0m
+[32m
+Coarse Mapping Frame  456
+[0m
+[32m
+Coarse Mapping Frame  457
+[0m
+[32m
+Coarse Mapping Frame  458
+[0m
+[32m
+Coarse Mapping Frame  459
+[0m
+[32m
+Coarse Mapping Frame  460
+[0m
+[32m
+Coarse Mapping Frame  461
+[0m
+[32m
+Coarse Mapping Frame  462
+[0m
+[32m
+Coarse Mapping Frame  463
+[0m
+[32m
+Coarse Mapping Frame  464
+[0m
+[32m
+Coarse Mapping Frame  465
+[0m
+[32m
+Coarse Mapping Frame  466
+[0m
+[32m
+Coarse Mapping Frame  467
+[0m
+[32m
+Coarse Mapping Frame  468
+[0m
+[32m
+Coarse Mapping Frame  469
+[0m
+[32m
+Coarse Mapping Frame  470
+[0m
+[32m
+Coarse Mapping Frame  471
+[0m
+[32m
+Coarse Mapping Frame  472
+[0m
+[32m
+Coarse Mapping Frame  473
+[0m
+[32m
+Coarse Mapping Frame  474
+[0m
+[32m
+Coarse Mapping Frame  475
+[0m
+[32m
+Coarse Mapping Frame  476
+[0m
+[32m
+Coarse Mapping Frame  477
+[0m
+[32m
+Coarse Mapping Frame  478
+[0m
+[32m
+Coarse Mapping Frame  479
+[0m
+[32m
+Coarse Mapping Frame  480
+[0m
+[32m
+Coarse Mapping Frame  481
+[0m
+[32m
+Coarse Mapping Frame  482
+[0m
+[32m
+Coarse Mapping Frame  483
+[0m
+[32m
+Coarse Mapping Frame  484
+[0m
+[32m
+Coarse Mapping Frame  485
+[0m
+[32m
+Coarse Mapping Frame  486
+[0m
+[32m
+Coarse Mapping Frame  487
+[0m
+[32m
+Coarse Mapping Frame  488
+[0m
+[32m
+Coarse Mapping Frame  489
+[0m
+[32m
+Coarse Mapping Frame  490
+[0m
+[32m
+Coarse Mapping Frame  491
+[0m
+[32m
+Coarse Mapping Frame  492
+[0m
+[32m
+Coarse Mapping Frame  493
+[0m
+[32m
+Coarse Mapping Frame  494
+[0m
+[32m
+Coarse Mapping Frame  495
+[0m
+[32m
+Coarse Mapping Frame  496
+[0m
+[32m
+Coarse Mapping Frame  497
+[0m
+[32m
+Coarse Mapping Frame  498
+[0m
+[32m
+Coarse Mapping Frame  499
+[0m
+[32m
+Coarse Mapping Frame  500
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00500_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00500_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00500_0050.jpg
+[32m
+Coarse Mapping Frame  501
+[0m
+[32m
+Coarse Mapping Frame  502
+[0m
+[32m
+Coarse Mapping Frame  503
+[0m
+[32m
+Coarse Mapping Frame  504
+[0m
+[32m
+Coarse Mapping Frame  505
+[0m
+[32m
+Coarse Mapping Frame  506
+[0m
+[32m
+Coarse Mapping Frame  507
+[0m
+[32m
+Coarse Mapping Frame  508
+[0m
+[32m
+Coarse Mapping Frame  509
+[0m
+[32m
+Coarse Mapping Frame  510
+[0m
+[32m
+Coarse Mapping Frame  511
+[0m
+[32m
+Coarse Mapping Frame  512
+[0m
+[32m
+Coarse Mapping Frame  513
+[0m
+[32m
+Coarse Mapping Frame  514
+[0m
+[32m
+Coarse Mapping Frame  515
+[0m
+[32m
+Coarse Mapping Frame  516
+[0m
+[32m
+Coarse Mapping Frame  517
+[0m
+[32m
+Coarse Mapping Frame  518
+[0m
+[32m
+Coarse Mapping Frame  519
+[0m
+[32m
+Coarse Mapping Frame  520
+[0m
+[32m
+Coarse Mapping Frame  521
+[0m
+[32m
+Coarse Mapping Frame  522
+[0m
+[32m
+Coarse Mapping Frame  523
+[0m
+[32m
+Coarse Mapping Frame  524
+[0m
+[32m
+Coarse Mapping Frame  525
+[0m
+[32m
+Coarse Mapping Frame  526
+[0m
+[32m
+Coarse Mapping Frame  527
+[0m
+[32m
+Coarse Mapping Frame  528
+[0m
+[32m
+Coarse Mapping Frame  529
+[0m
+[32m
+Coarse Mapping Frame  530
+[0m
+[32m
+Coarse Mapping Frame  531
+[0m
+[32m
+Coarse Mapping Frame  532
+[0m
+[32m
+Coarse Mapping Frame  533
+[0m
+[32m
+Coarse Mapping Frame  534
+[0m
+[32m
+Coarse Mapping Frame  535
+[0m
+[32m
+Coarse Mapping Frame  536
+[0m
+[32m
+Coarse Mapping Frame  537
+[0m
+[32m
+Coarse Mapping Frame  538
+[0m
+[32m
+Coarse Mapping Frame  539
+[0m
+[32m
+Coarse Mapping Frame  540
+[0m
+[32m
+Coarse Mapping Frame  541
+[0m
+[32m
+Coarse Mapping Frame  542
+[0m
+[32m
+Coarse Mapping Frame  543
+[0m
+[32m
+Coarse Mapping Frame  544
+[0m
+[32m
+Coarse Mapping Frame  545
+[0m
+[32m
+Coarse Mapping Frame  546
+[0m
+[32m
+Coarse Mapping Frame  547
+[0m
+[32m
+Coarse Mapping Frame  548
+[0m
+[32m
+Coarse Mapping Frame  549
+[0m
+[32m
+Coarse Mapping Frame  550
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00550_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00550_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00550_0050.jpg
+[32m
+Coarse Mapping Frame  551
+[0m
+[32m
+Coarse Mapping Frame  552
+[0m
+[32m
+Coarse Mapping Frame  553
+[0m
+[32m
+Coarse Mapping Frame  554
+[0m
+[32m
+Coarse Mapping Frame  555
+
+[35m
+Tracking Frame  538
+[0m
+Re-rendering loss: 17689.87->12690.95 camera tensor error: 0.0190->0.0168
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  539
+[0m
+Re-rendering loss: 15258.18->14191.19 camera tensor error: 0.0178->0.0186
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  540
+[0m
+Re-rendering loss: 17094.80->13251.42 camera tensor error: 0.0218->0.0211
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  541
+[0m
+Re-rendering loss: 25448.91->13799.45 camera tensor error: 0.0216->0.0186
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  542
+[0m
+Re-rendering loss: 21265.76->12685.91 camera tensor error: 0.0153->0.0184
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  543
+[0m
+Re-rendering loss: 16038.93->12716.40 camera tensor error: 0.0176->0.0182
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  544
+[0m
+Re-rendering loss: 21027.17->13266.39 camera tensor error: 0.0198->0.0189
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  545
+[0m
+Re-rendering loss: 17368.20->12961.09 camera tensor error: 0.0180->0.0182
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  546
+[0m
+Re-rendering loss: 46302.58->13141.09 camera tensor error: 0.0186->0.0192
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  547
+[0m
+Re-rendering loss: 32431.24->14338.32 camera tensor error: 0.0204->0.0196
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  548
+[0m
+Re-rendering loss: 14990.53->13253.42 camera tensor error: 0.0191->0.0185
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  549
+[0m
+Re-rendering loss: 23502.55->14026.80 camera tensor error: 0.0170->0.0179
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  550
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00550_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00550_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00550_0050.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00550_0075.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00550_0100.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00550_0125.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00550_0150.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/tracking_vis/00550_0175.jpg
+Re-rendering loss: 16951.70->12911.73 camera tensor error: 0.0178->0.0184
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  551
+[0m
+Re-rendering loss: 19967.55->13383.66 camera tensor error: 0.0160->0.0165
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  552
+[0m
+Re-rendering loss: 37926.06->12488.52 camera tensor error: 0.0146->0.0169
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  553
+[0m
+Re-rendering loss: 27748.98->13341.95 camera tensor error: 0.0176->0.0157
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  554
+[0m
+Re-rendering loss: 14465.14->13572.93 camera tensor error: 0.0142->0.0144
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  555
+[0m
+Re-rendering loss: 17105.42->13043.67 camera tensor error: 0.0135->0.0156
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  556
+[0m
+Re-rendering loss: 15503.57->12622.65 camera tensor error: 0.0164->0.0152
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  557
+[0m
+Re-rendering loss: 35621.89->13089.41 camera tensor error: 0.0131->0.0138
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  558
+[0m
+Re-rendering loss: 20467.92->13126.75 camera tensor error: 0.0153->0.0164
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  559
+[0m
+Re-rendering loss: 25664.57->12789.91 camera tensor error: 0.0173->0.0163
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  560
+[0m
+Re-rendering loss: 20163.53->13435.99 camera tensor error: 0.0145->0.0146
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  561
+[0m
+Re-rendering loss: 15949.50->13237.65 camera tensor error: 0.0166->0.0162
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  562
+[0m
+Re-rendering loss: 27628.54->13709.07 camera tensor error: 0.0188->0.0177
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  563
+[0m
+Re-rendering loss: 19242.84->13878.87 camera tensor error: 0.0188->0.0164
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  564
+[0m
+Re-rendering loss: 15419.22->12347.77 camera tensor error: 0.0163->0.0181
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  565
+[0m
+Re-rendering loss: 21721.54->13102.10 camera tensor error: 0.0195->0.0187
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  566
+[0m
+Re-rendering loss: 27543.70->13515.59 camera tensor error: 0.0193->0.0177
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  567
+[0m
+Re-rendering loss: 19208.09->14509.98 camera tensor error: 0.0168->0.0170
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  568
+[0m
+Re-rendering loss: 23697.06->12825.77 camera tensor error: 0.0166->0.0177
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  569
+[0m
+Re-rendering loss: 16615.06->12879.59 camera tensor error: 0.0186->0.0175
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  570
+[0m
+Re-rendering loss: 20071.82->13610.03 camera tensor error: 0.0191->0.0177
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  571
+[0m
+Re-rendering loss: 14335.48->13126.54 camera tensor error: 0.0153->0.0168
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  572
+[0m
+Re-rendering loss: 22140.98->13495.92 camera tensor error: 0.0169->0.0171
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  573
+[0m
+Re-rendering loss: 27411.52->13898.07 camera tensor error: 0.0207->0.0190
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  574
+[0m
+Re-rendering loss: 19467.86->13892.27 camera tensor error: 0.0195->0.0184
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  575
+[0m
+Re-rendering loss: 16418.92->14682.12 camera tensor error: 0.0182->0.0173
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  576
+[0m
+Re-rendering loss: 17695.08->14430.21 camera tensor error: 0.0165->0.0176
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  577
+[0m
+Re-rendering loss: 17158.91->15291.35 camera tensor error: 0.0192->0.0180
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  578
+[0m
+Re-rendering loss: 16816.58->14707.48 camera tensor error: 0.0170->0.0175
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  579
+[0m
+Re-rendering loss: 18567.01->14434.45 camera tensor error: 0.0184->0.0172
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  580
+[0m
+Re-rendering loss: 20100.16->15036.26 camera tensor error: 0.0160->0.0168
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  581
+[0m
+Re-rendering loss: 17180.73->15377.53 camera tensor error: 0.0175->0.0175
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  582
+[0m
+Re-rendering loss: 17560.89->14826.86 camera tensor error: 0.0187->0.0174
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  583
+[0m
+Re-rendering loss: 20936.05->14568.47 camera tensor error: 0.0186->0.0174
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  584
+[0m
+Re-rendering loss: 19183.27->15701.51 camera tensor error: 0.0174->0.0173
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  585
+[0m
+Re-rendering loss: 17412.91->16276.48 camera tensor error: 0.0170->0.0173
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  586
+[0m
+Re-rendering loss: 19806.78->15937.63 camera tensor error: 0.0175->0.0169
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  587
+[0m
+Re-rendering loss: 24273.05->16629.29 camera tensor error: 0.0160->0.0175
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  588
+[0m
+Re-rendering loss: 26500.66->15458.67 camera tensor error: 0.0176->0.0160
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  589
+[0m
+Re-rendering loss: 22854.47->14622.95 camera tensor error: 0.0157->0.0163
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  590
+[0m
+Re-rendering loss: 40505.31->16069.02 camera tensor error: 0.0137->0.0160
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  591
+[0m
+Re-rendering loss: 28551.19->16066.61 camera tensor error: 0.0174->0.0173
+[0m
+[32m
+Coarse Mapping Frame  556
+[0m
+[32m
+Coarse Mapping Frame  557
+[0m
+[32m
+Coarse Mapping Frame  558
+[0m
+[32m
+Coarse Mapping Frame  559
+[0m
+[32m
+Coarse Mapping Frame  560
+[0m
+[32m
+Coarse Mapping Frame  561
+[0m
+[32m
+Coarse Mapping Frame  562
+[0m
+[32m
+Coarse Mapping Frame  563
+[0m
+[32m
+Coarse Mapping Frame  564
+[0m
+[32m
+Coarse Mapping Frame  565
+[0m
+[32m
+Coarse Mapping Frame  566
+[0m
+[32m
+Coarse Mapping Frame  567
+[0m
+[32m
+Coarse Mapping Frame  568
+[0m
+[32m
+Coarse Mapping Frame  569
+[0m
+[32m
+Coarse Mapping Frame  570
+[0m
+[32m
+Coarse Mapping Frame  571
+[0m
+[32m
+Coarse Mapping Frame  572
+[0m
+[32m
+Coarse Mapping Frame  573
+[0m
+[32m
+Coarse Mapping Frame  574
+[0m
+[32m
+Coarse Mapping Frame  575
+[0m
+[32m
+Coarse Mapping Frame  576
+[0m
+[32m
+Coarse Mapping Frame  577
+[0m
+[32m
+Coarse Mapping Frame  578
+[0m
+[32m
+Coarse Mapping Frame  579
+[0m
+[32m
+Coarse Mapping Frame  580
+[0m
+[32m
+Coarse Mapping Frame  581
+[0m
+[32m
+Coarse Mapping Frame  582
+[0m
+[32m
+Coarse Mapping Frame  583
+[0m
+[32m
+Coarse Mapping Frame  584
+[0m
+[32m
+Coarse Mapping Frame  585
+[0m
+[32m
+Coarse Mapping Frame  586
+[0m
+[32m
+Coarse Mapping Frame  587
+[0m
+[32m
+Coarse Mapping Frame  588
+[0m
+[32m
+Coarse Mapping Frame  589
+[0m
+[32m
+Coarse Mapping Frame  590
+[0m
+[32m
+Coarse Mapping Frame  591
+[0m
+ 429
+[0m
+[32m
+Mapping Frame  430
+[0m
+[32m
+Mapping Frame  431
+[0m
+[32m
+Mapping Frame  432
+[0m
+[32m
+Mapping Frame  433
+[0m
+[32m
+Mapping Frame  434
+[0m
+[32m
+Mapping Frame  435
+[0m
+[32m
+Mapping Frame  436
+[0m
+[32m
+Mapping Frame  437
+[0m
+[32m
+Mapping Frame  438
+[0m
+[32m
+Mapping Frame  439
+[0m
+[32m
+Mapping Frame  440
+[0m
+[32m
+Mapping Frame  441
+[0m
+[32m
+Mapping Frame  442
+[0m
+[32m
+Mapping Frame  443
+[0m
+[32m
+Mapping Frame  444
+[0m
+[32m
+Mapping Frame  445
+[0m
+[32m
+Mapping Frame  446
+[0m
+[32m
+Mapping Frame  447
+[0m
+[32m
+Mapping Frame  448
+[0m
+[32m
+Mapping Frame  449
+[0m
+[32m
+Mapping Frame  450
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00450_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00450_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00450_0050.jpg
+Saved mesh at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mesh/00450_mesh.ply
+[32m
+Mapping Frame  451
+[0m
+[32m
+Mapping Frame  452
+[0m
+[32m
+Mapping Frame  453
+[0m
+[32m
+Mapping Frame  454
+[0m
+[32m
+Mapping Frame  455
+[0m
+[32m
+Mapping Frame  456
+[0m
+[32m
+Mapping Frame  457
+[0m
+[32m
+Mapping Frame  458
+[0m
+[32m
+Mapping Frame  459
+[0m
+[32m
+Mapping Frame  460
+[0m
+[32m
+Mapping Frame  461
+[0m
+[32m
+Mapping Frame  462
+[0m
+[32m
+Mapping Frame  463
+[0m
+[32m
+Mapping Frame  464
+[0m
+[32m
+Mapping Frame  465
+[0m
+[32m
+Mapping Frame  466
+[0m
+[32m
+Mapping Frame  467
+[0m
+[32m
+Mapping Frame  468
+[0m
+[32m
+Mapping Frame  469
+[0m
+[32m
+Mapping Frame  470
+[0m
+[32m
+Mapping Frame  471
+[0m
+[32m
+Mapping Frame  472
+[0m
+[32m
+Mapping Frame  473
+[0m
+[32m
+Mapping Frame  474
+[0m
+[32m
+Mapping Frame  475
+[0m
+[32m
+Mapping Frame  476
+[0m
+[32m
+Mapping Frame  477
+[0m
+[32m
+Mapping Frame  478
+[0m
+[32m
+Mapping Frame  479
+[0m
+[32m
+Mapping Frame  480
+[0m
+[32m
+Mapping Frame  481
+[0m
+[32m
+Mapping Frame  482
+[0m
+[32m
+Mapping Frame  483
+[0m
+[32m
+Mapping Frame  484
+[0m
+[32m
+Mapping Frame  485
+[0m
+[32m
+Mapping Frame  486
+[0m
+[32m
+Mapping Frame  487
+[0m
+[32m
+Mapping Frame  488
+[0m
+[32m
+Mapping Frame  489
+[0m
+[32m
+Mapping Frame  490
+[0m
+[32m
+Mapping Frame  491
+[0m
+[32m
+Mapping Frame  492
+[0m
+[32m
+Mapping Frame  493
+[0m
+[32m
+Mapping Frame  494
+[0m
+[32m
+Mapping Frame  495
+[0m
+[32m
+Mapping Frame  496
+[0m
+[32m
+Mapping Frame  497
+[0m
+[32m
+Mapping Frame  498
+[0m
+[32m
+Mapping Frame  499
+[0m
+[32m
+Mapping Frame  500
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00500_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00500_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00500_0050.jpg
+Saved checkpoints at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/ckpts/00500.tar
+Saved mesh at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mesh/00500_mesh.ply
+[32m
+Mapping Frame  501
+[0m
+[32m
+Mapping Frame  502
+[0m
+[32m
+Mapping Frame  503
+[0m
+[32m
+Mapping Frame  504
+[0m
+[32m
+Mapping Frame  505
+[0m
+[32m
+Mapping Frame  506
+[0m
+[32m
+Mapping Frame  507
+[0m
+[32m
+Mapping Frame  508
+[0m
+[32m
+Mapping Frame  509
+[0m
+[32m
+Mapping Frame  510
+[0m
+[32m
+Mapping Frame  511
+[0m
+[32m
+Mapping Frame  512
+[0m
+[32m
+Mapping Frame  513
+[0m
+[32m
+Mapping Frame  514
+[0m
+[32m
+Mapping Frame  515
+[0m
+[32m
+Mapping Frame  516
+[0m
+[32m
+Mapping Frame  517
+[0m
+[32m
+Mapping Frame  518
+[0m
+[32m
+Mapping Frame  519
+[0m
+[32m
+Mapping Frame  520
+[0m
+[32m
+Mapping Frame  521
+[0m
+[32m
+Mapping Frame  522
+[0m
+[32m
+Mapping Frame  523
+[0m
+[32m
+Mapping Frame  524
+[0m
+[32m
+Mapping Frame  525
+[0m
+[32m
+Mapping Frame  526
+[0m
+[32m
+Mapping Frame  527
+[0m
+[32m
+Mapping Frame  528
+[0m
+[32m
+Mapping Frame  529
+[0m
+[32m
+Mapping Frame  530
+[0m
+[32m
+Mapping Frame  531
+[0m
+[32m
+Mapping Frame  532
+[0m
+[32m
+Mapping Frame  533
+[0m
+[32m
+Mapping Frame  534
+[0m
+[32m
+Mapping Frame  535
+[0m
+[32m
+Mapping Frame  536
+[0m
+[32m
+Mapping Frame  537
+[0m
+[32m
+Mapping Frame  538
+[0m
+[32m
+Mapping Frame  539
+[0m
+[32m
+Mapping Frame  540
+[0m
+[32m
+Mapping Frame  541
+[0m
+[32m
+Mapping Frame  542
+[0m
+[32m
+Mapping Frame  543
+[0m
+[32m
+Mapping Frame  544
+[0m
+[32m
+Mapping Frame  545
+[0m
+[32m
+Mapping Frame  546
+[0m
+[32m
+Mapping Frame  547
+[0m
+[32m
+Mapping Frame  548
+[0m
+[32m
+Mapping Frame  549
+[0m
+[32m
+Mapping Frame  550
+[0m
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00550_0000.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00550_0025.jpg
+Saved rendering visualization of color/depth image at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mapping_vis/00550_0050.jpg
+Saved mesh at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mesh/00550_mesh.ply
+[32m
+Mapping Frame  551
+[0m
+[32m
+Mapping Frame  552
+[0m
+[32m
+Mapping Frame  553
+[0m
+[32m
+Mapping Frame  554
+[0m
+[32m
+Mapping Frame  555
+[0m
+[32m
+Mapping Frame  556
+[0m
+[32m
+Mapping Frame  557
+[0m
+[32m
+Mapping Frame  558
+[0m
+[32m
+Mapping Frame  559
+[0m
+[32m
+Mapping Frame  560
+[0m
+[32m
+Mapping Frame  561
+[0m
+[32m
+Mapping Frame  562
+[0m
+[32m
+Mapping Frame  563
+[0m
+[32m
+Mapping Frame  564
+[0m
+[32m
+Mapping Frame  565
+[0m
+[32m
+Mapping Frame  566
+[0m
+[32m
+Mapping Frame  567
+[0m
+[32m
+Mapping Frame  568
+[0m
+[32m
+Mapping Frame  569
+[0m
+[32m
+Mapping Frame  570
+[0m
+[32m
+Mapping Frame  571
+[0m
+[32m
+Mapping Frame  572
+[0m
+[32m
+Mapping Frame  573
+[0m
+[32m
+Mapping Frame  574
+[0m
+[32m
+Mapping Frame  575
+[0m
+[32m
+Mapping Frame  576
+[0m
+[32m
+Mapping Frame  577
+[0m
+[32m
+Mapping Frame  578
+[0m
+[32m
+Mapping Frame  579
+[0m
+[32m
+Mapping Frame  580
+[0m
+[32m
+Mapping Frame  581
+[0m
+[32m
+Mapping Frame  582
+[0m
+[32m
+Mapping Frame  583
+[0m
+[32m
+Mapping Frame  584
+[0m
+[32m
+Mapping Frame  585
+[0m
+[32m
+Mapping Frame  586
+[0m
+[32m
+Mapping Frame  587
+[0m
+[32m
+Mapping Frame  588
+[0m
+[32m
+Mapping Frame  589
+[0m
+[32m
+Mapping Frame  590
+[0m
+[32m
+Mapping Frame  591
+[0m
+Saved checkpoints at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/ckpts/00591.tar
+Saved mesh at output/TUM_RGBD/rgbd_dataset_freiburg1_desk/mesh/final_mesh.ply

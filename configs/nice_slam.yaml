@@ -1,9 +1,9 @@
 coarse: True
-sync_method: strict
+sync_method: loose
 scale: 1
 verbose: True
 occupancy: True
-low_gpu_mem: True
+low_gpu_mem: False
 grid_len:
   coarse: 2 
   middle: 0.32 

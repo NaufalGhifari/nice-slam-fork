@@ -13,5 +13,5 @@ singularity exec --nv /srv/images/nvhpc_25.1-devel-cuda_multi-ubuntu24.04.sif ba
         cd /home/cluster-dgx1/naufalal/GitHub/nice-slam-fork
 
         # Run the demo
-        python -W ignore run.py configs/Demo/demo.yaml
+        python -u -W ignore run.py configs/Demo/demo.yaml
 "

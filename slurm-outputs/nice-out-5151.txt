@@ -1,0 +1,2861 @@
+INFO: The output folder is output/Demo
+INFO: The GT, generated and residual depth/color images can be found under output/Demo/vis/
+INFO: The mesh can be found under output/Demo/mesh/
+INFO: The checkpoint can be found under output/Demo/ckpt/
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  0
+[0m
+[35m
+Tracking Frame  1
+[0m
+Re-rendering loss: 5026.51->2933.74 camera tensor error: 0.0029->0.0015
+[35m
+Tracking Frame  2
+[0m
+Re-rendering loss: 3350.44->2700.14 camera tensor error: 0.0024->0.0020
+[35m
+Tracking Frame  3
+[0m
+Re-rendering loss: 5061.10->2730.54 camera tensor error: 0.0043->0.0024
+[35m
+Tracking Frame  4
+[0m
+Re-rendering loss: 3379.22->2722.53 camera tensor error: 0.0024->0.0016
+[35m
+Tracking Frame  5
+[0m
+Re-rendering loss: 2786.03->2869.46 camera tensor error: 0.0018->0.0017
+[35m
+Tracking Frame  6
+[0m
+Re-rendering loss: 2718.60->2568.83 camera tensor error: 0.0019->0.0016
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  7
+[0m
+Re-rendering loss: 3016.70->3296.66 camera tensor error: 0.0021->0.0017
+[35m
+Tracking Frame  8
+[0m
+Re-rendering loss: 2975.86->2906.39 camera tensor error: 0.0017->0.0015
+[35m
+Tracking Frame  9
+[0m
+Re-rendering loss: 3219.42->2904.74 camera tensor error: 0.0018->0.0012
+[35m
+Tracking Frame  10
+[0m
+Re-rendering loss: 3399.92->3149.87 camera tensor error: 0.0104->0.0108
+[35m
+Tracking Frame  11
+[0m
+Re-rendering loss: 3613.04->3050.13 camera tensor error: 0.0095->0.0099
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  12
+[0m
+Re-rendering loss: 3132.13->3165.95 camera tensor error: 0.0096->0.0104
+[35m
+Tracking Frame  13
+[0m
+Re-rendering loss: 3690.81->3111.29 camera tensor error: 0.0112->0.0111
+[35m
+Tracking Frame  14
+[0m
+Re-rendering loss: 3430.58->3206.16 camera tensor error: 0.0119->0.0123
+[35m
+Tracking Frame  15
+[0m
+Re-rendering loss: 3279.30->3009.59 camera tensor error: 0.0125->0.0117
+[35m
+Tracking Frame  16
+[0m
+Re-rendering loss: 3299.48->3110.68 camera tensor error: 0.0123->0.0122
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  17
+[0m
+Re-rendering loss: 2637.46->2688.19 camera tensor error: 0.0131->0.0135
+[35m
+Tracking Frame  18
+[0m
+Re-rendering loss: 2590.49->2646.81 camera tensor error: 0.0136->0.0138
+[35m
+Tracking Frame  19
+[0m
+Re-rendering loss: 3815.87->2655.99 camera tensor error: 0.0165->0.0159
+[35m
+Tracking Frame  20
+[0m
+Re-rendering loss: 6141.87->2671.48 camera tensor error: 0.0172->0.0173
+[35m
+Tracking Frame  21
+[0m
+Re-rendering loss: 2857.76->2366.90 camera tensor error: 0.0156->0.0142
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  22
+[0m
+Re-rendering loss: 2806.22->2842.30 camera tensor error: 0.0119->0.0136
+[35m
+Tracking Frame  23
+[0m
+Re-rendering loss: 2948.50->2789.42 camera tensor error: 0.0132->0.0152
+[35m
+Tracking Frame  24
+[0m
+Re-rendering loss: 2912.01->2928.60 camera tensor error: 0.0142->0.0149
+[35m
+Tracking Frame  25
+[0m
+Re-rendering loss: 3444.97->2997.89 camera tensor error: 0.0157->0.0153
+[35m
+Tracking Frame  26
+[0m
+Re-rendering loss: 3471.58->3193.93 camera tensor error: 0.0165->0.0173
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  27
+[0m
+Re-rendering loss: 2612.59->2826.96 camera tensor error: 0.0164->0.0168
+[35m
+Tracking Frame  28
+[0m
+Re-rendering loss: 2763.65->2700.71 camera tensor error: 0.0159->0.0162
+[35m
+Tracking Frame  29
+[0m
+Re-rendering loss: 2814.91->2916.25 camera tensor error: 0.0169->0.0166
+[35m
+Tracking Frame  30
+[0m
+Re-rendering loss: 3135.66->2975.34 camera tensor error: 0.0186->0.0185
+[35m
+Tracking Frame  31
+[0m
+Re-rendering loss: 3045.21->2825.65 camera tensor error: 0.0216->0.0205
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  32
+[0m
+Re-rendering loss: 3002.14->2442.67 camera tensor error: 0.0223->0.0220
+[35m
+Tracking Frame  33
+[0m
+Re-rendering loss: 2689.33->2425.21 camera tensor error: 0.0216->0.0199
+[35m
+Tracking Frame  34
+[0m
+Re-rendering loss: 2777.69->2414.14 camera tensor error: 0.0199->0.0193
+[35m
+Tracking Frame  35
+[0m
+Re-rendering loss: 2475.06->2496.97 camera tensor error: 0.0202->0.0188
+[35m
+Tracking Frame  36
+[0m
+Re-rendering loss: 2812.81->2574.07 camera tensor error: 0.0185->0.0187
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  37
+[0m
+Re-rendering loss: 2607.41->2482.99 camera tensor error: 0.0185->0.0185
+[35m
+Tracking Frame  38
+[0m
+Re-rendering loss: 2441.93->2738.87 camera tensor error: 0.0176->0.0185
+[35m
+Tracking Frame  39
+[0m
+Re-rendering loss: 2492.20->2472.78 camera tensor error: 0.0161->0.0171
+[35m
+Tracking Frame  40
+[0m
+Re-rendering loss: 3086.04->2567.37 camera tensor error: 0.0143->0.0140
+[35m
+Tracking Frame  41
+[0m
+Re-rendering loss: 2486.60->2563.59 camera tensor error: 0.0171->0.0186
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  42
+[0m
+Re-rendering loss: 2417.58->2353.13 camera tensor error: 0.0181->0.0195
+[35m
+Tracking Frame  43
+[0m
+Re-rendering loss: 2671.48->2527.32 camera tensor error: 0.0198->0.0177
+[35m
+Tracking Frame  44
+[0m
+Re-rendering loss: 2677.81->2320.54 camera tensor error: 0.0183->0.0185
+[35m
+Tracking Frame  45
+[0m
+Re-rendering loss: 3019.06->2228.62 camera tensor error: 0.0245->0.0244
+[35m
+Tracking Frame  46
+[0m
+Re-rendering loss: 3567.90->2373.87 camera tensor error: 0.0256->0.0257
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  47
+[0m
+Re-rendering loss: 2397.67->2134.23 camera tensor error: 0.0245->0.0244
+[35m
+Tracking Frame  48
+[0m
+Re-rendering loss: 2518.87->2248.21 camera tensor error: 0.0239->0.0238
+[35m
+Tracking Frame  49
+[0m
+Re-rendering loss: 2314.54->2426.43 camera tensor error: 0.0251->0.0245
+[35m
+Tracking Frame  50
+[0m
+Saved rendering visualization of color/depth image at output/Demo/vis/00050_0000.jpg
+Saved rendering visualization of color/depth image at output/Demo/vis/00050_0025.jpg
+Re-rendering loss: 2374.50->2364.38 camera tensor error: 0.0221->0.0220
+[35m
+Tracking Frame  51
+[0m
+Re-rendering loss: 2522.65->2360.89 camera tensor error: 0.0292->0.0289
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  52
+[0m
+Re-rendering loss: 2436.29->2233.92 camera tensor error: 0.0283->0.0279
+[35m
+Tracking Frame  53
+[0m
+Re-rendering loss: 2388.58->2283.06 camera tensor error: 0.0275->0.0282
+[35m
+Tracking Frame  54
+[0m
+Re-rendering loss: 2459.78->2470.33 camera tensor error: 0.0265->0.0272
+[35m
+Tracking Frame  55
+[0m
+Re-rendering loss: 2424.05->2379.17 camera tensor error: 0.0266->0.0263
+[35m
+Tracking Frame  56
+[0m
+Re-rendering loss: 2343.66->2142.90 camera tensor error: 0.0246->0.0256
+[35m
+Tracking Frame  57
+[0m
+Re-rendering loss: 2435.96->2169.04 camera tensor error: 0.0267->0.0266
+[35m
+Tracking Frame  58
+[0m
+Re-rendering loss: 2415.60->2274.19 camera tensor error: 0.0256->0.0258
+[35m
+Tracking Frame  59
+[0m
+Re-rendering loss: 2539.53->2465.37 camera tensor error: 0.0242->0.0251
+[35m
+Tracking Frame  60
+[0m
+Re-rendering loss: 2467.93->2216.79 camera tensor error: 0.0206->0.0203
+[35m
+Tracking Frame  61
+[0m
+Re-rendering loss: 2508.78->2248.64 camera tensor error: 0.0233->0.0229
+[35m
+Tracking Frame  62
+[0m
+Re-rendering loss: 2560.10->2273.98 camera tensor error: 0.0249->0.0244
+[35m
+Tracking Frame  63
+[0m
+Re-rendering loss: 2858.66->2510.75 camera tensor error: 0.0254->0.0251
+[35m
+Tracking Frame  64
+[0m
+Re-rendering loss: 2507.49->2710.89 camera tensor error: 0.0268->0.0260
+[35m
+Tracking Frame  65
+[0m
+Re-rendering loss: 2510.47->2636.99 camera tensor error: 0.0252->0.0248
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  66
+[0m
+Re-rendering loss: 2647.92->2496.72 camera tensor error: 0.0252->0.0238
+[35m
+Tracking Frame  67
+[0m
+Re-rendering loss: 2733.12->2558.74 camera tensor error: 0.0222->0.0227
+[35m
+Tracking Frame  68
+[0m
+Re-rendering loss: 2511.30->2413.20 camera tensor error: 0.0205->0.0204
+[35m
+Tracking Frame  69
+[0m
+Re-rendering loss: 2737.02->2481.03 camera tensor error: 0.0180->0.0185
+[35m
+Tracking Frame  70
+[0m
+Re-rendering loss: 3062.58->2711.39 camera tensor error: 0.0151->0.0153
+[35m
+Tracking Frame  71
+[0m
+Re-rendering loss: 3040.78->2629.85 camera tensor error: 0.0169->0.0174
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  72
+[0m
+Re-rendering loss: 2497.68->2335.67 camera tensor error: 0.0165->0.0171
+[35m
+Tracking Frame  73
+[0m
+Re-rendering loss: 2715.57->2348.97 camera tensor error: 0.0186->0.0187
+[35m
+Tracking Frame  74
+[0m
+Re-rendering loss: 2589.43->2393.79 camera tensor error: 0.0182->0.0188
+[35m
+Tracking Frame  75
+[0m
+Re-rendering loss: 2318.17->2360.63 camera tensor error: 0.0188->0.0194
+[35m
+Tracking Frame  76
+[0m
+Re-rendering loss: 2717.23->2384.78 camera tensor error: 0.0179->0.0182
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  77
+[0m
+Re-rendering loss: 2639.16->2698.28 camera tensor error: 0.0177->0.0180
+[35m
+Tracking Frame  78
+[0m
+Re-rendering loss: 2608.24->2401.07 camera tensor error: 0.0166->0.0167
+[35m
+Tracking Frame  79
+[0m
+Re-rendering loss: 2892.11->2619.54 camera tensor error: 0.0165->0.0164
+[35m
+Tracking Frame  80
+[0m
+Re-rendering loss: 2620.60->2622.42 camera tensor error: 0.0159->0.0155
+[35m
+Tracking Frame  81
+[0m
+Re-rendering loss: 2875.55->2832.49 camera tensor error: 0.0170->0.0179
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  82
+[0m
+Re-rendering loss: 3009.28->2617.88 camera tensor error: 0.0178->0.0169
+[35m
+Tracking Frame  83
+[0m
+Re-rendering loss: 3101.99->2646.71 camera tensor error: 0.0179->0.0181
+[35m
+Tracking Frame  84
+[0m
+Re-rendering loss: 2940.40->2670.02 camera tensor error: 0.0176->0.0174
+[35m
+Tracking Frame  85
+[0m
+Re-rendering loss: 3195.53->2436.83 camera tensor error: 0.0181->0.0180
+[35m
+Tracking Frame  86
+[0m
+Re-rendering loss: 2889.17->2672.24 camera tensor error: 0.0194->0.0182
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  87
+[0m
+Re-rendering loss: 3007.07->2818.20 camera tensor error: 0.0206->0.0197
+[35m
+Tracking Frame  88
+[0m
+Re-rendering loss: 3433.64->2744.41 camera tensor error: 0.0207->0.0209
+[35m
+Tracking Frame  89
+[0m
+Re-rendering loss: 2845.35->2597.52 camera tensor error: 0.0219->0.0210
+[35m
+Tracking Frame  90
+[0m
+Re-rendering loss: 2738.14->2760.91 camera tensor error: 0.0180->0.0168
+[35m
+Tracking Frame  91
+[0m
+Re-rendering loss: 2874.80->3093.99 camera tensor error: 0.0191->0.0191
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  92
+[0m
+Re-rendering loss: 3209.46->3095.78 camera tensor error: 0.0162->0.0163
+[35m
+Tracking Frame  93
+[0m
+Re-rendering loss: 3205.31->2860.16 camera tensor error: 0.0153->0.0151
+[35m
+Tracking Frame  94
+[0m
+Re-rendering loss: 3404.76->3200.45 camera tensor error: 0.0135->0.0131
+[35m
+Tracking Frame  95
+[0m
+Re-rendering loss: 3717.83->3313.20 camera tensor error: 0.0131->0.0141
+[35m
+Tracking Frame  96
+[0m
+Re-rendering loss: 3601.00->3793.92 camera tensor error: 0.0120->0.0131
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  97
+[0m
+Re-rendering loss: 3618.21->3043.94 camera tensor error: 0.0120->0.0127
+[35m
+Tracking Frame  98
+[0m
+Re-rendering loss: 3516.83->3519.21 camera tensor error: 0.0112->0.0115
+[35m
+Tracking Frame  99
+[0m
+Re-rendering loss: 3755.79->3677.69 camera tensor error: 0.0102->0.0120
+[35m
+Tracking Frame  100
+[0m
+Saved rendering visualization of color/depth image at output/Demo/vis/00100_0000.jpg
+Saved rendering visualization of color/depth image at output/Demo/vis/00100_0025.jpg
+Re-rendering loss: 3307.69->3586.85 camera tensor error: 0.0104->0.0112
+[35m
+Tracking Frame  101
+[0m
+Re-rendering loss: 3386.97->4160.88 camera tensor error: 0.0172->0.0173
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  102
+[0m
+Re-rendering loss: 3351.54->3422.72 camera tensor error: 0.0224->0.0210
+[35m
+Tracking Frame  103
+[0m
+Re-rendering loss: 3266.02->3133.71 camera tensor error: 0.0231->0.0204
+[35m
+Tracking Frame  104
+[0m
+Re-rendering loss: 3249.45->3198.85 camera tensor error: 0.0223->0.0193
+[35m
+Tracking Frame  105
+[0m
+Re-rendering loss: 3409.89->3166.55 camera tensor error: 0.0172->0.0163
+[35m
+Tracking Frame  106
+[0m
+Re-rendering loss: 3375.88->3325.41 camera tensor error: 0.0144->0.0149
+[35m
+Tracking Frame  107
+[0m
+Re-rendering loss: 3476.01->3342.64 camera tensor error: 0.0110->0.0123
+[35m
+Tracking Frame  108
+[0m
+Re-rendering loss: 3399.01->3326.29 camera tensor error: 0.0132->0.0143
+[35m
+Tracking Frame  109
+[0m
+Re-rendering loss: 3604.71->3521.02 camera tensor error: 0.0113->0.0126
+[35m
+Tracking Frame  110
+[0m
+Re-rendering loss: 3451.90->3513.41 camera tensor error: 0.0087->0.0094
+[35m
+Tracking Frame  111
+[0m
+Re-rendering loss: 4027.10->3459.08 camera tensor error: 0.0100->0.0108
+[35m
+Tracking Frame  112
+[0m
+Re-rendering loss: 3520.03->3538.63 camera tensor error: 0.0118->0.0125
+[35m
+Tracking Frame  113
+[0m
+Re-rendering loss: 3746.45->3832.93 camera tensor error: 0.0126->0.0127
+[35m
+Tracking Frame  114
+[0m
+Re-rendering loss: 3733.30->3864.23 camera tensor error: 0.0144->0.0141
+[35m
+Tracking Frame  115
+[0m
+Re-rendering loss: 3996.47->4271.97 camera tensor error: 0.0143->0.0168
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  116
+[0m
+Re-rendering loss: 3465.31->2970.20 camera tensor error: 0.0197->0.0201
+[35m
+Tracking Frame  117
+[0m
+Re-rendering loss: 3310.21->2942.84 camera tensor error: 0.0270->0.0253
+[35m
+Tracking Frame  118
+[0m
+Re-rendering loss: 3332.36->3159.64 camera tensor error: 0.0279->0.0249
+[35m
+Tracking Frame  119
+[0m
+Re-rendering loss: 3270.60->3145.41 camera tensor error: 0.0285->0.0271
+[35m
+Tracking Frame  120
+[0m
+Re-rendering loss: 3434.99->3231.57 camera tensor error: 0.0275->0.0260
+[35m
+Tracking Frame  121
+[0m
+Re-rendering loss: 3465.82->3345.15 camera tensor error: 0.0266->0.0262
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  122
+[0m
+Re-rendering loss: 3179.85->2866.88 camera tensor error: 0.0263->0.0281
+[35m
+Tracking Frame  123
+[0m
+Re-rendering loss: 2913.44->2879.63 camera tensor error: 0.0274->0.0262
+[35m
+Tracking Frame  124
+[0m
+Re-rendering loss: 2971.40->2997.31 camera tensor error: 0.0280->0.0288
+[35m
+Tracking Frame  125
+[0m
+Re-rendering loss: 2959.44->2746.65 camera tensor error: 0.0313->0.0312
+[35m
+Tracking Frame  126
+[0m
+Re-rendering loss: 3005.95->2677.03 camera tensor error: 0.0301->0.0302
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  127
+[0m
+Re-rendering loss: 2813.62->2668.07 camera tensor error: 0.0315->0.0303
+[35m
+Tracking Frame  128
+[0m
+Re-rendering loss: 2743.59->2967.23 camera tensor error: 0.0314->0.0304
+[35m
+Tracking Frame  129
+[0m
+Re-rendering loss: 3065.26->2721.67 camera tensor error: 0.0294->0.0301
+[35m
+Tracking Frame  130
+[0m
+Re-rendering loss: 2809.99->2796.42 camera tensor error: 0.0285->0.0285
+[35m
+Tracking Frame  131
+[0m
+Re-rendering loss: 2886.59->2836.25 camera tensor error: 0.0264->0.0279
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  132
+[0m
+Re-rendering loss: 2336.45->2136.19 camera tensor error: 0.0277->0.0258
+[35m
+Tracking Frame  133
+[0m
+Re-rendering loss: 2331.09->2223.69 camera tensor error: 0.0233->0.0236
+[35m
+Tracking Frame  134
+[0m
+Re-rendering loss: 2447.22->2237.00 camera tensor error: 0.0221->0.0229
+[35m
+Tracking Frame  135
+[0m
+Re-rendering loss: 2692.83->2159.07 camera tensor error: 0.0224->0.0234
+[35m
+Tracking Frame  136
+[0m
+Re-rendering loss: 2252.20->2186.77 camera tensor error: 0.0225->0.0242
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  137
+[0m
+Re-rendering loss: 2788.81->2628.43 camera tensor error: 0.0242->0.0283
+[35m
+Tracking Frame  138
+[0m
+Re-rendering loss: 2664.17->2510.73 camera tensor error: 0.0320->0.0322
+[35m
+Tracking Frame  139
+[0m
+Re-rendering loss: 2729.16->2505.03 camera tensor error: 0.0356->0.0362
+[35m
+Tracking Frame  140
+[0m
+Re-rendering loss: 2688.71->2955.94 camera tensor error: 0.0355->0.0346
+[35m
+Tracking Frame  141
+[0m
+Re-rendering loss: 2882.80->2636.75 camera tensor error: 0.0388->0.0375
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  142
+[0m
+Re-rendering loss: 2645.08->2271.35 camera tensor error: 0.0376->0.0339
+[35m
+Tracking Frame  143
+[0m
+Re-rendering loss: 2554.65->2378.70 camera tensor error: 0.0321->0.0298
+[35m
+Tracking Frame  144
+[0m
+Re-rendering loss: 2850.93->2358.68 camera tensor error: 0.0267->0.0249
+[35m
+Tracking Frame  145
+[0m
+Re-rendering loss: 2479.61->2557.64 camera tensor error: 0.0221->0.0216
+[35m
+Tracking Frame  146
+[0m
+Re-rendering loss: 2385.43->2192.44 camera tensor error: 0.0187->0.0184
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  147
+[0m
+Re-rendering loss: 2420.41->2412.17 camera tensor error: 0.0148->0.0138
+[35m
+Tracking Frame  148
+[0m
+Re-rendering loss: 2551.38->2419.47 camera tensor error: 0.0102->0.0121
+[35m
+Tracking Frame  149
+[0m
+Re-rendering loss: 2383.84->2446.92 camera tensor error: 0.0082->0.0101
+[35m
+Tracking Frame  150
+[0m
+Saved rendering visualization of color/depth image at output/Demo/vis/00150_0000.jpg
+Saved rendering visualization of color/depth image at output/Demo/vis/00150_0025.jpg
+Re-rendering loss: 2511.53->2456.15 camera tensor error: 0.0135->0.0152
+[35m
+Tracking Frame  151
+[0m
+Re-rendering loss: 2561.29->2473.54 camera tensor error: 0.0153->0.0170
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  152
+[0m
+Re-rendering loss: 2380.14->2423.62 camera tensor error: 0.0167->0.0171
+[35m
+Tracking Frame  153
+[0m
+Re-rendering loss: 2482.62->2524.97 camera tensor error: 0.0209->0.0207
+[35m
+Tracking Frame  154
+[0m
+Re-rendering loss: 2591.43->2620.22 camera tensor error: 0.0199->0.0189
+[35m
+Tracking Frame  155
+[0m
+Re-rendering loss: 3035.66->2733.68 camera tensor error: 0.0203->0.0198
+[35m
+Tracking Frame  156
+[0m
+Re-rendering loss: 2910.61->2960.35 camera tensor error: 0.0192->0.0181
+[35m
+Tracking Frame  157
+[0m
+Re-rendering loss: 2919.45->2581.89 camera tensor error: 0.0187->0.0181
+[35m
+Tracking Frame  158
+[0m
+Re-rendering loss: 3261.56->3012.70 camera tensor error: 0.0169->0.0159
+[35m
+Tracking Frame  159
+[0m
+Re-rendering loss: 3214.61->3096.67 camera tensor error: 0.0158->0.0146
+[35m
+Tracking Frame  160
+[0m
+Re-rendering loss: 3320.96->3202.95 camera tensor error: 0.0169->0.0164
+[35m
+Tracking Frame  161
+[0m
+Re-rendering loss: 3493.17->3099.75 camera tensor error: 0.0136->0.0131
+[35m
+Tracking Frame  162
+[0m
+Re-rendering loss: 3438.20->3248.77 camera tensor error: 0.0132->0.0131
+[35m
+Tracking Frame  163
+[0m
+Re-rendering loss: 3486.43->3359.17 camera tensor error: 0.0119->0.0120
+[35m
+Tracking Frame  164
+[0m
+Re-rendering loss: 3525.36->3309.50 camera tensor error: 0.0146->0.0144
+[35m
+Tracking Frame  165
+[0m
+Re-rendering loss: 4663.07->3538.74 camera tensor error: 0.0126->0.0131
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  166
+[0m
+Re-rendering loss: 3427.95->3343.87 camera tensor error: 0.0138->0.0132
+[35m
+Tracking Frame  167
+[0m
+Re-rendering loss: 3578.02->3052.20 camera tensor error: 0.0134->0.0131
+[35m
+Tracking Frame  168
+[0m
+Re-rendering loss: 3662.46->3289.13 camera tensor error: 0.0126->0.0122
+[35m
+Tracking Frame  169
+[0m
+Re-rendering loss: 3555.03->3343.94 camera tensor error: 0.0117->0.0117
+[35m
+Tracking Frame  170
+[0m
+Re-rendering loss: 3883.11->3372.81 camera tensor error: 0.0123->0.0128
+[35m
+Tracking Frame  171
+[0m
+Re-rendering loss: 3754.47->3540.18 camera tensor error: 0.0113->0.0116
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  172
+[0m
+Re-rendering loss: 3516.48->3595.22 camera tensor error: 0.0099->0.0101
+[35m
+Tracking Frame  173
+[0m
+Re-rendering loss: 4134.98->3342.64 camera tensor error: 0.0100->0.0104
+[35m
+Tracking Frame  174
+[0m
+Re-rendering loss: 3529.18->3280.30 camera tensor error: 0.0119->0.0127
+[35m
+Tracking Frame  175
+[0m
+Re-rendering loss: 3826.47->3589.41 camera tensor error: 0.0127->0.0125
+[35m
+Tracking Frame  176
+[0m
+Re-rendering loss: 3727.44->3472.01 camera tensor error: 0.0127->0.0133
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  177
+[0m
+Re-rendering loss: 3320.45->3286.97 camera tensor error: 0.0147->0.0145
+[35m
+Tracking Frame  178
+[0m
+Re-rendering loss: 3523.48->3094.90 camera tensor error: 0.0164->0.0152
+[35m
+Tracking Frame  179
+[0m
+Re-rendering loss: 3185.14->3288.85 camera tensor error: 0.0166->0.0146
+[35m
+Tracking Frame  180
+[0m
+Re-rendering loss: 3123.93->3209.87 camera tensor error: 0.0183->0.0173
+[35m
+Tracking Frame  181
+[0m
+Re-rendering loss: 3519.02->3247.34 camera tensor error: 0.0116->0.0110
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  182
+[0m
+Re-rendering loss: 4555.28->3618.24 camera tensor error: 0.0093->0.0095
+[35m
+Tracking Frame  183
+[0m
+Re-rendering loss: 3605.13->3302.25 camera tensor error: 0.0079->0.0081
+[35m
+Tracking Frame  184
+[0m
+Re-rendering loss: 3915.35->4050.41 camera tensor error: 0.0109->0.0109
+[35m
+Tracking Frame  185
+[0m
+Re-rendering loss: 3908.45->3519.01 camera tensor error: 0.0101->0.0102
+[35m
+Tracking Frame  186
+[0m
+Re-rendering loss: 3989.94->3712.64 camera tensor error: 0.0103->0.0101
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  187
+[0m
+Re-rendering loss: 3808.97->3826.15 camera tensor error: 0.0120->0.0111
+[35m
+Tracking Frame  188
+[0m
+Re-rendering loss: 3982.07->4183.15 camera tensor error: 0.0106->0.0101
+[35m
+Tracking Frame  189
+[0m
+Re-rendering loss: 4063.37->3589.67 camera tensor error: 0.0098->0.0101
+[35m
+Tracking Frame  190
+[0m
+Re-rendering loss: 3568.01->3744.86 camera tensor error: 0.0169->0.0165
+[35m
+Tracking Frame  191
+[0m
+Re-rendering loss: 4140.80->3674.60 camera tensor error: 0.0136->0.0135
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  192
+[0m
+Re-rendering loss: 3602.63->3565.76 camera tensor error: 0.0129->0.0135
+[35m
+Tracking Frame  193
+[0m
+Re-rendering loss: 4019.70->3822.29 camera tensor error: 0.0130->0.0123
+[35m
+Tracking Frame  194
+[0m
+Re-rendering loss: 3517.98->3635.79 camera tensor error: 0.0110->0.0117
+[35m
+Tracking Frame  195
+[0m
+Re-rendering loss: 3772.87->3979.52 camera tensor error: 0.0125->0.0130
+[35m
+Tracking Frame  196
+[0m
+Re-rendering loss: 4166.91->3946.32 camera tensor error: 0.0127->0.0134
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  197
+[0m
+Re-rendering loss: 4489.15->3265.24 camera tensor error: 0.0139->0.0141
+[35m
+Tracking Frame  198
+[0m
+Re-rendering loss: 4147.55->3291.92 camera tensor error: 0.0143->0.0155
+[35m
+Tracking Frame  199
+[0m
+Re-rendering loss: 3701.25->3276.04 camera tensor error: 0.0159->0.0158
+[35m
+Tracking Frame  200
+[0m
+Saved rendering visualization of color/depth image at output/Demo/vis/00200_0000.jpg
+Saved rendering visualization of color/depth image at output/Demo/vis/00200_0025.jpg
+Re-rendering loss: 3626.39->3364.59 camera tensor error: 0.0188->0.0184
+[35m
+Tracking Frame  201
+[0m
+Re-rendering loss: 3774.82->3712.40 camera tensor error: 0.0186->0.0186
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  202
+[0m
+Re-rendering loss: 3865.78->3837.24 camera tensor error: 0.0180->0.0177
+[35m
+Tracking Frame  203
+[0m
+Re-rendering loss: 3901.90->3289.23 camera tensor error: 0.0172->0.0180
+[35m
+Tracking Frame  204
+[0m
+Re-rendering loss: 3463.93->3118.77 camera tensor error: 0.0172->0.0169
+[35m
+Tracking Frame  205
+[0m
+Re-rendering loss: 3447.21->3542.77 camera tensor error: 0.0168->0.0174
+[35m
+Tracking Frame  206
+[0m
+Re-rendering loss: 3390.14->3319.58 camera tensor error: 0.0169->0.0171
+[35m
+Tracking Frame  207
+[0m
+Re-rendering loss: 3489.34->3400.02 camera tensor error: 0.0156->0.0164
+[35m
+Tracking Frame  208
+[0m
+Re-rendering loss: 3525.37->3395.12 camera tensor error: 0.0149->0.0159
+[35m
+Tracking Frame  209
+[0m
+Re-rendering loss: 3517.75->3262.89 camera tensor error: 0.0147->0.0146
+[35m
+Tracking Frame  210
+[0m
+Re-rendering loss: 4217.80->3669.99 camera tensor error: 0.0150->0.0163
+[35m
+Tracking Frame  211
+[0m
+Re-rendering loss: 3543.44->3371.01 camera tensor error: 0.0177->0.0183
+[35m
+Tracking Frame  212
+[0m
+Re-rendering loss: 3747.14->3216.55 camera tensor error: 0.0173->0.0181
+[35m
+Tracking Frame  213
+[0m
+Re-rendering loss: 3448.91->3211.62 camera tensor error: 0.0187->0.0189
+[35m
+Tracking Frame  214
+[0m
+Re-rendering loss: 3869.85->3313.37 camera tensor error: 0.0191->0.0194
+[35m
+Tracking Frame  215
+[0m
+Re-rendering loss: 3173.07->3488.73 camera tensor error: 0.0186->0.0186
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  216
+[0m
+Re-rendering loss: 3808.55->2973.31 camera tensor error: 0.0186->0.0170
+[35m
+Tracking Frame  217
+[0m
+Re-rendering loss: 3323.41->2929.79 camera tensor error: 0.0163->0.0150
+[35m
+Tracking Frame  218
+[0m
+Re-rendering loss: 3320.09->2952.55 camera tensor error: 0.0140->0.0139
+[35m
+Tracking Frame  219
+[0m
+Re-rendering loss: 3079.72->3283.97 camera tensor error: 0.0138->0.0134
+[35m
+Tracking Frame  220
+[0m
+Re-rendering loss: 3249.78->3214.40 camera tensor error: 0.0147->0.0136
+[35m
+Tracking Frame  221
+[0m
+Re-rendering loss: 3072.84->2967.57 camera tensor error: 0.0160->0.0168
+[35m
+Tracking Frame  222
+[0m
+Re-rendering loss: 3360.70->2673.45 camera tensor error: 0.0186->0.0189
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  223
+[0m
+Re-rendering loss: 3579.57->3269.31 camera tensor error: 0.0178->0.0183
+[35m
+Tracking Frame  224
+[0m
+Re-rendering loss: 4484.27->3603.70 camera tensor error: 0.0187->0.0180
+[35m
+Tracking Frame  225
+[0m
+Re-rendering loss: 3932.18->3317.84 camera tensor error: 0.0206->0.0204
+[35m
+Tracking Frame  226
+[0m
+Re-rendering loss: 963.92->1862.96 camera tensor error: 0.0199->0.0191
+[35m
+Tracking Frame  227
+[0m
+Re-rendering loss: 342.97->514.60 camera tensor error: 0.0209->0.0189
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  228
+[0m
+Re-rendering loss: 3831.49->3746.32 camera tensor error: 0.0231->0.0217
+[35m
+Tracking Frame  229
+[0m
+Re-rendering loss: 4535.54->4005.34 camera tensor error: 0.0224->0.0210
+[35m
+Tracking Frame  230
+[0m
+Re-rendering loss: 4361.49->3583.59 camera tensor error: 0.0162->0.0154
+[35m
+Tracking Frame  231
+[0m
+Re-rendering loss: 4013.07->3717.80 camera tensor error: 0.0164->0.0155
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  232
+[0m
+Re-rendering loss: 4040.43->3585.75 camera tensor error: 0.0135->0.0142
+[35m
+Tracking Frame  233
+[0m
+Re-rendering loss: 3705.08->4329.67 camera tensor error: 0.0130->0.0143
+[35m
+Tracking Frame  234
+[0m
+Re-rendering loss: 4176.67->3905.89 camera tensor error: 0.0115->0.0136
+[35m
+Tracking Frame  235
+[0m
+Re-rendering loss: 4303.98->4032.16 camera tensor error: 0.0143->0.0154
+[35m
+Tracking Frame  236
+[0m
+Re-rendering loss: 4531.92->4032.59 camera tensor error: 0.0150->0.0157
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  237
+[0m
+Re-rendering loss: 5003.64->4411.43 camera tensor error: 0.0165->0.0162
+[35m
+Tracking Frame  238
+[0m
+Re-rendering loss: 4311.39->3867.42 camera tensor error: 0.0166->0.0178
+[35m
+Tracking Frame  239
+[0m
+Re-rendering loss: 6311.42->3999.38 camera tensor error: 0.0182->0.0166
+[35m
+Tracking Frame  240
+[0m
+Re-rendering loss: 5434.61->4089.10 camera tensor error: 0.0135->0.0155
+[35m
+Tracking Frame  241
+[0m
+Re-rendering loss: 4716.56->3861.12 camera tensor error: 0.0209->0.0211
+[35m
+Tracking Frame  242
+[0m
+Re-rendering loss: 4427.49->4016.23 camera tensor error: 0.0244->0.0236
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  243
+[0m
+Re-rendering loss: 4882.48->4469.77 camera tensor error: 0.0237->0.0249
+[35m
+Tracking Frame  244
+[0m
+Re-rendering loss: 4746.01->4217.95 camera tensor error: 0.0274->0.0261
+[35m
+Tracking Frame  245
+[0m
+Re-rendering loss: 4950.90->3778.11 camera tensor error: 0.0285->0.0273
+[35m
+Tracking Frame  246
+[0m
+Re-rendering loss: 2964.52->2974.59 camera tensor error: 0.0294->0.0276
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  247
+[0m
+Re-rendering loss: 4959.64->3895.84 camera tensor error: 0.0312->0.0301
+[35m
+Tracking Frame  248
+[0m
+Re-rendering loss: 4435.56->4246.15 camera tensor error: 0.0307->0.0309
+[35m
+Tracking Frame  249
+[0m
+Re-rendering loss: 4597.57->4104.99 camera tensor error: 0.0304->0.0308
+[35m
+Tracking Frame  250
+[0m
+Saved rendering visualization of color/depth image at output/Demo/vis/00250_0000.jpg
+Saved rendering visualization of color/depth image at output/Demo/vis/00250_0025.jpg
+Re-rendering loss: 4501.85->4173.66 camera tensor error: 0.0262->0.0260
+[35m
+Tracking Frame  251
+[0m
+Re-rendering loss: 4100.97->4229.90 camera tensor error: 0.0260->0.0264
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  252
+[0m
+Re-rendering loss: 5286.94->4120.84 camera tensor error: 0.0257->0.0256
+[35m
+Tracking Frame  253
+[0m
+Re-rendering loss: 4477.03->4098.41 camera tensor error: 0.0253->0.0244
+[35m
+Tracking Frame  254
+[0m
+Re-rendering loss: 4214.80->4170.16 camera tensor error: 0.0230->0.0225
+[35m
+Tracking Frame  255
+[0m
+Re-rendering loss: 4074.38->4042.19 camera tensor error: 0.0213->0.0204
+[35m
+Tracking Frame  256
+[0m
+Re-rendering loss: 4117.10->4310.22 camera tensor error: 0.0192->0.0185
+[35m
+Tracking Frame  257
+[0m
+Re-rendering loss: 4482.02->4212.67 camera tensor error: 0.0164->0.0171
+[35m
+Tracking Frame  258
+[0m
+Re-rendering loss: 3936.27->4610.98 camera tensor error: 0.0146->0.0151
+[35m
+Tracking Frame  259
+[0m
+Re-rendering loss: 3842.12->3755.07 camera tensor error: 0.0105->0.0114
+[35m
+Tracking Frame  260
+[0m
+Re-rendering loss: 3400.97->3834.83 camera tensor error: 0.0103->0.0109
+[35m
+Tracking Frame  261
+[0m
+Re-rendering loss: 4210.08->3659.34 camera tensor error: 0.0092->0.0084
+[35m
+Tracking Frame  262
+[0m
+Re-rendering loss: 3560.52->3001.79 camera tensor error: 0.0076->0.0079
+[35m
+Tracking Frame  263
+[0m
+Re-rendering loss: 2907.61->2600.59 camera tensor error: 0.0091->0.0085
+[35m
+Tracking Frame  264
+[0m
+Re-rendering loss: 2207.64->2086.16 camera tensor error: 0.0100->0.0099
+[35m
+Tracking Frame  265
+[0m
+Re-rendering loss: 1971.02->1944.67 camera tensor error: 0.0108->0.0115
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  266
+[0m
+Re-rendering loss: 5276.47->5354.77 camera tensor error: 0.0109->0.0097
+[35m
+Tracking Frame  267
+[0m
+Re-rendering loss: 7232.48->5530.32 camera tensor error: 0.0116->0.0105
+[35m
+Tracking Frame  268
+[0m
+Re-rendering loss: 5637.15->5980.32 camera tensor error: 0.0086->0.0087
+[35m
+Tracking Frame  269
+[0m
+Re-rendering loss: 8217.27->7608.27 camera tensor error: 0.0073->0.0089
+[35m
+Tracking Frame  270
+[0m
+Re-rendering loss: 7361.13->7786.13 camera tensor error: 0.0086->0.0075
+[35m
+Tracking Frame  271
+[0m
+Re-rendering loss: 7697.51->7847.19 camera tensor error: 0.0082->0.0075
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  272
+[0m
+Re-rendering loss: 4893.29->4627.10 camera tensor error: 0.0058->0.0040
+[35m
+Tracking Frame  273
+[0m
+Re-rendering loss: 4602.15->4387.95 camera tensor error: 0.0074->0.0095
+[35m
+Tracking Frame  274
+[0m
+Re-rendering loss: 4666.72->4695.95 camera tensor error: 0.0167->0.0168
+[35m
+Tracking Frame  275
+[0m
+Re-rendering loss: 4856.49->4244.86 camera tensor error: 0.0250->0.0235
+[35m
+Tracking Frame  276
+[0m
+Re-rendering loss: 4819.06->4487.74 camera tensor error: 0.0309->0.0281
+[35m
+Tracking Frame  277
+[0m
+Re-rendering loss: 4710.19->4555.89 camera tensor error: 0.0362->0.0325
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  278
+[0m
+Re-rendering loss: 4684.78->4152.05 camera tensor error: 0.0405->0.0370
+[35m
+Tracking Frame  279
+[0m
+Re-rendering loss: 4083.52->4228.72 camera tensor error: 0.0422->0.0395
+[35m
+Tracking Frame  280
+[0m
+Re-rendering loss: 4022.87->4374.11 camera tensor error: 0.0465->0.0436
+[35m
+Tracking Frame  281
+[0m
+Re-rendering loss: 4963.93->4046.63 camera tensor error: 0.0433->0.0419
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  282
+[0m
+Re-rendering loss: 5070.49->5195.99 camera tensor error: 0.0446->0.0412
+[35m
+Tracking Frame  283
+[0m
+Re-rendering loss: 5634.51->5414.51 camera tensor error: 0.0456->0.0418
+[35m
+Tracking Frame  284
+[0m
+Re-rendering loss: 5113.22->5263.58 camera tensor error: 0.0459->0.0432
+[35m
+Tracking Frame  285
+[0m
+Re-rendering loss: 5314.42->5422.75 camera tensor error: 0.0455->0.0414
+[35m
+Tracking Frame  286
+[0m
+Re-rendering loss: 5665.71->5041.04 camera tensor error: 0.0436->0.0401
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  287
+[0m
+Re-rendering loss: 3968.21->4481.16 camera tensor error: 0.0430->0.0413
+[35m
+Tracking Frame  288
+[0m
+Re-rendering loss: 4274.65->3887.41 camera tensor error: 0.0428->0.0414
+[35m
+Tracking Frame  289
+[0m
+Re-rendering loss: 4307.75->3758.19 camera tensor error: 0.0415->0.0399
+[35m
+Tracking Frame  290
+[0m
+Re-rendering loss: 4038.37->3933.00 camera tensor error: 0.0429->0.0420
+[35m
+Tracking Frame  291
+[0m
+Re-rendering loss: 3590.07->3727.35 camera tensor error: 0.0420->0.0412
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  292
+[0m
+Re-rendering loss: 4224.40->4631.70 camera tensor error: 0.0407->0.0401
+[35m
+Tracking Frame  293
+[0m
+Re-rendering loss: 3976.48->4456.52 camera tensor error: 0.0396->0.0391
+[35m
+Tracking Frame  294
+[0m
+Re-rendering loss: 4629.92->4323.94 camera tensor error: 0.0385->0.0394
+[35m
+Tracking Frame  295
+[0m
+Re-rendering loss: 4495.47->5058.54 camera tensor error: 0.0391->0.0382
+[35m
+Tracking Frame  296
+[0m
+Re-rendering loss: 4133.00->4537.88 camera tensor error: 0.0373->0.0371
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  297
+[0m
+Re-rendering loss: 5050.12->4079.30 camera tensor error: 0.0373->0.0373
+[35m
+Tracking Frame  298
+[0m
+Re-rendering loss: 4210.17->4168.40 camera tensor error: 0.0375->0.0364
+[35m
+Tracking Frame  299
+[0m
+Re-rendering loss: 4157.31->4161.57 camera tensor error: 0.0373->0.0361
+[35m
+Tracking Frame  300
+[0m
+Saved rendering visualization of color/depth image at output/Demo/vis/00300_0000.jpg
+Saved rendering visualization of color/depth image at output/Demo/vis/00300_0025.jpg
+Re-rendering loss: 4399.90->4194.05 camera tensor error: 0.0359->0.0345
+[35m
+Tracking Frame  301
+[0m
+Re-rendering loss: 4374.00->4470.42 camera tensor error: 0.0346->0.0339
+[35m
+Tracking Frame  302
+[0m
+Re-rendering loss: 4694.70->4734.60 camera tensor error: 0.0331->0.0327
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  303
+[0m
+Re-rendering loss: 4139.59->4094.31 camera tensor error: 0.0313->0.0320
+[35m
+Tracking Frame  304
+[0m
+Re-rendering loss: 4405.79->4287.19 camera tensor error: 0.0314->0.0321
+[35m
+Tracking Frame  305
+[0m
+Re-rendering loss: 4899.43->4538.28 camera tensor error: 0.0327->0.0321
+[35m
+Tracking Frame  306
+[0m
+Re-rendering loss: 4243.76->4045.76 camera tensor error: 0.0323->0.0319
+[35m
+Tracking Frame  307
+[0m
+Re-rendering loss: 4571.44->4616.01 camera tensor error: 0.0397->0.0362
+[35m
+Tracking Frame  308
+[0m
+Re-rendering loss: 4484.15->4118.83 camera tensor error: 0.0337->0.0339
+[35m
+Tracking Frame  309
+[0m
+Re-rendering loss: 4608.53->4469.37 camera tensor error: 0.0318->0.0317
+[35m
+Tracking Frame  310
+[0m
+Re-rendering loss: 4202.70->4390.39 camera tensor error: 0.0282->0.0297
+[35m
+Tracking Frame  311
+[0m
+Re-rendering loss: 4696.70->4633.95 camera tensor error: 0.0278->0.0287
+[35m
+Tracking Frame  312
+[0m
+Re-rendering loss: 4779.52->4148.41 camera tensor error: 0.0272->0.0284
+[35m
+Tracking Frame  313
+[0m
+Re-rendering loss: 4814.61->4266.94 camera tensor error: 0.0303->0.0300
+[35m
+Tracking Frame  314
+[0m
+Re-rendering loss: 5401.66->4773.52 camera tensor error: 0.0321->0.0321
+[35m
+Tracking Frame  315
+[0m
+Re-rendering loss: 4977.37->4793.72 camera tensor error: 0.0356->0.0343
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  316
+[0m
+Re-rendering loss: 5728.61->4980.34 camera tensor error: 0.0371->0.0370
+[35m
+Tracking Frame  317
+[0m
+Re-rendering loss: 5968.86->5223.89 camera tensor error: 0.0393->0.0388
+[35m
+Tracking Frame  318
+[0m
+Re-rendering loss: 4612.45->4678.04 camera tensor error: 0.0409->0.0391
+[35m
+Tracking Frame  319
+[0m
+Re-rendering loss: 5013.63->4206.70 camera tensor error: 0.0399->0.0394
+[35m
+Tracking Frame  320
+[0m
+Re-rendering loss: 4882.16->4830.45 camera tensor error: 0.0427->0.0428
+[35m
+Tracking Frame  321
+[0m
+Re-rendering loss: 4560.81->4571.95 camera tensor error: 0.0436->0.0408
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  322
+[0m
+Re-rendering loss: 3969.07->3949.74 camera tensor error: 0.0398->0.0380
+[35m
+Tracking Frame  323
+[0m
+Re-rendering loss: 3764.40->3993.76 camera tensor error: 0.0370->0.0363
+[35m
+Tracking Frame  324
+[0m
+Re-rendering loss: 4647.68->3679.21 camera tensor error: 0.0348->0.0351
+[35m
+Tracking Frame  325
+[0m
+Re-rendering loss: 4379.55->4302.83 camera tensor error: 0.0333->0.0337
+[35m
+Tracking Frame  326
+[0m
+Re-rendering loss: 4479.58->4110.52 camera tensor error: 0.0320->0.0328
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  327
+[0m
+Re-rendering loss: 5470.25->4524.60 camera tensor error: 0.0321->0.0337
+[35m
+Tracking Frame  328
+[0m
+Re-rendering loss: 4738.55->4495.49 camera tensor error: 0.0364->0.0341
+[35m
+Tracking Frame  329
+[0m
+Re-rendering loss: 4590.43->4812.17 camera tensor error: 0.0344->0.0332
+[35m
+Tracking Frame  330
+[0m
+Re-rendering loss: 5171.72->4279.36 camera tensor error: 0.0338->0.0337
+[35m
+Tracking Frame  331
+[0m
+Re-rendering loss: 4799.09->4528.35 camera tensor error: 0.0326->0.0321
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  332
+[0m
+Re-rendering loss: 4146.39->3566.51 camera tensor error: 0.4220->0.4214
+[35m
+Tracking Frame  333
+[0m
+Re-rendering loss: 4707.96->4210.12 camera tensor error: 0.4246->0.4241
+[35m
+Tracking Frame  334
+[0m
+Re-rendering loss: 4142.02->4345.39 camera tensor error: 0.0299->0.0299
+[35m
+Tracking Frame  335
+[0m
+Re-rendering loss: 4643.16->4195.69 camera tensor error: 0.4274->0.4267
+[35m
+Tracking Frame  336
+[0m
+Re-rendering loss: 5218.42->4815.80 camera tensor error: 0.0295->0.0298
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  337
+[0m
+Re-rendering loss: 4981.43->4046.73 camera tensor error: 0.0271->0.0284
+[35m
+Tracking Frame  338
+[0m
+Re-rendering loss: 4593.25->4479.34 camera tensor error: 0.0287->0.0289
+[35m
+Tracking Frame  339
+[0m
+Re-rendering loss: 4574.55->4422.32 camera tensor error: 0.0292->0.0289
+[35m
+Tracking Frame  340
+[0m
+Re-rendering loss: 4177.41->4310.76 camera tensor error: 0.0281->0.0284
+[35m
+Tracking Frame  341
+[0m
+Re-rendering loss: 4213.84->4258.97 camera tensor error: 0.0238->0.0244
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  342
+[0m
+Re-rendering loss: 4809.84->4594.12 camera tensor error: 0.0241->0.0249
+[35m
+Tracking Frame  343
+[0m
+Re-rendering loss: 5303.20->4523.12 camera tensor error: 0.0243->0.0236
+[35m
+Tracking Frame  344
+[0m
+Re-rendering loss: 4560.03->4407.87 camera tensor error: 0.0243->0.0240
+[35m
+Tracking Frame  345
+[0m
+Re-rendering loss: 4214.24->4029.58 camera tensor error: 0.0248->0.0250
+[35m
+Tracking Frame  346
+[0m
+Re-rendering loss: 4569.45->3896.70 camera tensor error: 0.0246->0.0238
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  347
+[0m
+Re-rendering loss: 5360.09->4328.07 camera tensor error: 0.0239->0.0241
+[35m
+Tracking Frame  348
+[0m
+Re-rendering loss: 4297.78->4024.77 camera tensor error: 0.0276->0.0287
+[35m
+Tracking Frame  349
+[0m
+Re-rendering loss: 5041.53->3909.48 camera tensor error: 0.0297->0.0298
+[35m
+Tracking Frame  350
+[0m
+Saved rendering visualization of color/depth image at output/Demo/vis/00350_0000.jpg
+Saved rendering visualization of color/depth image at output/Demo/vis/00350_0025.jpg
+Re-rendering loss: 4492.06->4026.36 camera tensor error: 0.0361->0.0368
+[35m
+Tracking Frame  351
+[0m
+Re-rendering loss: 4272.00->3984.89 camera tensor error: 0.0347->0.0341
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  352
+[0m
+Re-rendering loss: 4819.84->4220.96 camera tensor error: 0.0360->0.0341
+[35m
+Tracking Frame  353
+[0m
+Re-rendering loss: 4197.63->4426.55 camera tensor error: 0.0349->0.0338
+[35m
+Tracking Frame  354
+[0m
+Re-rendering loss: 4036.77->4091.75 camera tensor error: 0.0336->0.0320
+[35m
+Tracking Frame  355
+[0m
+Re-rendering loss: 4054.16->4110.52 camera tensor error: 0.0310->0.0308
+[35m
+Tracking Frame  356
+[0m
+Re-rendering loss: 4294.47->3800.08 camera tensor error: 0.0331->0.0319
+[35m
+Tracking Frame  357
+[0m
+Re-rendering loss: 3977.10->3874.81 camera tensor error: 0.0293->0.0294
+[35m
+Tracking Frame  358
+[0m
+Re-rendering loss: 4139.04->4428.86 camera tensor error: 0.0267->0.0270
+[35m
+Tracking Frame  359
+[0m
+Re-rendering loss: 4514.64->4194.82 camera tensor error: 0.0239->0.0255
+[35m
+Tracking Frame  360
+[0m
+Re-rendering loss: 4996.35->4547.15 camera tensor error: 0.0255->0.0270
+[35m
+Tracking Frame  361
+[0m
+Re-rendering loss: 5237.74->4925.36 camera tensor error: 0.0223->0.0236
+[35m
+Tracking Frame  362
+[0m
+Re-rendering loss: 4870.48->4371.76 camera tensor error: 0.0218->0.0238
+[35m
+Tracking Frame  363
+[0m
+Re-rendering loss: 4869.25->4761.85 camera tensor error: 0.0228->0.0247
+[35m
+Tracking Frame  364
+[0m
+Re-rendering loss: 5160.02->4792.77 camera tensor error: 0.0250->0.0253
+[35m
+Tracking Frame  365
+[0m
+Re-rendering loss: 5063.39->5148.13 camera tensor error: 0.0233->0.0239
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  366
+[0m
+Re-rendering loss: 5673.06->3680.75 camera tensor error: 0.0250->0.0250
+[35m
+Tracking Frame  367
+[0m
+Re-rendering loss: 4805.64->3992.00 camera tensor error: 0.0280->0.0280
+[35m
+Tracking Frame  368
+[0m
+Re-rendering loss: 4748.90->3934.65 camera tensor error: 0.0299->0.0297
+[35m
+Tracking Frame  369
+[0m
+Re-rendering loss: 4133.00->4274.21 camera tensor error: 0.0320->0.0313
+[35m
+Tracking Frame  370
+[0m
+Re-rendering loss: 4722.58->4513.36 camera tensor error: 0.0363->0.0356
+[35m
+Tracking Frame  371
+[0m
+Re-rendering loss: 4737.22->4480.74 camera tensor error: 0.0369->0.0359
+[35m
+Tracking Frame  372
+[0m
+Re-rendering loss: 4243.18->4514.30 camera tensor error: 0.0365->0.0362
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  373
+[0m
+Re-rendering loss: 4979.10->4233.47 camera tensor error: 0.0379->0.0375
+[35m
+Tracking Frame  374
+[0m
+Re-rendering loss: 4979.11->4692.65 camera tensor error: 0.0352->0.0345
+[35m
+Tracking Frame  375
+[0m
+Re-rendering loss: 5140.31->4662.14 camera tensor error: 0.0331->0.0330
+[35m
+Tracking Frame  376
+[0m
+Re-rendering loss: 4929.88->4635.54 camera tensor error: 0.0305->0.0307
+[35m
+Tracking Frame  377
+[0m
+Re-rendering loss: 4662.49->4637.68 camera tensor error: 0.0288->0.0290
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  378
+[0m
+Re-rendering loss: 4597.62->4289.34 camera tensor error: 0.0279->0.0283
+[35m
+Tracking Frame  379
+[0m
+Re-rendering loss: 4636.90->4053.20 camera tensor error: 0.0283->0.0292
+[35m
+Tracking Frame  380
+[0m
+Re-rendering loss: 4631.02->4320.50 camera tensor error: 0.0274->0.0281
+[35m
+Tracking Frame  381
+[0m
+Re-rendering loss: 4225.61->4575.53 camera tensor error: 0.0291->0.0296
+[35m
+Tracking Frame  382
+[0m
+Re-rendering loss: 4648.70->4340.09 camera tensor error: 0.0294->0.0298
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  383
+[0m
+Re-rendering loss: 4782.96->4577.77 camera tensor error: 0.0309->0.0308
+[35m
+Tracking Frame  384
+[0m
+Re-rendering loss: 4546.11->4748.38 camera tensor error: 0.0331->0.0320
+[35m
+Tracking Frame  385
+[0m
+Re-rendering loss: 5685.57->4751.47 camera tensor error: 0.0344->0.0334
+[35m
+Tracking Frame  386
+[0m
+Re-rendering loss: 4874.56->4566.19 camera tensor error: 0.0329->0.0317
+[35m
+Tracking Frame  387
+[0m
+Re-rendering loss: 4825.04->4971.51 camera tensor error: 0.0304->0.0307
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  388
+[0m
+Re-rendering loss: 5132.35->4678.46 camera tensor error: 0.0279->0.0284
+[35m
+Tracking Frame  389
+[0m
+Re-rendering loss: 5238.15->4247.28 camera tensor error: 0.0267->0.0253
+[35m
+Tracking Frame  390
+[0m
+Re-rendering loss: 5048.56->4833.06 camera tensor error: 0.0245->0.0249
+[35m
+Tracking Frame  391
+[0m
+Re-rendering loss: 4800.83->4808.34 camera tensor error: 0.0256->0.0256
+[35m
+Tracking Frame  392
+[0m
+Re-rendering loss: 4627.03->4682.53 camera tensor error: 0.0220->0.0244
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  393
+[0m
+Re-rendering loss: 5820.89->5823.84 camera tensor error: 0.0209->0.0216
+[35m
+Tracking Frame  394
+[0m
+Re-rendering loss: 7134.93->5822.47 camera tensor error: 0.0187->0.0202
+[35m
+Tracking Frame  395
+[0m
+Re-rendering loss: 6365.75->5739.59 camera tensor error: 0.0185->0.0203
+[35m
+Tracking Frame  396
+[0m
+Re-rendering loss: 6412.43->5993.16 camera tensor error: 0.0169->0.0180
+[35m
+Tracking Frame  397
+[0m
+Re-rendering loss: 7113.17->6125.78 camera tensor error: 0.0135->0.0150
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  398
+[0m
+Re-rendering loss: 7714.41->5034.87 camera tensor error: 0.0160->0.0157
+[35m
+Tracking Frame  399
+[0m
+Re-rendering loss: 6604.57->5285.69 camera tensor error: 0.0170->0.0164
+[35m
+Tracking Frame  400
+[0m
+Saved rendering visualization of color/depth image at output/Demo/vis/00400_0000.jpg
+Saved rendering visualization of color/depth image at output/Demo/vis/00400_0025.jpg
+Re-rendering loss: 5482.50->5031.94 camera tensor error: 0.0184->0.0183
+[35m
+Tracking Frame  401
+[0m
+Re-rendering loss: 5277.58->5008.41 camera tensor error: 0.0184->0.0189
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  402
+[0m
+Re-rendering loss: 5413.14->4764.90 camera tensor error: 0.0216->0.0219
+[35m
+Tracking Frame  403
+[0m
+Re-rendering loss: 5148.53->4514.46 camera tensor error: 0.0241->0.0243
+[35m
+Tracking Frame  404
+[0m
+Re-rendering loss: 4800.21->4692.62 camera tensor error: 0.0254->0.0253
+[35m
+Tracking Frame  405
+[0m
+Re-rendering loss: 4798.92->4639.68 camera tensor error: 0.0259->0.0253
+[35m
+Tracking Frame  406
+[0m
+Re-rendering loss: 4437.55->4485.78 camera tensor error: 0.0276->0.0266
+[35m
+Tracking Frame  407
+[0m
+Re-rendering loss: 4604.66->4683.62 camera tensor error: 0.0274->0.0268
+[35m
+Tracking Frame  408
+[0m
+Re-rendering loss: 4673.05->4707.00 camera tensor error: 0.0275->0.0262
+[35m
+Tracking Frame  409
+[0m
+Re-rendering loss: 4861.52->5175.39 camera tensor error: 0.0271->0.0265
+[35m
+Tracking Frame  410
+[0m
+Re-rendering loss: 4566.42->5043.87 camera tensor error: 0.0288->0.0287
+[35m
+Tracking Frame  411
+[0m
+Re-rendering loss: 5189.39->4917.40 camera tensor error: 0.0270->0.0267
+[35m
+Tracking Frame  412
+[0m
+Re-rendering loss: 4820.81->5263.65 camera tensor error: 0.0260->0.0267
+[35m
+Tracking Frame  413
+[0m
+Re-rendering loss: 4777.25->4768.39 camera tensor error: 0.0241->0.0242
+[35m
+Tracking Frame  414
+[0m
+Re-rendering loss: 4629.11->5042.74 camera tensor error: 0.0223->0.0232
+[35m
+Tracking Frame  415
+[0m
+Re-rendering loss: 5079.91->4826.07 camera tensor error: 0.0210->0.0228
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  416
+[0m
+Re-rendering loss: 4516.31->4679.98 camera tensor error: 0.0219->0.0237
+[35m
+Tracking Frame  417
+[0m
+Re-rendering loss: 4749.64->4524.75 camera tensor error: 0.0207->0.0225
+[35m
+Tracking Frame  418
+[0m
+Re-rendering loss: 4675.97->4401.66 camera tensor error: 0.0194->0.0232
+[35m
+Tracking Frame  419
+[0m
+Re-rendering loss: 4947.67->4418.75 camera tensor error: 0.0227->0.0257
+[35m
+Tracking Frame  420
+[0m
+Re-rendering loss: 4516.99->4215.29 camera tensor error: 0.0278->0.0300
+[35m
+Tracking Frame  421
+[0m
+Re-rendering loss: 4468.60->4004.72 camera tensor error: 0.0326->0.0342
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  422
+[0m
+Re-rendering loss: 3461.47->3469.41 camera tensor error: 0.0384->0.0389
+[35m
+Tracking Frame  423
+[0m
+Re-rendering loss: 3516.69->3332.73 camera tensor error: 0.0419->0.0386
+[35m
+Tracking Frame  424
+[0m
+Re-rendering loss: 3606.64->3171.33 camera tensor error: 0.0431->0.0398
+[35m
+Tracking Frame  425
+[0m
+Re-rendering loss: 3544.88->3601.11 camera tensor error: 0.0366->0.0349
+[35m
+Tracking Frame  426
+[0m
+Re-rendering loss: 3620.97->3464.08 camera tensor error: 0.0302->0.0312
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  427
+[0m
+Re-rendering loss: 3137.51->3234.96 camera tensor error: 0.0313->0.0327
+[35m
+Tracking Frame  428
+[0m
+Re-rendering loss: 3259.95->2940.53 camera tensor error: 0.0289->0.0304
+[35m
+Tracking Frame  429
+[0m
+Re-rendering loss: 3130.13->3281.14 camera tensor error: 0.0262->0.0285
+[35m
+Tracking Frame  430
+[0m
+Re-rendering loss: 3401.89->3067.11 camera tensor error: 0.0232->0.0250
+[35m
+Tracking Frame  431
+[0m
+Re-rendering loss: 3216.16->3127.72 camera tensor error: 0.0312->0.0326
+[35m
+Tracking Frame  432
+[0m
+Re-rendering loss: 3426.07->2984.36 camera tensor error: 0.0325->0.0315
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  433
+[0m
+Re-rendering loss: 3317.53->2783.59 camera tensor error: 0.0323->0.0318
+[35m
+Tracking Frame  434
+[0m
+Re-rendering loss: 3357.46->3121.69 camera tensor error: 0.0325->0.0320
+[35m
+Tracking Frame  435
+[0m
+Re-rendering loss: 3227.65->3186.61 camera tensor error: 0.0342->0.0330
+[35m
+Tracking Frame  436
+[0m
+Re-rendering loss: 3374.41->3051.88 camera tensor error: 0.0334->0.0314[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  0
+[0m
+[32m
+Coarse Mapping Frame  5
+[0m
+[32m
+Coarse Mapping Frame  10
+[0m
+[32m
+Coarse Mapping Frame  15
+[0m
+[32m
+Coarse Mapping Frame  20
+[0m
+[32m
+Coarse Mapping Frame  25
+[0m
+[32m
+Coarse Mapping Frame  30
+[0m
+[32m
+Coarse Mapping Frame  35
+[0m
+[32m
+Coarse Mapping Frame  40
+[0m
+[32m
+Coarse Mapping Frame  45
+[0m
+[32m
+Coarse Mapping Frame  50
+[0m
+[32m
+Coarse Mapping Frame  55
+[0m
+[32m
+Coarse Mapping Frame  60
+[0m
+[32m
+Coarse Mapping Frame  65
+[0m
+[32m
+Coarse Mapping Frame  70
+[0m
+[32m
+Coarse Mapping Frame  75
+[0m
+[32m
+Coarse Mapping Frame  80
+[0m
+[32m
+Coarse Mapping Frame  85
+[0m
+[32m
+Coarse Mapping Frame  90
+[0m
+[32m
+Coarse Mapping Frame  95
+[0m
+[32m
+Coarse Mapping Frame  100
+[0m
+[32m
+Coarse Mapping Frame  105
+[0m
+[32m
+Coarse Mapping Frame  110
+[0m
+[32m
+Coarse Mapping Frame  115
+[0m
+[32m
+Coarse Mapping Frame  120
+[0m
+[32m
+Coarse Mapping Frame  125
+[0m
+[32m
+Coarse Mapping Frame  130
+[0m
+[32m
+Coarse Mapping Frame  135
+[0m
+[32m
+Coarse Mapping Frame  140
+[0m
+[32m
+Coarse Mapping Frame  145
+[0m
+[32m
+Coarse Mapping Frame  150
+[0m
+[32m
+Coarse Mapping Frame  155
+[0m
+[32m
+Coarse Mapping Frame  160
+[0m
+[32m
+Coarse Mapping Frame  165
+[0m
+[32m
+Coarse Mapping Frame  170
+[0m
+[32m
+Coarse Mapping Frame  175
+[0m
+[32m
+Coarse Mapping Frame  180
+[0m
+[32m
+Coarse Mapping Frame  185
+[0m
+[32m
+Coarse Mapping Frame  190
+[0m
+[32m
+Coarse Mapping Frame  195
+[0m
+[32m
+Coarse Mapping Frame  200
+[0m
+[32m
+Coarse Mapping Frame  205
+[0m
+[32m
+Coarse Mapping Frame  210
+[0m
+[32m
+Coarse Mapping Frame  215
+[0m
+[32m
+Coarse Mapping Frame  220
+[0m
+[32m
+Coarse Mapping Frame  225
+[0m
+[32m
+Coarse Mapping Frame  230
+[0m
+[32m
+Coarse Mapping Frame  235
+[0m
+[32m
+Coarse Mapping Frame  240
+[0m
+[32m
+Coarse Mapping Frame  245
+[0m
+[32m
+Coarse Mapping Frame  250
+[0m
+[32m
+Coarse Mapping Frame  255
+[0m
+[32m
+Coarse Mapping Frame  260
+[0m
+[32m
+Coarse Mapping Frame  265
+[0m
+[32m
+Coarse Mapping Frame  270
+[0m
+[32m
+Coarse Mapping Frame  275
+[0m
+[32m
+Coarse Mapping Frame  280
+[0m
+[32m
+Coarse Mapping Frame  285
+[0m
+[32m
+Coarse Mapping Frame  290
+[0m
+[32m
+Coarse Mapping Frame  295
+[0m
+[32m
+Coarse Mapping Frame  300
+[0m
+[32m
+Coarse Mapping Frame  305
+[0m
+[32m
+Coarse Mapping Frame  310
+[0m
+[32m
+Coarse Mapping Frame  315
+[0m
+[32m
+Coarse Mapping Frame  320
+[0m
+[32m
+Coarse Mapping Frame  325
+[0m
+[32m
+Coarse Mapping Frame  330
+[0m
+[32m
+Coarse Mapping Frame  335
+[0m
+[32m
+Coarse Mapping Frame  340
+[0m
+[32m
+Coarse Mapping Frame  345
+[0m
+[32m
+Coarse Mapping Frame  350
+[0m
+[32m
+Coarse Mapping Frame  355
+[0m
+[32m
+Coarse Mapping Frame  360
+[0m
+[32m
+Coarse Mapping Frame  365
+[0m
+[32m
+Coarse Mapping Frame  370
+[0m
+[32m
+Coarse Mapping Frame  375
+[0m
+[32m
+Coarse Mapping Frame  380
+[0m
+[32m
+Coarse Mapping Frame  385
+[0m
+[32m
+Coarse Mapping Frame  390
+[0m
+[32m
+Coarse Mapping Frame  395
+[0m
+[32m
+Coarse Mapping Frame  400
+[0m
+[32m
+Coarse Mapping Frame  405
+[0m
+[32m
+Coarse Mapping Frame  410
+[0m
+[32m
+Coarse Mapping Frame  415
+[0m
+[32m
+Coarse Mapping Frame  420
+[0m
+[32m
+Coarse Mapping Frame  425
+[0m
+[32m
+Coarse Mapping Frame  430
+[0m
+[32m
+Coarse Mapping Frame  435
+[0m
+[32m
+Coarse Mapping Frame  440
+[0m
+[32m
+Coarse Mapping Frame  445
+[0m
+[32m
+Coarse Mapping Frame  450
+[0m
+[32m
+Coarse Mapping Frame  455
+[0m
+[32m
+Coarse Mapping Frame  460
+[0m
+[32m
+Coarse Mapping Frame  465
+[0m
+[32m
+Coarse Mapping Frame  470
+[0m
+[32m
+Coarse Mapping Frame  475
+[0m
+[32m
+Coarse Mapping Frame  480
+[0m
+[32m
+Coarse Mapping Frame  485
+[0m
+[32m
+Coarse Mapping Frame  490
+[0m
+[32m
+Coarse Mapping Frame  495
+[0m
+[32m
+Coarse Mapping Frame  499
+[0m
+
+[35m
+Tracking Frame  437
+[0m
+Re-rendering loss: 3302.82->3157.04 camera tensor error: 0.0335->0.0327
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  438
+[0m
+Re-rendering loss: 3018.45->3055.74 camera tensor error: 0.0329->0.0335
+[35m
+Tracking Frame  439
+[0m
+Re-rendering loss: 3020.81->3031.28 camera tensor error: 0.0322->0.0325
+[35m
+Tracking Frame  440
+[0m
+Re-rendering loss: 3341.07->2851.59 camera tensor error: 0.0269->0.0285
+[35m
+Tracking Frame  441
+[0m
+Re-rendering loss: 2987.64->3055.82 camera tensor error: 0.0335->0.0329
+[35m
+Tracking Frame  442
+[0m
+Re-rendering loss: 2904.90->2831.61 camera tensor error: 0.0334->0.0324
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  443
+[0m
+Re-rendering loss: 3199.68->3005.89 camera tensor error: 0.0354->0.0360
+[35m
+Tracking Frame  444
+[0m
+Re-rendering loss: 3028.47->3052.56 camera tensor error: 0.0353->0.0352
+[35m
+Tracking Frame  445
+[0m
+Re-rendering loss: 2929.59->2707.61 camera tensor error: 0.0349->0.0345
+[35m
+Tracking Frame  446
+[0m
+Re-rendering loss: 3069.33->2989.14 camera tensor error: 0.0367->0.0364
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  447
+[0m
+Re-rendering loss: 3381.55->3013.34 camera tensor error: 0.0397->0.0383
+[35m
+Tracking Frame  448
+[0m
+Re-rendering loss: 3201.34->3054.78 camera tensor error: 0.0378->0.0366
+[35m
+Tracking Frame  449
+[0m
+Re-rendering loss: 3339.23->2994.67 camera tensor error: 0.0403->0.0388
+[35m
+Tracking Frame  450
+[0m
+Saved rendering visualization of color/depth image at output/Demo/vis/00450_0000.jpg
+Saved rendering visualization of color/depth image at output/Demo/vis/00450_0025.jpg
+Re-rendering loss: 3401.76->3211.39 camera tensor error: 0.0426->0.0420
+[35m
+Tracking Frame  451
+[0m
+Re-rendering loss: 3287.76->3286.86 camera tensor error: 0.0426->0.0412
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  452
+[0m
+Re-rendering loss: 3033.15->2852.74 camera tensor error: 0.0385->0.0380
+[35m
+Tracking Frame  453
+[0m
+Re-rendering loss: 3302.45->3060.41 camera tensor error: 0.0368->0.0379
+[35m
+Tracking Frame  454
+[0m
+Re-rendering loss: 3108.42->3068.48 camera tensor error: 0.0375->0.0386
+[35m
+Tracking Frame  455
+[0m
+Re-rendering loss: 2903.39->2978.10 camera tensor error: 0.0376->0.0385
+[35m
+Tracking Frame  456
+[0m
+Re-rendering loss: 2844.84->2968.72 camera tensor error: 0.0398->0.0407
+[35m
+Tracking Frame  457
+[0m
+Re-rendering loss: 2953.66->2879.10 camera tensor error: 0.0393->0.0397
+[35m
+Tracking Frame  458
+[0m
+Re-rendering loss: 2869.73->3070.04 camera tensor error: 0.0401->0.0398
+[35m
+Tracking Frame  459
+[0m
+Re-rendering loss: 2992.54->3132.97 camera tensor error: 0.0400->0.0390
+[35m
+Tracking Frame  460
+[0m
+Re-rendering loss: 3279.82->3035.14 camera tensor error: 0.0384->0.0376
+[35m
+Tracking Frame  461
+[0m
+Re-rendering loss: 3159.46->3237.96 camera tensor error: 0.0382->0.0377
+[35m
+Tracking Frame  462
+[0m
+Re-rendering loss: 3314.47->3161.02 camera tensor error: 0.0360->0.0356
+[35m
+Tracking Frame  463
+[0m
+Re-rendering loss: 3128.28->3109.97 camera tensor error: 0.0298->0.0299
+[35m
+Tracking Frame  464
+[0m
+Re-rendering loss: 3287.49->3195.95 camera tensor error: 0.0303->0.0299
+[35m
+Tracking Frame  465
+[0m
+Re-rendering loss: 3590.96->3256.02 camera tensor error: 0.0314->0.0311
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  466
+[0m
+Re-rendering loss: 3280.33->3378.54 camera tensor error: 0.0320->0.0317
+[35m
+Tracking Frame  467
+[0m
+Re-rendering loss: 4003.69->3337.78 camera tensor error: 0.0312->0.0316
+[35m
+Tracking Frame  468
+[0m
+Re-rendering loss: 3546.74->3282.67 camera tensor error: 0.0322->0.0293
+[35m
+Tracking Frame  469
+[0m
+Re-rendering loss: 3457.74->3489.32 camera tensor error: 0.0327->0.0308
+[35m
+Tracking Frame  470
+[0m
+Re-rendering loss: 3676.46->3410.83 camera tensor error: 0.0326->0.0316
+[35m
+Tracking Frame  471
+[0m
+Re-rendering loss: 3537.19->3477.38 camera tensor error: 0.0289->0.0292
+[35m
+Tracking Frame  472
+[0m
+Re-rendering loss: 3929.24->3599.25 camera tensor error: 0.0292->0.0288
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  473
+[0m
+Re-rendering loss: 4296.33->3942.41 camera tensor error: 0.0279->0.0289
+[35m
+Tracking Frame  474
+[0m
+Re-rendering loss: 4141.34->3982.44 camera tensor error: 0.0265->0.0271
+[35m
+Tracking Frame  475
+[0m
+Re-rendering loss: 4238.88->4238.74 camera tensor error: 0.0272->0.0287
+[35m
+Tracking Frame  476
+[0m
+Re-rendering loss: 3854.49->3968.10 camera tensor error: 0.0292->0.0295
+[35m
+Tracking Frame  477
+[0m
+Re-rendering loss: 4478.05->4184.23 camera tensor error: 0.0304->0.0298
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  478
+[0m
+Re-rendering loss: 4108.70->4162.42 camera tensor error: 0.0294->0.0296
+[35m
+Tracking Frame  479
+[0m
+Re-rendering loss: 3886.89->4155.45 camera tensor error: 0.0316->0.0313
+[35m
+Tracking Frame  480
+[0m
+Re-rendering loss: 4308.26->3969.59 camera tensor error: 0.0338->0.0333
+[35m
+Tracking Frame  481
+[0m
+Re-rendering loss: 4263.95->4299.93 camera tensor error: 0.0337->0.0337
+[35m
+Tracking Frame  482
+[0m
+Re-rendering loss: 4449.59->4307.54 camera tensor error: 0.0348->0.0339
+[35m
+Tracking Frame  483
+[0m
+Re-rendering loss: 4611.76->4339.41 camera tensor error: 0.0327->0.0322
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  484
+[0m
+Re-rendering loss: 4639.14->4262.28 camera tensor error: 0.0358->0.0355
+[35m
+Tracking Frame  485
+[0m
+Re-rendering loss: 4469.27->3945.81 camera tensor error: 0.0367->0.0352
+[35m
+Tracking Frame  486
+[0m
+Re-rendering loss: 4155.41->4072.71 camera tensor error: 0.0353->0.0337
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  487
+[0m
+Re-rendering loss: 3995.15->4176.83 camera tensor error: 0.0328->0.0308
+[35m
+Tracking Frame  488
+[0m
+Re-rendering loss: 3795.78->4121.06 camera tensor error: 0.0307->0.0303
+[35m
+Tracking Frame  489
+[0m
+Re-rendering loss: 4419.17->4216.52 camera tensor error: 0.0278->0.0273
+[35m
+Tracking Frame  490
+[0m
+Re-rendering loss: 4449.86->4119.62 camera tensor error: 0.0273->0.0278
+[35m
+Tracking Frame  491
+[0m
+Re-rendering loss: 4241.66->4060.21 camera tensor error: 0.0246->0.0255
+[35m
+Tracking Frame  492
+[0m
+Re-rendering loss: 3892.52->3925.45 camera tensor error: 0.0246->0.0250
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  493
+[0m
+Re-rendering loss: 4531.24->4178.02 camera tensor error: 0.0234->0.0217
+[35m
+Tracking Frame  494
+[0m
+Re-rendering loss: 4070.29->3769.21 camera tensor error: 0.0202->0.0203
+[35m
+Tracking Frame  495
+[0m
+Re-rendering loss: 4529.32->3773.88 camera tensor error: 0.0190->0.0187
+[35m
+Tracking Frame  496
+[0m
+Re-rendering loss: 3770.54->4082.43 camera tensor error: 0.0158->0.0172
+[35m
+Tracking Frame  497
+[0m
+Re-rendering loss: 4202.42->4009.27 camera tensor error: 0.0147->0.0154
+Tracking: update the parameters from mapping
+[35m
+Tracking Frame  498
+[0m
+Re-rendering loss: 4030.68->3771.05 camera tensor error: 0.0128->0.0146
+[35m
+Tracking Frame  499
+[0m
+Re-rendering loss: 3770.97->3379.88 camera tensor error: 0.0138->0.0154
+[32m
+Mapping Frame  0
+[0m
+[32m
+Mapping Frame  0
+[0m
+[32m
+Mapping Frame  0
+[0m
+[32m
+Mapping Frame  0
+[0m
+[32m
+Mapping Frame  0
+[0m
+[32m
+Mapping Frame  0
+[0m
+[32m
+Mapping Frame  0
+[0m
+[32m
+Mapping Frame  0
+[0m
+[32m
+Mapping Frame  0
+[0m
+[32m
+Mapping Frame  0
+[0m
+[32m
+Mapping Frame  0
+[0m
+[32m
+Mapping Frame  0
+[0m
+[32m
+Mapping Frame  0
+[0m
+[32m
+Mapping Frame  0
+[0m
+[32m
+Mapping Frame  0
+[0m
+[32m
+Mapping Frame  0
+[0m
+[32m
+Mapping Frame  5
+[0m
+[32m
+Mapping Frame  10
+[0m
+[32m
+Mapping Frame  15
+[0m
+[32m
+Mapping Frame  20
+[0m
+[32m
+Mapping Frame  25
+[0m
+[32m
+Mapping Frame  30
+[0m
+[32m
+Mapping Frame  35
+[0m
+[32m
+Mapping Frame  40
+[0m
+[32m
+Mapping Frame  45
+[0m
+[32m
+Mapping Frame  50
+[0m
+Saved mesh at output/Demo/mesh/00050_mesh.ply
+[32m
+Mapping Frame  65
+[0m
+[32m
+Mapping Frame  70
+[0m
+[32m
+Mapping Frame  75
+[0m
+[32m
+Mapping Frame  80
+[0m
+[32m
+Mapping Frame  85
+[0m
+[32m
+Mapping Frame  90
+[0m
+[32m
+Mapping Frame  95
+[0m
+[32m
+Mapping Frame  100
+[0m
+Saved mesh at output/Demo/mesh/00100_mesh.ply
+[32m
+Mapping Frame  115
+[0m
+[32m
+Mapping Frame  120
+[0m
+[32m
+Mapping Frame  125
+[0m
+[32m
+Mapping Frame  130
+[0m
+[32m
+Mapping Frame  135
+[0m
+[32m
+Mapping Frame  140
+[0m
+[32m
+Mapping Frame  145
+[0m
+[32m
+Mapping Frame  150
+[0m
+Saved mesh at output/Demo/mesh/00150_mesh.ply
+[32m
+Mapping Frame  165
+[0m
+[32m
+Mapping Frame  170
+[0m
+[32m
+Mapping Frame  175
+[0m
+[32m
+Mapping Frame  180
+[0m
+[32m
+Mapping Frame  185
+[0m
+[32m
+Mapping Frame  190
+[0m
+[32m
+Mapping Frame  195
+[0m
+[32m
+Mapping Frame  200
+[0m
+Saved mesh at output/Demo/mesh/00200_mesh.ply
+[32m
+Mapping Frame  215
+[0m
+[32m
+Mapping Frame  220
+[0m
+[32m
+Mapping Frame  225
+[0m
+[32m
+Mapping Frame  230
+[0m
+[32m
+Mapping Frame  235
+[0m
+[32m
+Mapping Frame  240
+[0m
+[32m
+Mapping Frame  245
+[0m
+[32m
+Mapping Frame  250
+[0m
+Saved mesh at output/Demo/mesh/00250_mesh.ply
+[32m
+Mapping Frame  265
+[0m
+[32m
+Mapping Frame  270
+[0m
+[32m
+Mapping Frame  275
+[0m
+[32m
+Mapping Frame  280
+[0m
+[32m
+Mapping Frame  285
+[0m
+[32m
+Mapping Frame  290
+[0m
+[32m
+Mapping Frame  295
+[0m
+[32m
+Mapping Frame  300
+[0m
+Saved mesh at output/Demo/mesh/00300_mesh.ply
+[32m
+Mapping Frame  315
+[0m
+[32m
+Mapping Frame  320
+[0m
+[32m
+Mapping Frame  325
+[0m
+[32m
+Mapping Frame  330
+[0m
+[32m
+Mapping Frame  335
+[0m
+[32m
+Mapping Frame  340
+[0m
+[32m
+Mapping Frame  345
+[0m
+[32m
+Mapping Frame  350
+[0m
+Saved mesh at output/Demo/mesh/00350_mesh.ply
+[32m
+Mapping Frame  365
+[0m
+[32m
+Mapping Frame  370
+[0m
+[32m
+Mapping Frame  375
+[0m
+[32m
+Mapping Frame  380
+[0m
+[32m
+Mapping Frame  385
+[0m
+[32m
+Mapping Frame  390
+[0m
+[32m
+Mapping Frame  395
+[0m
+[32m
+Mapping Frame  400
+[0m
+Saved mesh at output/Demo/mesh/00400_mesh.ply
+[32m
+Mapping Frame  415
+[0m
+[32m
+Mapping Frame  420
+[0m
+[32m
+Mapping Frame  425
+[0m
+[32m
+Mapping Frame  430
+[0m
+[32m
+Mapping Frame  435
+[0m
+[32m
+Mapping Frame  440
+[0m
+[32m
+Mapping Frame  445
+[0m
+[32m
+Mapping Frame  450
+[0m
+Saved mesh at output/Demo/mesh/00450_mesh.ply
+[32m
+Mapping Frame  465
+[0m
+[32m
+Mapping Frame  470
+[0m
+[32m
+Mapping Frame  475
+[0m
+[32m
+Mapping Frame  480
+[0m
+[32m
+Mapping Frame  485
+[0m
+[32m
+Mapping Frame  490
+[0m
+[32m
+Mapping Frame  495
+[0m
+[32m
+Mapping Frame  499
+[0m
+Saved checkpoints at output/Demo/ckpts/00499.tar
+Saved mesh at output/Demo/mesh/final_mesh.ply

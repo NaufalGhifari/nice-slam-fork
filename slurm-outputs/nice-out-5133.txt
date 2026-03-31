@@ -1,0 +1,4 @@
+INFO: The output folder is output/Demo
+INFO: The GT, generated and residual depth/color images can be found under output/Demo/vis/
+INFO: The mesh can be found under output/Demo/mesh/
+INFO: The checkpoint can be found under output/Demo/ckpt/
